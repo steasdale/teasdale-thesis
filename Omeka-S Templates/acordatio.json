@@ -1,0 +1,1155 @@
+{
+    "o:label": "Acordatio",
+    "o:resource_template_property": [
+        {
+            "o:alternate_label": "has contract title",
+            "o:alternate_comment": "This property associates a contract with an exact title supplied by the notary who enacted the contract.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has contract title",
+                    "o:alternate_comment": "This property associates a contract with an exact title supplied by the notary who enacted the contract.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "1",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P102_has_title",
+            "label": "has title"
+        },
+        {
+            "o:alternate_label": "has title",
+            "o:alternate_comment": "This property associates a contract with a title used to identify the contract within the database.",
+            "o:is_required": true,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has title",
+                    "o:alternate_comment": "This property associates a contract with a title used to identify the contract within the database.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "1",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "1",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P1_is_identified_by",
+            "label": "is identified by"
+        },
+        {
+            "o:alternate_label": "was enacted by",
+            "o:alternate_comment": "This property connects a contract with the notary responsible for enacting the contract.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "was enacted by",
+                    "o:alternate_comment": "This property connects a contract with the notary responsible for enacting the contract.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P92i_was_brought_into_existence_by",
+            "label": "was brought into existence by"
+        },
+        {
+            "o:alternate_label": "has date of enactment",
+            "o:alternate_comment": "This property assocaties a contract with the date of its enactment. A contract might also have addenda composed on later dates and in this case the property associates these dates as well. ",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has date of enactment",
+                    "o:alternate_comment": "This property assocaties a contract with the date of its enactment. A contract might also have addenda composed on later dates and in this case the property associates these dates as well. ",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "numeric:timestamp",
+                            "label": "Timestamp"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "numeric:timestamp",
+                    "label": "Timestamp"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://schema.org/",
+            "vocabulary_label": "Schema.org",
+            "local_name": "dateCreated",
+            "label": "dateCreated"
+        },
+        {
+            "o:alternate_label": "has description",
+            "o:alternate_comment": "This property associates a contract with a brief description of the contract created for the database.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has description",
+                    "o:alternate_comment": "This property associates a contract with a brief description of the contract created for the database.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P190_has_symbolic_content",
+            "label": "has symbolic content"
+        },
+        {
+            "o:alternate_label": "is part of archival item",
+            "o:alternate_comment": "This property connects a contract with the archival item housing the contract.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "is part of archival item",
+                    "o:alternate_comment": "This property connects a contract with the archival item housing the contract.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "1",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P106i_forms_part_of",
+            "label": "forms part of"
+        },
+        {
+            "o:alternate_label": "has named party to agreement",
+            "o:alternate_comment": "This property connects an acordatio contract with a person named as a party to agreement in the contract.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has named party to agreement",
+                    "o:alternate_comment": "This property connects an acordatio contract with a person named as a party to agreement in the contract.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P23_transferred_title_from",
+            "label": "transferred title from"
+        },
+        {
+            "o:alternate_label": "has named item related to agreement",
+            "o:alternate_comment": "The property connects an acordatio contract with an object of agreement, that is, the thing related to the contractual agreement.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has named item related to agreement",
+                    "o:alternate_comment": "The property connects an acordatio contract with an object of agreement, that is, the thing related to the contractual agreement.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P30_transferred_custody_of",
+            "label": "transferred custody of"
+        },
+        {
+            "o:alternate_label": "has named procurator",
+            "o:alternate_comment": "This property connects a contract with a person named as a procurator in the contract.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has named procurator",
+                    "o:alternate_comment": "This property connects a contract with a person named as a procurator in the contract.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://schema.org/",
+            "vocabulary_label": "Schema.org",
+            "local_name": "agent",
+            "label": "agent"
+        },
+        {
+            "o:alternate_label": "has named guarantor",
+            "o:alternate_comment": "This property connects a contract with a person named as a guarantor in the contract.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has named guarantor",
+                    "o:alternate_comment": "This property connects a contract with a person named as a guarantor in the contract.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://schema.org/",
+            "vocabulary_label": "Schema.org",
+            "local_name": "sponsor",
+            "label": "sponsor"
+        },
+        {
+            "o:alternate_label": "has additional named participant",
+            "o:alternate_comment": "This property connects a contract with a person named as an additional participant (either directly or indirectly) in the contract and who is not connected by any other properties of the contract.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has additional named participant",
+                    "o:alternate_comment": "This property connects a contract with a person named as an additional participant (either directly or indirectly) in the contract and who is not connected by any other properties of the contract.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P11_had_participant",
+            "label": "had participant"
+        },
+        {
+            "o:alternate_label": "has reference to place",
+            "o:alternate_comment": "This property connects a contract with a geographical placed mentioned in the contract (apart from the place of enactment).",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has reference to place",
+                    "o:alternate_comment": "This property connects a contract with a geographical placed mentioned in the contract (apart from the place of enactment).",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://schema.org/",
+            "vocabulary_label": "Schema.org",
+            "local_name": "mentions",
+            "label": "mentions"
+        },
+        {
+            "o:alternate_label": "has reference to contract",
+            "o:alternate_comment": "This property connects a contract with another contract referred to by the notary.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has reference to contract",
+                    "o:alternate_comment": "This property connects a contract with another contract referred to by the notary.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P67_refers_to",
+            "label": "refers to"
+        },
+        {
+            "o:alternate_label": "has place of enactement",
+            "o:alternate_comment": "This property connects a contract with a geographical location where the contract was enacted.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has place of enactement",
+                    "o:alternate_comment": "This property connects a contract with a geographical location where the contract was enacted.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        },
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                },
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P7_took_place_at",
+            "label": "took place at"
+        },
+        {
+            "o:alternate_label": "has named witness",
+            "o:alternate_comment": "This property connects a contract with a person named as a witness in the contract.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has named witness",
+                    "o:alternate_comment": "This property connects a contract with a person named as a witness in the contract.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P12_occurred_in_the_presence_of",
+            "label": "occurred in the presence of"
+        },
+        {
+            "o:alternate_label": "has rights holder",
+            "o:alternate_comment": "This property associates a contract with a textual description of the entity who is the rights holder of the contract.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has rights holder",
+                    "o:alternate_comment": "This property associates a contract with a textual description of the entity who is the rights holder of the contract.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P105_right_held_by",
+            "label": "right held by"
+        },
+        {
+            "o:alternate_label": "has exact match",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has exact match",
+                    "o:alternate_comment": "",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "uri",
+                            "label": "URI"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "uri",
+                    "label": "URI"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.w3.org/2004/02/skos/core#",
+            "vocabulary_label": "Simple Knowledge Organization System",
+            "local_name": "exactMatch",
+            "label": "has exact match"
+        },
+        {
+            "o:alternate_label": "has representation",
+            "o:alternate_comment": "This property associates a contract with a media item that represents the contract.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has representation",
+                    "o:alternate_comment": "This property associates a contract with a media item that represents the contract.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:media",
+                            "label": "Media"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:media",
+                    "label": "Media"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P138i_has_representation",
+            "label": "has representation"
+        },
+        {
+            "o:alternate_label": "has unique identifier",
+            "o:alternate_comment": "This property connects a contract with a unique identifier for the contract (generally an UUID-4 identifier).",
+            "o:is_required": true,
+            "o:is_private": true,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has unique identifier",
+                    "o:alternate_comment": "This property connects a contract with a unique identifier for the contract (generally an UUID-4 identifier).",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "1",
+                    "o:is_private": "1",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "1",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P48_has_preferred_identifier",
+            "label": "has preferred identifier"
+        },
+        {
+            "o:alternate_label": "has note",
+            "o:alternate_comment": "This property connects a contract with an informal note related to the contract which is intended for internal use only.",
+            "o:is_required": false,
+            "o:is_private": true,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has note",
+                    "o:alternate_comment": "This property connects a contract with an informal note related to the contract which is intended for internal use only.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "1",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P3_has_note",
+            "label": "has note"
+        }
+    ],
+    "o:resource_class": {
+        "vocabulary_namespace_uri": "http://www.cidoc-crm.org/",
+        "vocabulary_label": "CIDOC-CRM 7.1.1",
+        "local_name": "E31_Document",
+        "label": "Document"
+    },
+    "o:title_property": {
+        "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+        "vocabulary_label": "CIDOC-CRM 7.1.2",
+        "local_name": "P1_is_identified_by",
+        "label": "is identified by"
+    },
+    "o:description_property": {
+        "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+        "vocabulary_label": "CIDOC-CRM 7.1.2",
+        "local_name": "P190_has_symbolic_content",
+        "label": "has symbolic content"
+    },
+    "o:data": {
+        "use_for_resources": [
+            "items"
+        ],
+        "require_resource_class": "0",
+        "closed_class_list": "0",
+        "closed_property_list": "0",
+        "quick_new_resource": "yes",
+        "autocomplete": "no",
+        "value_languages": [],
+        "default_language": "",
+        "no_language": "0",
+        "value_suggest_keep_original_label": "0",
+        "value_suggest_require_uri": "0",
+        "automatic_values": "",
+        "autofillers": [],
+        "value_annotations_template": "",
+        "groups": [],
+        "subject_values_order": [],
+        "settings": "",
+        "suggested_resource_class_ids": {
+            "cidoc-crm:E31_Document": 139
+        }
+    }
+}
