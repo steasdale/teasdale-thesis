@@ -469,16 +469,16 @@
                     "value_annotations_template": "",
                     "data_types": [
                         {
-                            "name": "numeric:timestamp",
-                            "label": "Timestamp"
+                            "name": "literal",
+                            "label": "Text"
                         }
                     ]
                 }
             ],
             "data_types": [
                 {
-                    "name": "numeric:timestamp",
-                    "label": "Timestamp"
+                    "name": "literal",
+                    "label": "Text"
                 }
             ],
             "vocabulary_namespace_uri": "http://purl.org/spar/fabio/",
