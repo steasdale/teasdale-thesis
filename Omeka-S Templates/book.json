@@ -1,0 +1,962 @@
+{
+    "o:label": "Book",
+    "o:resource_template_property": [
+        {
+            "o:alternate_label": "has title",
+            "o:alternate_comment": "This property associates a resource item with a title used to identify that resource within the database.",
+            "o:is_required": true,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has title",
+                    "o:alternate_comment": "This property associates a resource item with a title used to identify that resource within the database.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "1",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "1",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P1_is_identified_by",
+            "label": "is identified by"
+        },
+        {
+            "o:alternate_label": "has author",
+            "o:alternate_comment": "This property connects a resource item with an actor responsible for creating that item.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has author",
+                    "o:alternate_comment": "This property connects a resource item with an actor responsible for creating that item.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/",
+            "vocabulary_label": "CIDOC-CRM 7.1.1",
+            "local_name": "P92i_was_brought_into_existence_by",
+            "label": "was brought into existence by"
+        },
+        {
+            "o:alternate_label": "has abstract",
+            "o:alternate_comment": "This property associates a resource item with a brief description of the resource item created for the database.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has abstract",
+                    "o:alternate_comment": "This property associates a resource item with a brief description of the resource item created for the database.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P190_has_symbolic_content",
+            "label": "has symbolic content"
+        },
+        {
+            "o:alternate_label": "is part of series",
+            "o:alternate_comment": "This property connects a resource item with another resource of which it forms a part.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "is part of series",
+                    "o:alternate_comment": "This property connects a resource item with another resource of which it forms a part.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P106i_forms_part_of",
+            "label": "forms part of"
+        },
+        {
+            "o:alternate_label": "has series number",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has series number",
+                    "o:alternate_comment": "",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "numeric:integer",
+                            "label": "Integer"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "numeric:integer",
+                    "label": "Integer"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://purl.org/spar/fabio/",
+            "vocabulary_label": "FaBiO",
+            "local_name": "hasSequenceIdentifier",
+            "label": "has number"
+        },
+        {
+            "o:alternate_label": "has edition",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has edition",
+                    "o:alternate_comment": "",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://purl.org/ontology/bibo/",
+            "vocabulary_label": "Bibliographic Ontology",
+            "local_name": "edition",
+            "label": "edition"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "",
+                    "o:alternate_comment": "",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "1",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://purl.org/spar/fabio/",
+            "vocabulary_label": "FaBiO",
+            "local_name": "hasPlaceOfPublication",
+            "label": "has place of publication"
+        },
+        {
+            "o:alternate_label": "has publisher",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has publisher",
+                    "o:alternate_comment": "",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "1",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": []
+                }
+            ],
+            "data_types": [],
+            "vocabulary_namespace_uri": "http://purl.org/dc/terms/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "publisher",
+            "label": "Publisher"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": "has year of publication",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "",
+                    "o:alternate_comment": "has year of publication",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "numeric:timestamp",
+                            "label": "Timestamp"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "numeric:timestamp",
+                    "label": "Timestamp"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://purl.org/spar/fabio/",
+            "vocabulary_label": "FaBiO",
+            "local_name": "hasPublicationYear",
+            "label": "has publication year"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "",
+                    "o:alternate_comment": "",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://purl.org/spar/fabio/",
+            "vocabulary_label": "FaBiO",
+            "local_name": "hasPageCount",
+            "label": "has page count"
+        },
+        {
+            "o:alternate_label": "has language of publication",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has language of publication",
+                    "o:alternate_comment": "",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "valuesuggest:lc:iso6391",
+                            "label": "LC: ISO639-1 Languages"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "valuesuggest:lc:iso6391",
+                    "label": "LC: ISO639-1 Languages"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://purl.org/dc/terms/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "language",
+            "label": "Language"
+        },
+        {
+            "o:alternate_label": "has ISBN",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has ISBN",
+                    "o:alternate_comment": "",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "1",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "valuesuggest:isbn:id",
+                            "label": "ISBN: International standard book number (by id)"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "valuesuggest:isbn:id",
+                    "label": "ISBN: International standard book number (by id)"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://purl.org/ontology/bibo/",
+            "vocabulary_label": "Bibliographic Ontology",
+            "local_name": "isbn",
+            "label": "isbn"
+        },
+        {
+            "o:alternate_label": "has DOI",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has DOI",
+                    "o:alternate_comment": "",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "1",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "valuesuggest:doi:works",
+                            "label": "DOI: Works"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "valuesuggest:doi:works",
+                    "label": "DOI: Works"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://purl.org/ontology/bibo/",
+            "vocabulary_label": "Bibliographic Ontology",
+            "local_name": "doi",
+            "label": "doi"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "",
+                    "o:alternate_comment": "",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://purl.org/spar/fabio/",
+            "vocabulary_label": "FaBiO",
+            "local_name": "hasShortTitle",
+            "label": "has short title"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "",
+                    "o:alternate_comment": "",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": []
+                }
+            ],
+            "data_types": [],
+            "vocabulary_namespace_uri": "http://www.w3.org/2004/02/skos/core#",
+            "vocabulary_label": "Simple Knowledge Organization System",
+            "local_name": "exactMatch",
+            "label": "has exact match"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": true,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "",
+                    "o:alternate_comment": "",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "1",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/",
+            "vocabulary_label": "CIDOC-CRM 7.1.1",
+            "local_name": "P3_has_note",
+            "label": "has note"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": true,
+            "o:is_private": true,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "",
+                    "o:alternate_comment": "",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "1",
+                    "o:is_private": "1",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://purl.org/dc/terms/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "identifier",
+            "label": "Identifier"
+        }
+    ],
+    "o:resource_class": {
+        "vocabulary_namespace_uri": "http://purl.org/ontology/bibo/",
+        "vocabulary_label": "Bibliographic Ontology",
+        "local_name": "Book",
+        "label": "Book"
+    },
+    "o:title_property": {
+        "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+        "vocabulary_label": "CIDOC-CRM 7.1.2",
+        "local_name": "P1_is_identified_by",
+        "label": "is identified by"
+    },
+    "o:description_property": {
+        "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+        "vocabulary_label": "CIDOC-CRM 7.1.2",
+        "local_name": "P190_has_symbolic_content",
+        "label": "has symbolic content"
+    },
+    "o:data": {
+        "use_for_resources": [
+            "items"
+        ],
+        "require_resource_class": "0",
+        "closed_class_list": "0",
+        "closed_property_list": "0",
+        "quick_new_resource": "yes",
+        "autocomplete": "no",
+        "value_languages": [],
+        "default_language": "",
+        "no_language": "0",
+        "value_suggest_keep_original_label": "0",
+        "value_suggest_require_uri": "0",
+        "automatic_values": "",
+        "autofillers": [],
+        "value_annotations_template": "",
+        "groups": [],
+        "subject_values_order": [],
+        "settings": "",
+        "suggested_resource_class_ids": {
+            "bibo:Book": 40
+        }
+    }
+}
