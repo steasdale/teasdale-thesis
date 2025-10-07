@@ -132,7 +132,7 @@ The ubiquity of the market economy of slavery impacted all aspects of Genoese li
 
  Table 1: The attestation of enslaved and  formerly enslaved persons in notarial contracts  
 
-| Contract type                   | name(s)                             | forms of Attestation                                         |                                                              |
+| Contract type                   | Name(s)                             | Forms of attestation                                         |                                                              |
 | ------------------------------- | ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                 |                                     | enslaved                                                     | formerly enslaved                                            |
 | testament                       | *testamentum*                       | as a *legatum* (a bequest) or an *item* of inheritance       | as a *legatum* (a bequest) or an *item* of inheritance       |
@@ -352,5 +352,6 @@ Notarial contracts can offer unique windows into the social fabric of the late m
 [[87\]](#_ftnref87) ASGe, Notai antichi 716, Bartolomeo Risso, filza 2, series II, nr. 353 (formerly nr. 348), dated 1452-12-22: “locatio cum franchixia sclave”; ASGe, Notai antichi 896, Tommaso Duracino, filza 9, nr. 409, dated 1466-08-01: “locatio sclave et franchixia”; ASGe, Notai antichi 904, Tommaso Duracino, filza 17, nr. 199, dated 1474-03-19: “venditio sclave et franchixia ad tempus”; ASGe, Notai antichi 905, Tommaso Duracino, filza 18, nr. 601 (formerly nr. 502), dated 1475-09-15: “venditio sclave ad tempus et franchixia.” These contracts will be studied in greater detail in Chapter 14.
 
 [[88\]](#_ftnref88) ASGe, Notai antichi 956, Giovanni Battista Parisola, filza 6, series I, nr. 126, dated 1486-05-19.
+
 
 [[89\]](#_ftnref89) The term “desiccated accountancy” is from Clive James and his critique of the *Annales* school of history. See *Cultural Amnesia: Necessary Memories from History and the Arts* (New York: W. W. Norton and Company, 2007), p. 58.
