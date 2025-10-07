@@ -1,4 +1,4 @@
-#Chapter 1   Slavery and social networks: a new look at the late medieval Genoese Mediterranean
+# Chapter 1   Slavery and social networks: a new look at the late medieval Genoese Mediterranean
 
 In an American Historical Review forum titled “looking at slavery from broader perspectives,” renowned historian David Brion Davis expressed concern that, in the historiography of early Atlantic slavery, scant attention had been paid “to the Italian merchants and bankers who provided the capital, technology, and sailors that enabled the Portuguese to establish an African… commercial empire.”[[1\]](#_ftn1) This study represents a partial response to Davis. It will reconstruct the socioeconomic networks instantiated during the late medieval Mediterranean slaving enterprise. These networks emerged from the interactions between merchants and the enslaved from various Mediterranean locales during the fourteenth and fifteenth centuries. The subsequent expansion of these socioeconomic networks along the coast of western Africa during the fifteenth and early sixteenth century were crucial in shaping the early Atlantic slaving enterprise. This study will focus on the social and commercial networks developed and refined by the activities of Genoese merchant families in the late medieval market economy of slavery from 1348 to 1528.
 
@@ -165,3 +165,4 @@ The notarial contracts used for this study represented and reflected the voices 
 
 
 [[41\]](#_ftnref41) Again, see http://www.genoesemerchantnetworks.com/omeka-s/s/main/page/welcome.
+
