@@ -1,4 +1,4 @@
-Chapter 1   Slavery and social networks: a new look at the late medieval Genoese Mediterranean
+#Chapter 1   Slavery and social networks: a new look at the late medieval Genoese Mediterranean
 
 In an American Historical Review forum titled “looking at slavery from broader perspectives,” renowned historian David Brion Davis expressed concern that, in the historiography of early Atlantic slavery, scant attention had been paid “to the Italian merchants and bankers who provided the capital, technology, and sailors that enabled the Portuguese to establish an African… commercial empire.”[[1\]](#_ftn1) This study represents a partial response to Davis. It will reconstruct the socioeconomic networks instantiated during the late medieval Mediterranean slaving enterprise. These networks emerged from the interactions between merchants and the enslaved from various Mediterranean locales during the fourteenth and fifteenth centuries. The subsequent expansion of these socioeconomic networks along the coast of western Africa during the fifteenth and early sixteenth century were crucial in shaping the early Atlantic slaving enterprise. This study will focus on the social and commercial networks developed and refined by the activities of Genoese merchant families in the late medieval market economy of slavery from 1348 to 1528.
 
@@ -162,5 +162,6 @@ The notarial contracts used for this study represented and reflected the voices 
 [[39\]](#_ftnref39) On the loss of notarial acts in the bombardment of 1684 by Louis XIV of France, see Marco Bologna, “1684 maggio 17. Le perdite dell’archivio del Collegio dei notai di Genova,” *Atti della società ligure di storia patria* 2ª serie, 24 (1984), pp. 267–90; Ibid., “Il bombardamento di Genova del 1684: i danni all’archivio notarile ed il suo ricupero,” *Archivum* 42 (1996), pp. 215–33; Carlo Carosi, “Les bombes de Louis XIV et les vers dans les archives notariales,” *Le gnomon. Revue international d’histoire du notariat* 177 (2013), pp. 31–33. The surviving fragments have been collected into the *Notai igntoti* fond at the *Archivio di stato di Genova* and partially cataloged in Marco Bologna, ed., *Notai ignoti. Frammenti notarili medioevali. Inventario* (Roma: Ministero per i beni culturali e ambientali, 1988).
 
 [[40\]](#_ftnref40) Toby Green, *The Rise of the Trans-Atlantic Slave Trade in Western Africa, 1300–1589* (Cambridge: Cambridge University Press, 2012), pp. 7–8.
+
 
 [[41\]](#_ftnref41) Again, see http://www.genoesemerchantnetworks.com/omeka-s/s/main/page/welcome.
