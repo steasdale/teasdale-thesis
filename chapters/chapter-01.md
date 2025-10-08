@@ -74,7 +74,7 @@ The third section consists of six chapters that explore the networks of enslavem
 
 The appendices concluding this study provide transcriptions of ninety-eight notarial documents relating to the market economy of slavery, a specification of the ontology developed for the *Networks of slaveholding and enslavement in the Genoese Mediterranean World (ca. 1348–1528)* online database,[[41\]](#_ftn41) along with a bibliography and index.
 
-***
+**
 
 The notarial contracts used for this study will provide crucial insights into the socioeconomic networks of slaveholders and the enslaved of the late medieval Genoese Mediterranean. The identification and analysis of slaveholders will illustrate the omnipresence of slavery across the social fabric of late medieval Genoa. It will show how enslaved persons laboured in elite households and artisanal workshops, within the city of Genoa and the villages of the Ligurian countryside, and were held in captivity and exchanged by both men and women. The analysis of these notarial contracts will illustrate how slaveholders developed novel financial instruments to continuously accumulate capital across the entirety of the life cycle of slavery. These instruments were crucial to the consolidation of early capitalism and served to inextricably entwine the historical phenomena of capitalism and slavery. The analysis of the socioeconomic networks of slaveholders and the enslaved will similarly demonstrate the vital role of slavery in the expansion and consolidation of late medieval commercial networks.
 
@@ -161,5 +161,6 @@ The notarial contracts used for this study represented and reflected the voices 
 [[39\]](#_ftnref39) On the loss of notarial acts in the bombardment of 1684 by Louis XIV of France, see Marco Bologna, “1684 maggio 17. Le perdite dell’archivio del Collegio dei notai di Genova,” *Atti della società ligure di storia patria* 2ª serie, 24 (1984), pp. 267–90; Ibid., “Il bombardamento di Genova del 1684: i danni all’archivio notarile ed il suo ricupero,” *Archivum* 42 (1996), pp. 215–33; Carlo Carosi, “Les bombes de Louis XIV et les vers dans les archives notariales,” *Le gnomon. Revue international d’histoire du notariat* 177 (2013), pp. 31–33. The surviving fragments have been collected into the *Notai igntoti* fond at the *Archivio di stato di Genova* and partially cataloged in Marco Bologna, ed., *Notai ignoti. Frammenti notarili medioevali. Inventario* (Roma: Ministero per i beni culturali e ambientali, 1988).
 
 [[40\]](#_ftnref40) Toby Green, *The Rise of the Trans-Atlantic Slave Trade in Western Africa, 1300–1589* (Cambridge: Cambridge University Press, 2012), pp. 7–8.
+
 
 [[41\]](#_ftnref41) Again, see http://www.genoesemerchantnetworks.com/omeka-s/s/main/page/welcome.
