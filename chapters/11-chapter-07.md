@@ -193,7 +193,7 @@ The standard story of insurance is that it was an invention of Italian merchants
 
 [[38\]](#_ftnref38) ASGe, San Giorgio 111, Liber diversorum negotiorum spectabilis Officii dominorum Protectorum comperarum Sancti Georgii MCCCCLIII, fol. 8r, entry dated 1453-08-08.
 
-[[39\]](#_ftnref39) ASGe, San Giorgio 223, Filza di Caffa, nr. 3, item dated 1454-09-11, where “a fortuna quod quedam nostri burgensis Iohannis de Nigro pupis a copario Caffam navigabat...”; see Amadeo Vigna, ed. *Codice diplomatico delle colonie Tauro-Liguri durante la signoria dell'ufficio di S. Giorgio (1453–75). Tomo I* *(*Genova: Società ligure di storia patria, 1868), doc. 33, pp. 102–12.
+[[39\]](#_ftnref39) ASGe, San Giorgio 223, Filza di Caffa, nr. 3, item dated 1454-09-11, where “a fortuna quod quedam nostri burgensis Iohannis de Nigro pupis a copario Caffam navigabat...”; see Amadeo Vigna, ed. *Codice diplomatico delle colonie Tauro-Liguri durante la signoria dell'ufficio di S. Giorgio (1453–75). Tomo I* (Genova: Società ligure di storia patria, 1868), doc. 33, pp. 102–12.
 
 [[40\]](#_ftnref40) ASGe, Archivio segreto 553, Diversorum cancellarie 58, anni 1453–1455, fols. 49v–72r. See Antonia Borlandi, “Ragioni politica e ragioni di famiglia nel dogato di Pietro Fregoso,” *La storia dei genovesi* 4 (1983), pp. 396–7.
 
@@ -256,5 +256,6 @@ The standard story of insurance is that it was an invention of Italian merchants
 [[69\]](#_ftnref69) Herlihy and Klapisch-Zuber, *Tuscans and Their Families*, pp. 276–7.
 
 [[70\]](#_ftnref70) See Melis, *Origini e sviluppi delle assicurazioni in Italia*, pp. 272–9. Antonio used a single notary—Branca Bagnara—for almost all his insurance contracts. These acts are collected in ASGe, Notai antichi 666, Branca Bagnara, filza 19, amongst other insurance acts. Only 1½ percent of Antonio’s insurance agreements were life insurance contracts for enslaved women.
+
 
 [[71\]](#_ftnref71) Giovanni Cassandro, “Note storiche sul contratto di assicurazione,” *Assicurazioni: rivista di diritto, economia e finanza delle assicurazioni private* 26, no. 1 (1959), p. 16.
