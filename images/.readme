@@ -1,1 +1,3 @@
 This folder contains the images used in the thesis in SVG and JPG formats.
+
+There is no image 45 because this number was accidentally skipped when compiling the PDF for the thesis (i.e. the Figure number jumps from 44 to 46).
