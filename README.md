@@ -1,5 +1,5 @@
 # gemenet
 
-This respository contains the data for my Genoese Merchant Networks in the Mediterranean, ca. 1348–1528 project, available at:
+This respository contains data, text, and images for my thesis:
 
-Version 1.0 was the data used in my thesis.
+The official PDF version of my thesis is available from the University of Toronto at the following link:
