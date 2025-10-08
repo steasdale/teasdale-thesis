@@ -142,7 +142,7 @@ In this chapter, the social topography of slavery in late medieval Genoa was elu
 
 [[2\]](#_ftnref2) ASGe, San Giorgio 33744, Cabella sclavorum MCCCCLX. Sixteen soldi is 0.8 lire.
 
-[[3\]](#_ftnref3) Domenico Gioffrè, *Il mercato degli schiavi a Genova nel secolo XV* (Genova: Fratelli Bozzi, 1971), pp. 67–73; Charles Verlinden, *L’esclavage dans l’Europe médiévale.* *Tome II: Italie, colonies Italiennes du Levant, Levant Latin* (Brügge: De Tempel, 1955), pp. 497–511.
+[[3\]](#_ftnref3) Domenico Gioffrè, *Il mercato degli schiavi a Genova nel secolo XV* (Genova: Fratelli Bozzi, 1971), pp. 67–73; Charles Verlinden, *L’esclavage dans l’Europe médiévale. Tome II: Italie, colonies Italiennes du Levant, Levant Latin* (Brügge: De Tempel, 1955), pp. 497–511.
 
 [[4\]](#_ftnref4) This reflects the general ignorance of insurance contracts in academic studies of late medieval Mediterranean social and commercial worlds, which seem to take a back seat to sales contracts, family documents, and partnerships. For example, Domenico Gioffrè only considers insurance contracts to calculate the average monetary value of the enslaved; see *Il mercato degli schiavi a Genova nel secolo XV*, pp. 125–8.
 
@@ -244,3 +244,4 @@ In this chapter, the social topography of slavery in late medieval Genoa was elu
 
 
 [[53\]](#_ftnref53) Tudela Villalonga, “Les dones dels mercaders genovesos i mallorquins a la primera meitat del segle XIV,” p. 230.
+
