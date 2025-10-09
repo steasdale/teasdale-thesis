@@ -1,0 +1,8 @@
+personID,node_person,name_normalized,edge_birthplace,placeID,place_name
+12b13176-0d70-4fea-8ac9-d142db866871,P1,Matteo Lomellini,—bornIn–>,fe6ddf40-82f5-4399-89e9-f4841bec066e,Chiavari
+38acc985-bc51-4f09-9d86-96e3be56b2e4,P2514,Ambrogio Doria,—bornIn–>,334b5b10-5180-4099-a88d-70b9e33cdb48,Milano
+840cdcc5-042a-4767-9aee-b47e3c15414c,P2531,Luca Spinola,—bornIn–>,334b5b10-5180-4099-a88d-70b9e33cdb48,Milano
+d7e89938-d357-4c36-81ef-abc2021d1d84,P36,Carlo Lomellini,—bornIn–>,334b5b10-5180-4099-a88d-70b9e33cdb48,Milano
+37f1c1ed-2524-468d-9a40-56578e035e02,P553,Giannotto Lomellini,—bornIn–>,334b5b10-5180-4099-a88d-70b9e33cdb48,Milano
+b69abc3a-5c09-482b-9c26-a822fe3665b7,P751,Battista Lomellini,—bornIn–>,334b5b10-5180-4099-a88d-70b9e33cdb48,Milano
+217ebc48-9198-4745-b7a6-8216be1a298a,P956,Pietro Cademartori,—bornIn–>,334b5b10-5180-4099-a88d-70b9e33cdb48,Milano

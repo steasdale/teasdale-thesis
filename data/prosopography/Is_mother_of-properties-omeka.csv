@@ -1,0 +1,1174 @@
+cidoc-crm:P108_has_produced,target_UUID,name-target,edge,omeka-srcID,cidoc-crm:P149_is_identified_by,name-source
+24507,0005ee4c-c97e-4b56-97aa-5486c3903649,Giovanni Battista Lomellini,<--IsMotherOf--,25543,b6c53182-f1e5-4917-9f70-dfd0d9b0fd74,Grimalda Salvago
+23885,001dbea9-28d2-4476-9dbd-b610903c6550,Agostino Lomellini,<--IsMotherOf--,23395,3f38c4cd-f982-42a1-bbd2-6f511c2e228c,Gironima Doria
+24318,0035ff4e-f592-4f26-bba3-b58a7f4c0091,Filippo Lomellini,<--IsMotherOf--,24054,9c6505a0-696b-415b-ae4b-c12f19fd3a69,Battina Lomellini
+24328,00d60a8e-d7d7-4115-9a93-c1947cc6b069,Francesco Lomellini,<--IsMotherOf--,25389,9474248e-143c-4c3e-ba98-ebcf5949e09a,Isabella Negrone
+24963,00eaa705-19fd-482b-8333-b66392c69a9c,Paolo Orazio Lomellini,<--IsMotherOf--,25293,19a2f7b3-6ad6-4bf4-8f7d-0beb7f1fabf3,Caterina de Marini
+24192,00f58443-7d4d-42a4-8028-087af08771d7,Caterina Lomellini,<--IsMotherOf--,23190,37e47d1a-72be-42be-bd0f-ca2373011fbb,Battina Cattaneo
+24210,011c29c7-ab11-4a57-ab99-787ce510460f,Ceva Lomellini,<--IsMotherOf--,23656,5aba82b9-b3fc-423a-9179-fb52995e7a30,Battina Grimaldi Oliva
+24563,01351aa5-d6cd-485d-b0d5-b7f5b780d7b9,Gironima Lomellini,<--IsMotherOf--,25091,e307f82d-46b1-42a4-9cda-ba6c767d10da,Sobrana Lomellini
+23892,014ae0aa-db22-4ef2-b76f-91dc7778be3f,Agostino Lomellini,<--IsMotherOf--,23655,ccfc3b66-feb7-447a-9645-df6bec7e0100,Bartolommea Grimaldi Cebà
+24131,015408dc-f458-4dc3-8d2e-604d9c602d77,Bonifacio Lomellini,<--IsMotherOf--,23049,8a80ccc0-6449-4e4c-93ad-b1dfa53d5ce5,Tommasina —
+23905,015dbdd5-2c35-4d1f-808f-b07a4c08c3fa,Aloana Lomellini,<--IsMotherOf--,23818,dadc983a-ee66-4b7c-a5aa-9cbf9379d551,Caterina Lecavello
+24356,01690a3a-ebbc-4b96-87c1-2d3c81273c7b,Francisca Lomellini,<--IsMotherOf--,23994,8d49c1e6-14f0-41c7-92b9-4d03f8d4aef1,Argenta Lomellini
+24980,0178a1f9-ad16-4c49-a337-98ce06dbb2cd,Pellegra Lomellini,<--IsMotherOf--,25742,2572e1d7-8a62-4ccd-a0c3-2e6f4e508c1b,Moisetta Spinola
+24964,017af6dd-31d2-485c-8e89-4ef1b3c72f12,Paolo Vincenzo Lomellini,<--IsMotherOf--,23296,8d93d158-cc18-42e2-bd36-b1350414fb18,Novella Cicala
+24981,01987bdc-6426-4d3c-bfa7-59b9572a5687,Pellegra Lomellini,<--IsMotherOf--,23253,fa7dd5dc-71fe-4ff2-b300-063ce827afa6,Francisca Centurione Cantelli
+24009,01a7e2fa-2c2f-4ab1-8cff-5c018c9feda3,Baldassare Lomellini,<--IsMotherOf--,23395,3f38c4cd-f982-42a1-bbd2-6f511c2e228c,Gironima Doria
+24033,02372753-c52f-466a-a660-457175fd4407,Bartolommeo Lomellini,<--IsMotherOf--,23220,861ed6af-8c57-4d74-af3a-676cbfeeb5b5,Maria Cattaneo
+24390,023b6d84-0f0f-435b-8a4c-02233b81d8fd,Gaspare Lomellini,<--IsMotherOf--,24324,7b081d85-01ec-413f-ba73-1af0e1721335,Franca Lomellini
+24977,024a2bc4-5064-458b-ba04-b31606700d12,Pellegra Lomellini,<--IsMotherOf--,23559,78655b92-5326-487f-ad2b-e8614fb6def8,Isabella Gentile Pignoli
+24167,028825e6-fc74-4c5c-853a-5693d573330e,Carlo Lomellini,<--IsMotherOf--,24731,1d9ddf68-2987-4dfb-a419-1f1a442c3d64,Luigia Lomellini
+24266,02b5abfe-cb81-43a9-be1b-c1e12f0d6a00,Domenico Lomellini,<--IsMotherOf--,23849,605db703-8ccd-42b1-aa80-10cdda923d7b,Luchina Lercari
+24959,02c3c0b4-49c1-49b4-a76e-e83dfff3c7f9,Paolo Lomellini,<--IsMotherOf--,23570,59d1b1b1-a6fb-4588-a0a9-12262cc27273,Maria Gentile
+24181,02dd3751-7470-4ee1-98bd-f36f3e87ab37,Caterina Lomellini,<--IsMotherOf--,23042,f447cf9f-24c6-410f-9b9f-0b65661e0af8,Porzia —
+23983,03727ca4-22bd-4776-99f8-1f808e91e94a,Apollonia Lomellini,<--IsMotherOf--,25293,19a2f7b3-6ad6-4bf4-8f7d-0beb7f1fabf3,Caterina de Marini
+23945,039500c1-943a-4095-b467-38d29bc27196,Angelo Lomellini,<--IsMotherOf--,23049,8a80ccc0-6449-4e4c-93ad-b1dfa53d5ce5,Tommasina —
+24178,03b4ca0f-beee-408e-aa54-e1d9cba8b1ee,Caterina Lomellini,<--IsMotherOf--,23532,7db4cd87-c299-40dc-903b-14fa4f138fe1,Argenta Gentile
+24159,03d744b8-b7f5-4dd2-8b49-31ab5d0115ad,Carlo Lomellini,<--IsMotherOf--,23042,f447cf9f-24c6-410f-9b9f-0b65661e0af8,Porzia —
+24362,040f15f2-ae77-4307-b98b-3196a675831c,Francisca Lomellini,<--IsMotherOf--,23643,53372738-2155-4f11-972f-ade73df97eba,Andreola Grimaldi
+24437,04d3d15a-acfa-4a92-a7b8-d7dd014ca47a,Ginevra Lomellini,<--IsMotherOf--,25275,0a755ced-7e64-425a-b868-662cb5dd0780,Selvagia de Mari
+24055,04dcbcea-4684-4bd3-ac2e-383ad0c59a49,Battina Lomellini,<--IsMotherOf--,23115,18125c40-754a-44ef-a29e-a98fa60d7e79,Maddalena Brignole
+24543,04f09eed-bc9d-4be0-b61d-88f71dcbbcf6,Girolamo Lomellini,<--IsMotherOf--,24775,abf07818-22b2-4d57-a13f-076430f3595c,Maria Lomellini
+24921,0505cc84-011d-4bba-aae1-1fb54951919b,Odoardo Lomellini,<--IsMotherOf--,25095,79ede81f-f6fe-44dc-8c99-3ea2df501dfb,Sobrana Lomellini
+24533,055cc023-52f9-4475-a967-cc3e36e11746,Giovanni Lomellini,<--IsMotherOf--,23606,f4ad5a40-509b-4598-bcaf-30dce9cc86a1,Limbania Giustiniani
+25118,055f7e7b-9b34-46e6-876b-a87f05d4a003,Stefano Maria Lomellini,<--IsMotherOf--,25399,faffebcb-1164-43b0-8c1b-4943cfc1e81b,Maria Odone
+25746,0565e26c-5e2e-41d0-ae69-e03f5f843635,Niccoletta Spinola,<--IsMotherOf--,24178,03b4ca0f-beee-408e-aa54-e1d9cba8b1ee,Caterina Lomellini
+24526,057d01e8-2462-45df-8980-cb1d3f5eea3c,Giovanni Lomellini,<--IsMotherOf--,25552,fb844a13-42fb-43c8-ad5b-e45026972d4e,Selvagia Salvago
+24939,05ab32b3-aac9-4695-85eb-80e828a596ff,Orietta Lomellini,<--IsMotherOf--,23819,03c9c85d-62bb-4b6b-8091-451975bf96f2,Isolta Lecavello
+24331,05dcd030-d73d-4410-af23-6af75f5e6394,Francesco Lomellini,<--IsMotherOf--,23004,db535961-f6a8-444e-91c0-51ea9b8d8e91,Caterina —
+24659,05f541cd-5e61-415e-8166-8bae6d59a44e,Leonardo Lomellini,<--IsMotherOf--,24145,d3f903cf-abbe-4282-959f-941569f55dbf,Brigida Lomellini
+25866,05fc39bd-6649-423b-8198-2bc897c53472,Luca Vivaldi,<--IsMotherOf--,25207,2d5888c2-c949-485f-8725-2382f77b8cea,Violante Lomellini
+24239,06430686-72d4-45e8-b8fa-6933edea3651,Cristiano Lomellini,<--IsMotherOf--,23413,dcad4e0b-e660-45a7-82ac-02d274890b69,Maria Doria
+24113,06482f68-c620-41c5-aaf8-dcaf6770be58,Bertolino Lomellini,<--IsMotherOf--,23046,3871ad32-4e6c-492e-a1fd-a85d6d747343,Simona —
+24613,0657f939-188f-4093-8f11-ba65b7c6deb1,Gregorio Lomellini,<--IsMotherOf--,25246,dc0f85f0-3c95-401a-84dc-29e7fae5ec25,Orietta Malocello
+24660,06cc4236-169b-4f9e-851e-8b092a0a63a4,Leonardo Lomellini,<--IsMotherOf--,24806,fb04420b-cbaf-411b-9eb1-55ce9428b3c9,Maria Lomellini
+24634,073a0452-d0e3-4564-b994-ab08bb46fd8b,Isabella Lomellini,<--IsMotherOf--,23038,71ef6995-d100-4c94-a69d-77ab81f4e12b,Orietta —
+24815,07403880-8cb0-4fc8-b080-732c67b3f1ae,Maria Lomellini,<--IsMotherOf--,23834,8eb1cf8b-3941-4dc4-9746-67aa54e99ced,Franca Lercari
+24433,0756c613-a49d-4fee-a70a-4265d97da1ef,Giannotto Lomellini,<--IsMotherOf--,23152,4c553284-883a-4899-b7e8-2f5a1599f61e,Eliana Campofregoso
+24682,0778c911-941e-4b4c-88d7-11111e7e9fd2,Lorenzina Lomellini,<--IsMotherOf--,23855,b8a9881d-664d-4318-8a33-a8ed4087a5ef,Selvagia Lercari
+23177,07a92e65-4222-432b-84d9-0daea191322f,Camilla de Cassina,<--IsMotherOf--,25495,9b8f1d38-0c49-4b67-b1c6-f11c72ded7cd,Isabella Platamona Ventimiglia
+24076,07c9e670-0ec0-40c3-bf73-644dfc1a5cd3,Battista Lomellini,<--IsMotherOf--,23987,5a7d8ea1-2a3c-43ca-8f70-7661cabfb119,Argenta Lomellini
+23150,07f148bc-5081-461f-bf45-21c9fc60c096,Pelotta Camilla q. Domenico,<--IsMotherOf--,23002,27958a94-436f-4d83-bd94-793985fb620a,Bigotta —
+24042,08006309-e45d-4d53-863b-3f706de92d8f,Battina Lomellini,<--IsMotherOf--,24080,1cd8b9ea-99cd-4a23-a6d0-1fc7bb4e089b,Benedetta Lomellini
+24810,084450bb-8f90-4a3e-9c0f-fce8fe02dd5e,Maria Lomellini,<--IsMotherOf--,23623,738ecfb9-e519-46b8-b743-8c1daa109c85,Giovanna Grillo
+24685,086fc794-1101-4c1c-91a9-1edcc929e1e0,Lorenzo Lomellini,<--IsMotherOf--,25877,d022ca07-d7e4-4852-a4f1-9b2cabaf96d3,Peretta Vivaldi
+23993,087b4932-fed1-4ef7-9500-0c8182edd1cc,Argenta Lomellini,<--IsMotherOf--,23572,5d75d31d-096b-4750-bad3-b82396765e4b,Maria Gentile Pignoli
+24351,08b8e936-fe43-4dd0-bcdc-4a3cb7fbf8a2,Francesco Lomellini,<--IsMotherOf--,23584,7627597b-e671-4c63-bb39-7c481fffdf07,Selvagia Gentile Ricci
+23988,08bf3d64-1895-4d7e-9fa0-2267e69fcb34,Argenta Lomellini,<--IsMotherOf--,23280,ec732cd8-dfa3-4de0-9a05-366c78eb5717,Pietra de Ciba
+23912,09066f8e-a1b4-42da-95b2-82ccfe3835db,Ambrogio Lomellini,<--IsMotherOf--,23395,3f38c4cd-f982-42a1-bbd2-6f511c2e228c,Gironima Doria
+24107,095f80c6-0a6d-438a-8305-2043b83a8638,Bernardo Lomellini,<--IsMotherOf--,24050,25042291-c1e5-4952-84d6-ff8c9368173c,Battina Lomellini
+23929,09de5ca1-a5af-460f-83c8-638d26eb5553,Andreola Lomellini,<--IsMotherOf--,25275,0a755ced-7e64-425a-b868-662cb5dd0780,Selvagia de Mari
+24951,09f71018-1a7a-4694-b847-2d0b409d8ffb,Ottobono Lomellini,<--IsMotherOf--,25828,a6934968-a47e-45ac-b0b9-908eb4343b27,Orietta Usodimare
+25082,0a0aa159-0880-4992-af71-c58685ab50fd,Simone Lomellini,<--IsMotherOf--,25742,2572e1d7-8a62-4ccd-a0c3-2e6f4e508c1b,Moisetta Spinola
+24665,0a81a30b-401f-47f7-9994-3b8bec3cbdec,Leonello Lomellini,<--IsMotherOf--,23049,8a80ccc0-6449-4e4c-93ad-b1dfa53d5ce5,Tommasina —
+23906,0aa4ef3b-5395-4f4a-8fb2-8647be354cf2,Ambaldo Lomellini,<--IsMotherOf--,23038,71ef6995-d100-4c94-a69d-77ab81f4e12b,Orietta —
+25150,0abb72e3-1f30-40a9-8524-be66889b4683,Teresa Lomellini,<--IsMotherOf--,24150,cb9ccc03-acf2-4f24-9beb-8218f459d3fd,Camilla Lomellini
+24751,0ac258db-7013-474c-a04f-a087fe269ce1,Marchione Lomellini,<--IsMotherOf--,23021,14c007a3-fd30-40cc-b1dd-174dd9d7aef8,Isabella —
+23958,0aecad0d-df15-4cdd-acd5-478f7b85c1dd,Ansaldo Lomellini,<--IsMotherOf--,23364,b2b96b56-fbbe-4f0c-9e6d-7324c9df69df,Chiara Doria
+24182,0aee8b82-a17d-4b94-815f-dd2765f01fd8,Caterina Lomellini,<--IsMotherOf--,23700,ecfde847-a327-48ab-bc8e-cd982b22fd80,Nicoletta Grimaldi Cebà
+24546,0af0667b-7877-4176-abba-0d28e83bb3c3,Girolamo Lomellini,<--IsMotherOf--,24571,4f7a073b-5551-4233-9f01-5ddd8991e3f2,Gironima Lomellini
+24750,0b0d213c-6bb2-4c46-a633-4fd6765ef39f,Marc' Antonio Lomellini,<--IsMotherOf--,23026,028bd9c3-794a-4594-b344-cb62e48e1da4,Lucia —
+25138,0b2eae5d-246e-4429-885c-ceed669da5fd,Teodora Lomellini,<--IsMotherOf--,23554,cbff4beb-4d5f-4935-8be8-9e4d6ae116dc,Giorgietta Gentile
+23955,0b30d2bd-18fb-485a-b422-c080bae218c2,Ansaldo Lomellini,<--IsMotherOf--,23023,feb86792-edd8-4feb-8d5f-d5a42fcdfbae,Lanza —
+24737,0b94436b-6637-4a8c-a5f7-14fa70e0b82e,Maddalena Lomellini,<--IsMotherOf--,23536,c757d7d0-cbef-4815-944f-8e5f2ec18897,Benedetta Gentile
+24361,0bb08964-971b-473a-864a-583d8911c4b0,Francisca Lomellini,<--IsMotherOf--,25639,7f19ec94-bcd1-49c0-8451-1b69d267559a,Chiara Spinola
+24803,0be1c613-1083-4773-877b-886d414f3169,Maria Lomellini,<--IsMotherOf--,23177,07a92e65-4222-432b-84d9-0daea191322f,Camilla de Cassina
+24272,0c146368-b653-4938-a564-8aeadcc8921d,Dorotea Lomellini,<--IsMotherOf--,25171,21459f0f-b43f-41fd-bb26-650fd891e6ad,Tommasina Lomellini
+24112,0c9e09c9-a5fb-47bd-8c13-c0e085c093d1,Bernardo Lomellini,<--IsMotherOf--,25486,5e8f45a4-4143-4438-a5a2-fb1e2ebe4ca3,Maria Pinelli
+25158,0d1b8ba8-8963-4870-89f3-b91fbfb5c9bd,Tobia Lomellini,<--IsMotherOf--,23017,30d92a95-c6d1-4c56-876c-7c0cc1dd6b44,Gioffredina —
+24222,0df583aa-ff3e-42fe-b282-1143e78fe959,Clarisia Lomellini,<--IsMotherOf--,23435,a424676d-970d-496c-b294-9bb4d8b8e46c,Pietra Doria
+24363,0e2f1760-9085-44ba-bbba-67d13e735355,Francisca Lomellini,<--IsMotherOf--,25582,6d0607ed-42bd-4440-902d-9d2d653d8ad8,Bianca de Signori di Lagneto
+25019,0f70c654-339a-4f88-8b9c-cf585fc41abe,Pietra Lomellini,<--IsMotherOf--,23304,969c4523-88f7-4160-9643-5848b108d29b,Bianca Ciconia
+25577,10c0f47f-825e-4eb0-893a-58b916fe588e,Eliana Serra,<--IsMotherOf--,25407,08247da3-5311-4bd0-9d9a-9be30b6ffd19,Caterina Oltramarini
+25069,10e5cf89-1432-48f9-b00e-6c3fb6a33d97,Selvagio Lomellini,<--IsMotherOf--,25532,3e632c3a-3c81-44b3-89c1-0c5d0da82806,Beatrice Salvago Nepitelli
+24909,10f1b416-cc15-4653-91ad-67f6b2c890b4,Novella Lomellini,<--IsMotherOf--,23610,62db3d53-61a8-440b-9acc-8758eaa0396e,Valerana Giustiniani Longhi
+24465,1118dd67-9f19-4f77-9f90-fb938a7d7e06,Giovanna Lomellini,<--IsMotherOf--,24054,9c6505a0-696b-415b-ae4b-c12f19fd3a69,Battina Lomellini
+24398,11222489-245f-439c-a271-e0fd028015c9,Gherardo Lomellini,<--IsMotherOf--,23044,1bed15d1-5660-49e9-871c-a6eede394725,Selvagia —
+24115,126f91a4-621c-4d56-97c3-c530f0096b7f,Bianca Lomellini,<--IsMotherOf--,23016,2e85f439-99d1-4d3a-b90b-e518519ee836,Francisca —
+24808,127b95b8-d082-4051-8205-d66895bddeaf,Maria Lomellini,<--IsMotherOf--,23376,476323a6-8a14-49c1-88c1-56cb453d4487,Francisca Doria
+24839,12b13176-0d70-4fea-8ac9-d142db866871,Matteo Lomellini,<--IsMotherOf--,23435,a424676d-970d-496c-b294-9bb4d8b8e46c,Pietra Doria
+24772,1368576c-70cb-4e14-aace-9e6c4ed52ef0,Maria Lomellini,<--IsMotherOf--,24284,a4a637bd-b46a-43ac-82e5-3a7eedb8bc72,Eliana Lomellini
+24130,136d86e1-330a-405e-91a9-ea7305ed7851,Bonifacio Lomellini,<--IsMotherOf--,24574,1e792ee6-6c78-4a1d-8313-d81bacd4ec9f,Gironima Lomellini
+25065,138b4504-2a49-4080-9290-0e1d797fee81,Selvagia Lomellini,<--IsMotherOf--,23593,84c419fc-be6c-40bf-8cc7-b7e1acb8a06d,Caterina Ghizolfi
+24948,13bcf022-97c0-40dd-b006-6479403f4219,Ottobono Lomellini,<--IsMotherOf--,23029,e78beb8e-6df8-4f09-888d-a952742368a8,Margaritta —
+24105,13cccaef-54e5-4201-a3db-dcd32c6cb2c4,Bernardina Lomellini,<--IsMotherOf--,23620,5d13c7bf-cf75-4f89-81c4-46cb1e927c04,Francisca Grillo
+24302,13d8f601-0486-4522-96cd-c10275546538,Faustina Lomellini,<--IsMotherOf--,23659,2552b322-281d-41e7-ac4c-211f4c9b58c0,Bianca Grimaldi Oliva
+25047,13df1438-10dc-417e-91c6-0574783e7b9e,Raffaele Lomellini,<--IsMotherOf--,23206,c70cf9f9-a298-49b3-804b-a4e96939b64c,Gironima Cattaneo Mallone
+24269,140dd6e4-9ccb-4582-bae6-2813b2473be6,Domenico Lomellini,<--IsMotherOf--,25493,b6697345-3915-49f2-9c5a-bd4a38aa7db3,Violante Pinelli
+24536,1428cf89-9a3b-471d-9d18-597907209fd9,Giovanni Lomellini,<--IsMotherOf--,23694,cad802cb-6d3d-4393-abdd-1bfae94155f8,Luigia Grimaldi
+24198,1434e461-90e5-4555-b05d-519ef1d659ca,Catetta Lomellini,<--IsMotherOf--,23168,207a161c-0485-425d-aaee-d9c9fbbd842d,Caterina de Carmandino
+24987,14a7e483-77a6-448d-8a42-d811a1ef91d9,Pellegra Lomellini,<--IsMotherOf--,23819,03c9c85d-62bb-4b6b-8091-451975bf96f2,Isolta Lecavello
+25048,14ace344-9626-40f3-ab2f-6b420b572f5a,Raffaele Lomellini,<--IsMotherOf--,23295,bc572ea1-6a18-4e9d-8d87-a60bca6c9d09,Niccoletta Cicala
+24026,14f75e62-fa6f-4bc6-89c5-03e490cbafa7,Bartolommeo Lomellini,<--IsMotherOf--,25740,0818d587-9bf5-487a-9035-7cc389b6a012,Mariola Spinola
+24597,14fe185b-9796-4188-90fb-b7d626705f2a,Giuliano Lomellini,<--IsMotherOf--,23280,ec732cd8-dfa3-4de0-9a05-366c78eb5717,Pietra de Ciba
+24207,15269e6a-494f-4104-b96a-0a3d4194b02a,Cesare Lomellini,<--IsMotherOf--,25367,ecb86666-2282-4f46-9f05-a8cbf9430a39,Luchesia di Negro
+25049,155fbf1c-b161-4894-bc49-6febecff6e07,Raffaele Lomellini,<--IsMotherOf--,25264,2c838e09-9749-4226-945b-a38712411707,Maria de Mari
+24794,1572a670-4ca0-4c6e-8b30-680251ca38a3,Maria Lomellini,<--IsMotherOf--,23535,5ed3ead9-872a-49a6-9798-9eb4797dde4f,Battina Gentile Ricci
+25109,162bfafd-ae2e-4195-9bcb-c7ccb22c5f29,Stefano Lomellini,<--IsMotherOf--,23272,2dc5584e-e810-43a7-b8e3-dd97edbd7eae,Peretta Centurione Bestagno
+24952,169f172e-fb7c-40d4-aa7e-77751f6dd0d4,Ottobono Lomellini,<--IsMotherOf--,23191,186548c5-c0c6-4643-a0eb-a0fbe982d4fd,Battina Cattaneo
+24394,16b5b696-647a-472c-91c7-7023dd677e1d,Germano Lomellini,<--IsMotherOf--,25287,4453e243-3d81-4487-b7da-bcc4be33a410,Battina de Marini
+24865,16fae15a-2b9b-4db8-a9f2-44e3290bdfb4,Niccoletta Lomellini,<--IsMotherOf--,23535,5ed3ead9-872a-49a6-9798-9eb4797dde4f,Battina Gentile Ricci
+24739,1721fba4-25ce-4aee-beae-a7377529a8c0,Maddalena Lomellini,<--IsMotherOf--,23659,2552b322-281d-41e7-ac4c-211f4c9b58c0,Bianca Grimaldi Oliva
+24885,17673802-5664-430f-979d-66b05b0097c8,Niccolò Lomellini,<--IsMotherOf--,25612,607f9603-2ac5-4725-81a6-080fc57c93b6,Argenta Spinola
+24404,179f2c2d-cfad-4f04-a34c-c545ecfdaa81,Giacoba Lomellini,<--IsMotherOf--,25845,266ed7a2-d79b-4e2e-b8dc-57a26bc0eb44,Argenta Vivaldi
+24008,17e09f18-bce3-4cb1-ad3f-0b0a4876b193,Baldassare Lomellini,<--IsMotherOf--,24145,d3f903cf-abbe-4282-959f-941569f55dbf,Brigida Lomellini
+24562,17f48bbd-f42d-4741-bff2-9907da8a209d,Gironima Lomellini,<--IsMotherOf--,23353,39695fac-9ce5-402d-a1d7-1d65ae430125,Benedetta Doria
+23969,183565e8-8fc5-48e9-a3a9-3024b745d8a2,Antonio Lomellini,<--IsMotherOf--,25554,9707240b-da07-4d83-8690-812fb7a3359b,Tommasina Salvago
+24787,18cfbddf-3826-4ef7-b367-a04e67cc325d,Maria Lomellini,<--IsMotherOf--,23435,a424676d-970d-496c-b294-9bb4d8b8e46c,Pietra Doria
+25195,18ebcdd2-bc4b-4adc-b0b3-2d5f6c800e63,Valerano Lomellini,<--IsMotherOf--,25738,8bff2fda-fcd5-4bee-bdad-a970c5897828,Maria Spinola
+24291,1925ca9f-7714-46f3-b779-5ce1768d7e63,Emanuele Lomellini,<--IsMotherOf--,25886,6c2954fc-6036-41f9-a6b2-695a09aae30a,Bigotta Zaccaria
+24558,195420c5-99b1-47e1-9857-2e9b89ec4ac8,Girolamo Lomellini,<--IsMotherOf--,24937,7bae2620-0b9a-405d-8257-566c1600edfa,Orietta Lomellini
+24792,1963f136-761a-4269-a637-5c54f67c61b1,Maria Lomellini,—hasMother—>,25368,c644e9e6-9c19-4842-ada7-6e9bd866f0d4,Luigia di Negro
+23881,1a2434cc-94a8-4a16-af99-1393c6f0c787,Agostino Lomellini,—hasMother—>,25742,2572e1d7-8a62-4ccd-a0c3-2e6f4e508c1b,Moisetta Spinola
+24923,1a28a0f5-7f19-41e8-9e1c-6ac09c9cf25a,Odoardo Lomellini,—hasMother—>,23572,5d75d31d-096b-4750-bad3-b82396765e4b,Maria Gentile Pignoli
+24335,1a38e211-bf44-4427-9630-469fb5415bef,Francesco Lomellini,—hasMother—>,25742,2572e1d7-8a62-4ccd-a0c3-2e6f4e508c1b,Moisetta Spinola
+25168,1abca802-8ab9-4054-b0bb-e21256e368c8,Tommasina Lomellini,—hasMother—>,24679,2fce458f-43c5-48af-abc0-d0a84b14ab00,Lombardina Lomellini
+23996,1b8f0ba6-a29b-4b0b-9d8c-a3691863c09d,Argone Lomellini,—hasMother—>,25407,08247da3-5311-4bd0-9d9a-9be30b6ffd19,Caterina Oltramarini
+24643,1badb2a8-fd19-4396-ab8f-a89027df5461,Isabella Lomellini,—hasMother—>,25606,3918a8ed-3761-4ed7-99a2-6a3f58c999bd,Andreola Spinola
+24314,1bd263dd-6da6-47be-be07-fb9b61c2aa02,Filippo Lomellini,—hasMother—>,23597,188dd02d-884b-436f-81ec-8439df32e3ea,Isabella Ghizolfi
+25236,1be959fe-6d36-446c-9812-9e09223bffb4,Simona da Lumbello,—hasMother—>,23175,f16e51dd-6f62-4887-9dfd-fb888f9c9df4,Giacoba Cartagenia
+24587,1c15ff47-9e4a-4e5d-92b7-bcec7cbe1cb5,Gironima Lomellini,—hasMother—>,25170,8f48bf00-491a-411e-9db5-80f02f9d552c,Tommasina Lomellini
+24579,1c5dad2f-4283-444d-b841-7925d7da76f5,Gironima Lomellini,—hasMother—>,23042,f447cf9f-24c6-410f-9b9f-0b65661e0af8,Porzia —
+24355,1cc49be5-d42c-46eb-bccc-ecc1f95c3344,Francisca Lomellini,—hasMother—>,24080,1cd8b9ea-99cd-4a23-a6d0-1fc7bb4e089b,Benedetta Lomellini
+24080,1cd8b9ea-99cd-4a23-a6d0-1fc7bb4e089b,Benedetta Lomellini,—hasMother—>,23571,119035c6-45fe-4fda-90cd-660d1e31d54b,Maria Gentile Pallavicini
+24186,1cdef422-2532-4219-a4a6-7e200ea31f93,Caterina Lomellini,—hasMother—>,23083,c9d11660-9fc8-4c28-b1b8-d4613650f36f,Primafore de Benamà
+24439,1cf1a645-d07e-4758-840d-69cab6296c6a,Ginevra Lomellini,—hasMother—>,24080,1cd8b9ea-99cd-4a23-a6d0-1fc7bb4e089b,Benedetta Lomellini
+24781,1d2830db-d300-4632-819f-e8663943c162,Maria Lomellini,—hasMother—>,24150,cb9ccc03-acf2-4f24-9beb-8218f459d3fd,Camilla Lomellini
+23913,1d3971be-bef5-4b7f-a69d-b20228560275,Ambrogio Lomellini,—hasMother—>,23541,59f80a01-d3c5-46cf-9e74-734443a1a493,Caterina Gentile Pignoli
+24387,1d500cae-3317-4159-bfeb-ef1e739adcc6,Gaspare Lomellini,—hasMother—>,23579,2fc6f5fb-23dc-4b1d-9eb4-46701fbdd8ff,Pellegra Gentile Pignoli
+23930,1d5234a6-8656-4484-9264-b3e1a8adc102,Andreola Lomellini,—hasMother—>,25285,cd7b1554-f53c-4395-b14f-a36688425865,Aranetta de Marini
+24887,1d9811bb-d6f2-48de-ab47-d05dbe34c3b8,Niccolò Lomellini,—hasMother—>,25494,53fcbf3a-939e-4fd2-8704-1309bf49ace3,Violante Pinelli Ardimenti
+24237,1d99f19b-6877-44fe-8c3a-87853820695f,Costanza Lomellini,—hasMother—>,23353,39695fac-9ce5-402d-a1d7-1d65ae430125,Benedetta Doria
+24731,1d9ddf68-2987-4dfb-a419-1f1a442c3d64,Luigia Lomellini,—hasMother—>,23440,9d566fef-8296-4d09-81f0-c3e7138708b8,Tobietta Doria
+24626,1d9ee6d9-3ff6-4097-91e7-3bb10ec6c423,Imperiale Lomellini,—hasMother—>,25375,323f177a-2bf3-4c86-9120-fd883f493288,Teodora di Negro
+24625,1df36f5f-7da2-4bcf-9564-b59194b5ee6d,Illario Lomellini,—hasMother—>,23855,b8a9881d-664d-4318-8a33-a8ed4087a5ef,Selvagia Lercari
+25079,1e123dac-6e67-4b5f-a476-cf28b897c8f3,Simone Lomellini,—hasMother—>,24574,1e792ee6-6c78-4a1d-8313-d81bacd4ec9f,Gironima Lomellini
+24588,1e45cc85-b3bd-48ad-8436-7beb2c507c74,Giulia Lomellini,—hasMother—>,23315,922e0f97-6693-4dfe-8ebc-7a0f520c69e2,— Crivelli della Spezia
+24607,1e77f6a1-90ec-490f-8183-3e0efb843f9c,Gregorio Lomellini,—hasMother—>,23656,5aba82b9-b3fc-423a-9179-fb52995e7a30,Battina Grimaldi Oliva
+24574,1e792ee6-6c78-4a1d-8313-d81bacd4ec9f,Gironima Lomellini,—hasMother—>,25544,04dbe16b-76fd-48f5-9212-4f48efe6eba1,Maria Salvago Nepitelli
+24718,1e80462a-8f0a-4262-93db-31aae8914b07,Luciano Lomellini,—hasMother—>,23026,028bd9c3-794a-4594-b344-cb62e48e1da4,Lucia —
+24214,1ef01fac-1d75-4a01-a9dc-9311b1bdfe31,Chiara Lomellini,—hasMother—>,23286,6573ec60-bb5b-4fdb-b413-71b00b402f6e,Bartolommea Cicala
+24258,1ef7f513-9521-45de-be28-331196f42a0d,Demetrio Lomellini,—hasMother—>,24626,1d9ee6d9-3ff6-4097-91e7-3bb10ec6c423,Imperiale Lomellini
+24321,1f6533e3-5f0c-4c57-b5e3-71cd90f07497,Filippo Lomellini,—hasMother—>,23933,b7fc6562-469b-4a15-9303-5c70160ec4e1,Andreola Lomellini
+25107,1fe75e5e-4a72-4c92-b0c6-c84d5050877c,Stefano Lomellini,—hasMother—>,23435,a424676d-970d-496c-b294-9bb4d8b8e46c,Pietra Doria
+24835,203b7eb3-503c-40ce-9a31-fdf7bd1d1319,Martino Lomellini,—hasMother—>,23206,c70cf9f9-a298-49b3-804b-a4e96939b64c,Gironima Cattaneo Mallone
+24798,20dd611f-0394-4249-a523-3e66af6b6d0f,Maria Lomellini,—hasMother—>,23659,2552b322-281d-41e7-ac4c-211f4c9b58c0,Bianca Grimaldi Oliva
+23899,20e944ff-6fa8-408b-a1ee-ca51d15a4d90,Alaone Lomellini,—hasMother—>,23036,6694b635-2ab0-452c-8619-4e84efe2ae7f,Odina —
+24039,2106be17-c277-483c-9443-a698f50a59ad,Bartolommeo Lomellini,—hasMother—>,23987,5a7d8ea1-2a3c-43ca-8f70-7661cabfb119,Argenta Lomellini
+25171,21459f0f-b43f-41fd-bb26-650fd891e6ad,Tommasina Lomellini,—hasMother—>,25816,868a0092-6352-4d4b-95f3-959b7e619b6e,Brigida Usodimare
+24886,2165c6b6-b741-4849-a01f-1e6b58ac351c,Niccolò Lomellini,—hasMother—>,25828,a6934968-a47e-45ac-b0b9-908eb4343b27,Orietta Usodimare
+24193,21c3189a-7ea5-45d1-be7b-6cb1de96eb1f,Caterina Lomellini,—hasMother—>,25885,fb808123-abc2-4af1-9e2c-713a454e8640,Violante Vivaldi
+25110,21faf446-18bb-4f8c-a0d3-e8f919dfa025,Stefano Lomellini,—hasMother—>,24571,4f7a073b-5551-4233-9f01-5ddd8991e3f2,Gironima Lomellini
+24163,221085d3-435a-4d7c-99cc-b23ead553d89,Carlo Lomellini,—hasMother—>,25241,6f2a7a97-912a-42f0-958f-3b6a14280836,Maddalena Maggiolo
+24713,224b113e-b3bf-4dd4-9528-8f3db8b1ba28,Luchina Lomellini,—hasMother—>,24939,05ab32b3-aac9-4695-85eb-80e828a596ff,Orietta Lomellini
+24429,228bbbf9-cdf4-4cc1-9bf6-c8e857c4c017,Giacomo Lomellini,—hasMother—>,25738,8bff2fda-fcd5-4bee-bdad-a970c5897828,Maria Spinola
+24455,2293a4b3-3735-400c-b1d7-7ccb4bd1404e,Giorgio Lomellini,—hasMother—>,25375,323f177a-2bf3-4c86-9120-fd883f493288,Teodora di Negro
+25232,22c76982-223f-4c65-bd97-72b812a5a2d1,Lanfranco da Lumbello,—hasMother—>,23175,f16e51dd-6f62-4887-9dfd-fb888f9c9df4,Giacoba Cartagenia
+24620,22cc1c48-1225-4878-89a2-f1bc55d6225f,Guglielmo Lomellini,—hasMother—>,23001,f10b1446-eda1-4eb8-8443-7c1cef76d2b8,Attilia —
+24652,22def64e-1fd9-4c3c-99dc-c25534bcdc2d,Lazzaro Lomellini,—hasMother—>,23174,1ee4d293-f09f-4f49-a3c2-b49a484dac2a,Maria del Carretto
+24079,22f76b8e-6ff8-4a67-b3e0-61ff5664a40a,Belmosto Lomellini,—hasMother—>,23018,3e99b304-3f0c-42bf-a7fc-09ca188b36a4,Giulia —
+25212,2310c609-c2a3-4c73-bd51-aea763f1966b,Violante Lomellini,—hasMother—>,24787,18cfbddf-3826-4ef7-b367-a04e67cc325d,Maria Lomellini
+24263,2330bbb9-e189-45cd-b0f9-cdf36c307779,Domenico Lomellini,—hasMother—>,25145,af699fe8-e7a7-42eb-8e73-687861653d6a,Teodora Lomellini
+24195,2355ccd2-cf9b-4f3d-86f0-58b5ca463949,Caterina Lomellini,—hasMother—>,25847,0db30427-8b7e-4fac-b2b4-71381b0b9082,Barbara Vivaldi
+24766,23d2651c-3828-49fa-9d24-916524c66542,Margaritta Lomellini,—hasMother—>,23584,7627597b-e671-4c63-bb39-7c481fffdf07,Selvagia Gentile Ricci
+24674,242c7a60-e508-487b-83d6-fa482110cbc6,Lodisio Lomellini,—hasMother—>,23004,db535961-f6a8-444e-91c0-51ea9b8d8e91,Caterina —
+24532,2434b5dc-d4f7-4276-9baa-62910d0dba5c,Giovanni Lomellini,—hasMother—>,23216,ebdf255a-0e41-4b3a-acce-2b7f95e30ce0,Lucchina Cattaneo
+24268,243e2aa4-764a-4f32-9c38-5b999138525e,Domenico Lomellini,—hasMother—>,25171,21459f0f-b43f-41fd-bb26-650fd891e6ad,Tommasina Lomellini
+24476,2446e19f-9e4f-477f-8d3f-55b0fd5a589e,Giovanni Battista Lomellini,—hasMother—>,25878,57839e67-15ac-4d1b-a08b-b2478f7a3863,Peretta Vivaldi
+24032,244dc398-033c-4f7a-901a-0bc4deefa00a,Bartolommeo Lomellini,—hasMother—>,23354,77c94fc6-a636-40d3-b5ad-9ff420296e74,Benedetta Doria
+24063,2460a0ae-f666-431b-9ef3-54193d854dca,Battina Lomellini,—hasMother—>,25616,70a0c597-9362-41a7-968f-0a45ae1ba4fe,Battina Spinola
+24931,24b1e68d-c1a5-40a3-bf16-7c2528d9b435,Orazio Lomellini,—hasMother—>,25746,0565e26c-5e2e-41d0-ae69-e03f5f843635,Niccoletta Spinola
+24510,24f43815-ecf1-48a6-a1fc-36ff1543d743,Giovanni Francesco Lomellini,—hasMother—>,23220,861ed6af-8c57-4d74-af3a-676cbfeeb5b5,Maria Cattaneo
+24199,24fc42e2-d7f1-42fa-a30b-a4fd311f1416,Catetta Lomellini,—hasMother—>,25370,8b96c638-79de-44a6-b0c6-cd3576b25630,Maria di Negro
+24050,25042291-c1e5-4952-84d6-ff8c9368173c,Battina Lomellini,—hasMother—>,23821,b44a3d30-5a8b-4d74-8635-a9984298bc00,Ginevra Leccavello
+24914,257599c6-a755-4b6b-8dd0-391e68f6fb5b,Oberto Lomellini,—hasMother—>,24155,c08335fe-9227-4fb5-874a-a8e43795e0a4,Caracosa Lomellini
+25134,257ec7f5-24dd-4936-89d2-f5ac4312163b,Teodora Lomellini,—hasMother—>,23364,b2b96b56-fbbe-4f0c-9e6d-7324c9df69df,Chiara Doria
+24570,25d0553b-aa21-453d-a280-c899b76e6b53,Gironima Lomellini,—hasMother—>,23133,6db335df-3f6c-4d43-b95b-ae7c96ad318e,Peretta Calvi
+24384,260b7c67-25a0-4efd-95f1-df4e56bb1175,Galeotto Lomellini,—hasMother—>,25471,5ccc6f4e-d50d-4574-a06c-c12a2a2b31fa,Caterina Pinelli Ardimenti
+25120,263fa9db-4b2e-4f77-bb3b-a7df5b2bcf3e,Susanna Lomellini,—hasMother—>,25076,c3421ea6-a506-40c5-a394-03b0110ee818,Simona Lomellini
+25015,2646fb1d-5604-41fc-857f-6c4226afc26b,Pietra Lomellini,—hasMother—>,25577,10c0f47f-825e-4eb0-893a-58b916fe588e,Eliana Serra
+24274,269574ec-063b-46b8-b8a9-74b48274ff06,Egidio Lomellini,—hasMother—>,25781,bf13e400-ebde-43aa-b0a9-1c04c2e2b725,Teodora Spinola
+24508,26d4dd2b-b969-45d9-9909-48a3193b011a,Giovanni Benedetto Lomellini,—hasMother—>,25399,faffebcb-1164-43b0-8c1b-4943cfc1e81b,Maria Odone
+24950,271ffab6-aa40-465c-8e23-93203f11a771,Ottobono Lomellini,—hasMother—>,25639,7f19ec94-bcd1-49c0-8451-1b69d267559a,Chiara Spinola
+24104,276d0c2d-10e4-438b-b87f-6cf3675cd150,Benedetto Lomellini,—hasMother—>,25817,4741530e-b56b-46d2-9357-80a4e1ccb027,Brigida Usodimare
+23949,27bd0a49-86c2-48ce-9c17-534e7510759d,Anna Lomellini,—hasMother—>,25655,13288196-f3e2-4ddb-ae3d-babd1e6ea971,Dorotea Spinola
+24848,2931a1b4-7519-49cd-9b3d-dd2100d1f028,Meliaduce Lomellini,—hasMother—>,25545,0cc98a14-d151-4683-8e2a-808cc9fb02a0,Maria Salvago Nepitelli
+24117,293e4b96-e3ce-426d-8a4b-ed0fef80d3a7,Bianca Lomellini,—hasMother—>,25337,9d5d1cd9-037d-4d0e-9d76-fa2d27a806bb,Giacoba Maruffo
+23894,298db106-0904-4bee-81be-170ab6d998de,Agostino Lomellini,—hasMother—>,23584,7627597b-e671-4c63-bb39-7c481fffdf07,Selvagia Gentile Ricci
+24099,29a681ef-832f-4623-b82f-1fefaf681174,Benedetto Lomellini,—hasMother—>,23115,18125c40-754a-44ef-a29e-a98fa60d7e79,Maddalena Brignole
+24270,29d67342-a461-454b-a2fc-95bdf8902fec,Dorotea Lomellini,—hasMother—>,25655,13288196-f3e2-4ddb-ae3d-babd1e6ea971,Dorotea Spinola
+24376,29f17f73-f75d-4810-9e34-5344508be21e,Gabriele Lomellini,—hasMother—>,25343,742f255d-2828-4b93-af60-671792739d3e,Pietra Maruffo
+24424,29f46975-756a-4af8-8f30-6dde99c111b9,Giacomo Lomellini,—hasMother—>,25569,5bda94c8-8c15-4f10-91b0-d920f301ceee,Gironima Scaglia
+24103,29fd3dd1-36a8-435a-bf10-e5dad69e5b68,Benedetto Lomellini,—hasMother—>,23616,5faf00eb-4891-4d7c-b3d3-99d988969347,Battina Grillo
+24782,2a0f688b-17a0-4ab5-a370-c30d0bc085e0,Maria Lomellini,—hasMother—>,23036,6694b635-2ab0-452c-8619-4e84efe2ae7f,Odina —
+24889,2a2a2088-37eb-4555-9f5b-55ab984b312c,Niccolò Lomellini,—hasMother—>,25375,323f177a-2bf3-4c86-9120-fd883f493288,Teodora di Negro
+24568,2a50035a-6a23-49f1-8b8e-30e54373cd91,Gironima Lomellini,—hasMother—>,24775,abf07818-22b2-4d57-a13f-076430f3595c,Maria Lomellini
+24440,2a580649-dae7-4562-b89f-522b43d4acb2,Ginevra Lomellini,—hasMother—>,25330,7e015b39-5bcd-4693-bf4c-c3d9ea2ccb32,Susanna de Marini
+24576,2ac7882e-f240-40ea-8bcd-4550fa9746fc,Gironima Lomellini,—hasMother—>,23579,2fc6f5fb-23dc-4b1d-9eb4-46701fbdd8ff,Pellegra Gentile Pignoli
+25012,2b070413-b201-4395-ae48-0e99576456cd,Pier Francesco Lomellini,—hasMother—>,23241,2463926e-01d9-41f5-9aa2-87f0f1b4ee55,Battina Centurione Oltramarini
+23972,2bef7b36-045e-45be-93fb-dab6950a4f24,Antonio Lomellini,—hasMother—>,25616,70a0c597-9362-41a7-968f-0a45ae1ba4fe,Battina Spinola
+24343,2c6032f9-eadf-4c82-ad4a-cb43c29fe057,Francesco Lomellini,—hasMother—>,25733,2326e60d-58ba-4909-9ccf-33de96600f47,Luigia Spinola
+24153,2c9d4338-b4c4-4e96-a049-818a61e32acf,Camilla Lomellini,—hasMother—>,25733,2326e60d-58ba-4909-9ccf-33de96600f47,Luigia Spinola
+25022,2cc1be33-1085-403c-b90f-b19e3907c8b4,Pietrino Lomellini,—hasMother—>,23018,3e99b304-3f0c-42bf-a7fc-09ca188b36a4,Giulia —
+23875,2ccd7242-6b53-4e86-81a8-0185bff88f6a,Agnese Lomellini,—hasMother—>,23344,e99871d8-2e70-4f66-bfdf-1c87358809c3,Bartolommea Doria
+24037,2d00a10b-a19a-4e34-bfd2-5a24c0eb617f,Bartolommeo Lomellini,—hasMother—>,25683,887e8d98-5502-45d6-989d-7df50eb8afed,Giovanna Spinola
+24416,2d1a53dc-8521-4b3e-a3c3-49336b514cad,Giacomo Lomellini,—hasMother—>,23520,31015488-0162-4567-8ffe-eaa17717055d,Sobrana Garibaldi
+24517,2d23f906-d675-460b-ac5d-780234c26035,Giovanni Lomellini,—hasMother—>,23043,c2ea2eda-53d4-47c4-a4f1-5b54e6a89073,Richelda —
+24762,2d41530a-5cc7-4898-85e9-67e7d3c513f3,Margaritta Lomellini,—hasMother—>,25403,a45f0c5c-ba57-4e1b-b84e-ebada88b70b3,Bartolommea Oliva
+25207,2d5888c2-c949-485f-8725-2382f77b8cea,Violante Lomellini,—hasMother—>,23295,bc572ea1-6a18-4e9d-8d87-a60bca6c9d09,Niccoletta Cicala
+24059,2dc218e8-1013-455b-bd76-27608d72be07,Battina Lomellini,—hasMother—>,23407,c1b002f5-46e6-4d49-a0af-d7645734d4e5,Luigia Doria
+24260,2dcb5421-0e55-4a7b-9ba3-072fabcf73a4,Despina Lomellini,—hasMother—>,25285,cd7b1554-f53c-4395-b14f-a36688425865,Aranetta de Marini
+24410,2e2199a0-5895-44b4-a7dd-5a3f9c08c4a3,Giacomo Lomellini,—hasMother—>,25558,73c97f05-6b14-44ee-a6df-b5cc56696fc8,Bastiana Sauli
+23964,2e24f42b-da3e-4ee5-8425-96e0059dd89b,Antonio Lomellini,—hasMother—>,23252,8019c711-b480-4f6f-92db-300acc35fa89,Franca Centurione Oltramarini
+24451,2e36b9a5-1e52-4342-94ca-475cb8517bc4,Giorgio Lomellini,—hasMother—>,23610,62db3d53-61a8-440b-9acc-8758eaa0396e,Valerana Giustiniani Longhi
+25086,2ec9e417-761e-46ac-a3b4-6e1116f545b0,Simone Lomellini,—hasMother—>,23541,59f80a01-d3c5-46cf-9e74-734443a1a493,Caterina Gentile Pignoli
+24997,2f74c39c-2089-48fb-ad37-59bd25fd1324,Pelotta Lomellini,—hasMother—>,23085,88d229a1-97e9-4e47-b698-235ea92fd8d3,Nicoletta Benegassi
+24600,308921a3-6115-48ee-95f4-8afb6b75ac59,Giulio Cesare Lomellini,—hasMother—>,25414,d95b3d2b-dd50-48ce-97a8-59955adfb2bc,Barbara Pallavicini
+25105,30a3ac08-5d77-4a26-b6f7-a02e734758a5,Stefania Lomellini,—hasMother—>,25293,19a2f7b3-6ad6-4bf4-8f7d-0beb7f1fabf3,Caterina de Marini
+24052,30c0bfeb-f829-460f-8cc8-cbc39dd2c627,Battina Lomellini,—hasMother—>,25494,53fcbf3a-939e-4fd2-8704-1309bf49ace3,Violante Pinelli Ardimenti
+24741,311e37d4-eeb4-4e63-9bc5-b719c03b1f89,Maddalena Lomellini,—hasMother—>,24462,558a5e5f-f493-4035-8017-347865c109d0,Giovanna Lomellini
+24828,318b58bb-a957-4af4-bd4f-ccd7210fd9c6,Maria Lomellini,—hasMother—>,23258,287c907a-a853-4b8f-aa91-4058793dfd70,Gironima Centurione Oltramarini
+24505,31f1e3b0-ecb4-46a0-81c3-a17ea5631899,Giovanni Battista Lomellini,—hasMother—>,25486,5e8f45a4-4143-4438-a5a2-fb1e2ebe4ca3,Maria Pinelli
+24329,3219f00e-b96e-4210-99a0-50f2ae47a313,Francesco Lomellini,—hasMother—>,23281,9ba0e919-ffdd-4421-b987-467d2609c743,Brandolina Cibo
+24933,336d52f0-ea9a-4b83-8544-c3d96bdcd955,Orietta Lomellini,—hasMother—>,23714,96077fb9-be1c-4ee2-ae71-43b14ae61ffe,Francisca de Gualtieri
+24223,338f58e6-b6bf-4f6b-9ba0-9dccf5e0bc27,Claudia Lomellini,—hasMother—>,23520,31015488-0162-4567-8ffe-eaa17717055d,Sobrana Garibaldi
+24484,33948222-443e-4147-967b-887c28b0939d,Giovanni Battista Lomellini,—hasMother—>,23998,5cda72c6-9956-4c54-b633-b254b7a78621,Artemisia Lomellini
+24149,33cd9060-a5da-471c-b4dd-16f7ad415a3b,Brigida Lomellini,—hasMother—>,23584,7627597b-e671-4c63-bb39-7c481fffdf07,Selvagia Gentile Ricci
+24323,33ffcf20-b625-456f-81fe-41ae14e34975,Franca Lomellini,—hasMother—>,25375,323f177a-2bf3-4c86-9120-fd883f493288,Teodora di Negro
+24566,3499914f-6d43-4dae-ac9c-88ba83d2c677,Gironima Lomellini,—hasMother—>,23571,119035c6-45fe-4fda-90cd-660d1e31d54b,Maria Gentile Pallavicini
+25153,35231246-f1f9-488c-8ba5-bed030bdefab,Teresa Lomellini,—hasMother—>,23563,33f15bd4-480b-41b7-9bd0-37a7c035f855,Maddalena Gentile Pignoli
+24892,353b8a1f-6014-41e4-8b64-352258d49469,Niccolò Lomellini,—hasMother—>,25849,cc417d27-a2e1-4826-822f-29818252ac3c,Battina Vivaldi
+24851,3549e65a-6403-4d6e-94e1-d8b37a66e9cc,Minetta Lomellini,—hasMother—>,23243,3c350e78-65b8-4ccf-9f14-3a04ae4a58a3,Bianca Centurione Cantelli
+24409,35590e24-6450-4bcd-ab10-e38d62277bec,Giacomo Lomellini,—hasMother—>,23804,e55afa90-d4ce-475f-8f04-318f3a4e0f1f,Teodora Ittaliano Lavaggi
+25131,35b56b71-4095-45ec-a0ab-240fdec702ab,Teodora Lomellini,—hasMother—>,23435,a424676d-970d-496c-b294-9bb4d8b8e46c,Pietra Doria
+24287,366bfd75-4e96-4e0d-ad01-c80f928c2e0b,Eliano Lomellini,—hasMother—>,25781,bf13e400-ebde-43aa-b0a9-1c04c2e2b725,Teodora Spinola
+24487,36dc8131-bdff-4ea1-927f-74b99aeaef3c,Giovanni Battista Lomellini,—hasMother—>,24806,fb04420b-cbaf-411b-9eb1-55ce9428b3c9,Maria Lomellini
+24976,36efda92-18c3-45b3-9a3b-68e9f87b2d16,Pellegra Lomellini,—hasMother—>,23220,861ed6af-8c57-4d74-af3a-676cbfeeb5b5,Maria Cattaneo
+24864,3709e0bf-b2f6-4ed1-8716-fbd3f4ac0d2c,Napoletano Lomellini,—hasMother—>,23610,62db3d53-61a8-440b-9acc-8758eaa0396e,Valerana Giustiniani Longhi
+24125,376a5562-4174-4067-8d82-4826bb643115,Bianca Lomellini,—hasMother—>,23993,087b4932-fed1-4ef7-9500-0c8182edd1cc,Argenta Lomellini
+24243,377ddb11-e368-406c-b0f2-2b3f76231969,Cristiano Lomellini,—hasMother—>,23106,314c8177-969d-4d4e-bc09-4c3e2712f468,Tommasina Boccaccio
+24370,37ed2c69-eec8-4a64-8f53-3602c11496ca,Franco Lomellini,—hasMother—>,25375,323f177a-2bf3-4c86-9120-fd883f493288,Teodora di Negro
+24434,37f1c1ed-2524-468d-9a40-56578e035e02,Giannotto Lomellini,—hasMother—>,25606,3918a8ed-3761-4ed7-99a2-6a3f58c999bd,Andreola Spinola
+25057,3807999b-455b-4e33-9d32-9d434bb332dd,Roberto Lomellini,—hasMother—>,23021,14c007a3-fd30-40cc-b1dd-174dd9d7aef8,Isabella —
+24471,386ef920-92fa-4c25-b678-24da64b45a68,Giovanni Battista Lomellini,—hasMother—>,23712,a3d49b8f-6ca2-452a-8b2a-d41a73b7abe9,Violante Grimaldi Cebà
+25196,38b25735-8ffa-4f89-9679-09fcc1a54bb1,Valeria Lomellini,—hasMother—>,25293,19a2f7b3-6ad6-4bf4-8f7d-0beb7f1fabf3,Caterina de Marini
+24888,38b4dcb2-86c8-4b8f-b102-53b244be27fb,Niccolò Lomellini,—hasMother—>,25293,19a2f7b3-6ad6-4bf4-8f7d-0beb7f1fabf3,Caterina de Marini
+25071,3937a47a-47d8-48fd-b651-9befb4b51539,Sibilla Lomellini,—hasMother—>,23046,3871ad32-4e6c-492e-a1fd-a85d6d747343,Simona —
+24232,3951b5cf-e560-4647-b7e2-68d2ac5854b9,Cosmo Lomellini,—hasMother—>,23241,2463926e-01d9-41f5-9aa2-87f0f1b4ee55,Battina Centurione Oltramarini
+25181,39570d1b-82f6-4014-b203-0a948fd4079e,Tommaso Lomellini,—hasMother—>,23756,9454ae48-d7d2-409b-b57b-20abb379e900,Battina Ittaliano olim Romeo
+25229,396cde63-b50e-4555-91c1-5c319a257af3,Giovanni da Lumbello,—hasMother—>,23175,f16e51dd-6f62-4887-9dfd-fb888f9c9df4,Giacoba Cartagenia
+24432,39b00ef1-1505-4b85-b15e-56175bdad4f9,Giannotto Lomellini,—hasMother—>,25343,742f255d-2828-4b93-af60-671792739d3e,Pietra Maruffo
+24780,39b2b41e-0803-4985-83f2-089d7df03b50,Maria Lomellini,—hasMother—>,23216,ebdf255a-0e41-4b3a-acce-2b7f95e30ce0,Lucchina Cattaneo
+24435,3b0f103c-0a17-47a6-aa99-a023c510c1b3,Giannotto Lomellini,—hasMother—>,23350,22144d54-ccaf-49a6-ac3b-ab5ab57a4ea3,Battina Doria
+24023,3b33f8e7-1a19-43ec-8e10-b62a92be5c2b,Bartolommea Lomellini,—hasMother—>,25885,fb808123-abc2-4af1-9e2c-713a454e8640,Violante Vivaldi
+25182,3b6c70bf-ff8d-4ed6-a18f-da2e18c14b03,Tommaso Lomellini,—hasMother—>,23584,7627597b-e671-4c63-bb39-7c481fffdf07,Selvagia Gentile Ricci
+24745,3b9b92b9-0d16-40cc-b85d-44219ee2f9db,Maddalena Lomellini,—hasMother—>,24199,24fc42e2-d7f1-42fa-a30b-a4fd311f1416,Catetta Lomellini
+24855,3c00f2ec-7742-4653-ab75-bc07f8dca796,Moisia Lomellini,—hasMother—>,25251,fa8d78ee-ba59-49ac-9c8d-31464802242c,Andreola de Mari
+24219,3c693545-d5c4-40ed-afed-b29a8eae15e1,Chiara Lomellini,—hasMother—>,23550,41f345aa-74bb-4d45-8bbf-fe9c2befe716,Giacoba Gentile
+24664,3cd8a9f4-8cd5-4773-b11b-8f0e2fe5da3c,Leonello Lomellini,—hasMother—>,23656,5aba82b9-b3fc-423a-9179-fb52995e7a30,Battina Grimaldi Oliva
+24094,3ceb3986-5aad-4cd0-b607-07e3f335aef3,Benedetto Lomellini,—hasMother—>,25745,147aeaa3-8e9d-4486-a097-098dff9f624a,Niccoletta Spinola
+24418,3d04afc5-cfff-4714-ac72-f99889b1035c,Giacomo Lomellini,—hasMother—>,25734,222b0cb2-5158-4d63-b625-7873f9a2c7ab,Maddalena Spinola
+23946,3d3bd756-f08f-4958-b349-e1cf6ef4e53a,Angelo Lomellini,—hasMother—>,24937,7bae2620-0b9a-405d-8257-566c1600edfa,Orietta Lomellini
+25097,3d757e85-1a84-4256-b058-4c0b8a7cc21c,Sobrana Lomellini,—hasMother—>,23629,7b14e228-ae72-426e-968e-4b0838562569,Isabella Grillo
+24071,3d758821-0ec2-4690-85ff-17af0d014510,Battista Lomellini,—hasMother—>,23559,78655b92-5326-487f-ad2b-e8614fb6def8,Isabella Gentile Pignoli
+24630,3e3a05f9-33f7-42cd-b505-8ebf511014f8,Innocente Lomellini,—hasMother—>,23407,c1b002f5-46e6-4d49-a0af-d7645734d4e5,Luigia Doria
+23890,3e5f9e0d-849a-4687-8431-37e24a383491,Agostino Lomellini,—hasMother—>,25370,8b96c638-79de-44a6-b0c6-cd3576b25630,Maria di Negro
+24093,3ed5c4c9-704c-4def-bfec-5ceb91b21746,Benedetto Lomellini,—hasMother—>,23535,5ed3ead9-872a-49a6-9798-9eb4797dde4f,Battina Gentile Ricci
+24267,3f2039d9-b591-4fec-99ca-801e807d3c03,Domenico Lomellini,—hasMother—>,25545,0cc98a14-d151-4683-8e2a-808cc9fb02a0,Maria Salvago Nepitelli
+25020,3f5b8893-b3fd-44cc-9107-aa6722b4815e,Pietra Lomellini,—hasMother—>,25616,70a0c597-9362-41a7-968f-0a45ae1ba4fe,Battina Spinola
+24087,3f5db476-2a1c-484e-9861-c11f0af70c1b,Benedetto Lomellini,—hasMother—>,23994,8d49c1e6-14f0-41c7-92b9-4d03f8d4aef1,Argenta Lomellini
+24918,3fa24407-475e-4809-8f45-439cdbe57b7d,Oberto Lomellini,—hasMother—>,23001,f10b1446-eda1-4eb8-8443-7c1cef76d2b8,Attilia —
+24226,3fbf27a0-952d-46ee-8414-2c62dcd49caa,Corrado Lomellini,—hasMother—>,23029,e78beb8e-6df8-4f09-888d-a952742368a8,Margaritta —
+24004,3ffd373e-a330-43e4-95ad-2774fdde6d12,Baldassare Lomellini,—hasMother—>,23435,a424676d-970d-496c-b294-9bb4d8b8e46c,Pietra Doria
+24525,40223876-8612-4d05-9202-296385ff12e7,Giovanni Lomellini,—hasMother—>,23106,314c8177-969d-4d4e-bc09-4c3e2712f468,Tommasina Boccaccio
+24560,402f3aa5-3477-4bad-8409-95c5a7ba5c66,Girolamo Lomellini,—hasMother—>,23085,88d229a1-97e9-4e47-b698-235ea92fd8d3,Nicoletta Benegassi
+25060,4044c302-044a-443d-9a83-6f3585e26f65,Sebastiano Lomellini,—hasMother—>,25170,8f48bf00-491a-411e-9db5-80f02f9d552c,Tommasina Lomellini
+24374,4088b982-a9d1-4ea0-801c-54c64e9639e2,Francolina Lomellini,—hasMother—>,23041,635037b9-8368-4fbf-9f25-244324d656d3,Pietra —
+25119,408b8a6f-294a-4a8e-af57-b703794f17ca,Susanna Lomellini,—hasMother—>,24284,a4a637bd-b46a-43ac-82e5-3a7eedb8bc72,Eliana Lomellini
+25013,40c174c0-f989-42bc-855a-6579e47215f5,Pier Francesco Lomellini,—hasMother—>,24141,a4ba824e-39d1-420f-ad1c-07e0b535d9a2,Brigida Lomellini
+24341,410cc170-cc8f-4fd9-8ab4-5339ecc8a9f7,Francesco Lomellini,—hasMother—>,23115,18125c40-754a-44ef-a29e-a98fa60d7e79,Maddalena Brignole
+24628,41106458-086f-4562-9932-97b27fd380f5,Imperiale Lomellini,—hasMother—>,23834,8eb1cf8b-3941-4dc4-9746-67aa54e99ced,Franca Lercari
+24081,41237308-3c20-4679-a02f-ba03b6038244,Benedetta Lomellini,—hasMother—>,23671,6477fe20-a1f6-4256-9d78-8b5403e8227e,Francisca Grimaldi Oliva
+24901,412a87d4-79bd-4d0b-b317-765814724681,Niccolosio Lomellini,—hasMother—>,25417,2f63dc1c-c2c6-4087-a494-0f42e66da7d1,Chiara Pallavicini
+23934,41384172-e91f-4462-ac12-20b91890a9d4,Andreolo Lomellini,—hasMother—>,25292,317196c2-6588-451d-9b0a-3678dd1fa08b,Caterina de Marini
+24534,413d03f2-0dfb-49a7-b641-4839151643e5,Giovanni Lomellini,—hasMother—>,24050,25042291-c1e5-4952-84d6-ff8c9368173c,Battina Lomellini
+24818,41a4d8a5-8419-4f0f-8787-a42d154c573b,Maria Lomellini,—hasMother—>,25606,3918a8ed-3761-4ed7-99a2-6a3f58c999bd,Andreola Spinola
+24524,41ba22e7-2c8c-4e18-984e-46d4d8ba0f88,Giovanni Lomellini,—hasMother—>,25290,f2f24b15-3464-4d2d-984b-c9c30a72f8ba,Bianca de Marini
+24212,420ef2a1-5b44-4719-8c31-68e3c971cd40,Chiara Lomellini,—hasMother—>,23994,8d49c1e6-14f0-41c7-92b9-4d03f8d4aef1,Argenta Lomellini
+24908,4215c9ee-97e1-42bf-9111-5d061ce64770,Nicolosio Lomellini,—hasMother—>,23700,ecfde847-a327-48ab-bc8e-cd982b22fd80,Nicoletta Grimaldi Cebà
+24419,425b1847-9213-4834-a447-ac07f739488b,Giacomo Lomellini,—hasMother—>,23563,33f15bd4-480b-41b7-9bd0-37a7c035f855,Maddalena Gentile Pignoli
+24602,42831905-0824-415b-990b-ec1743169066,Giuseppe Lomellini,—hasMother—>,23115,18125c40-754a-44ef-a29e-a98fa60d7e79,Maddalena Brignole
+24637,4287041b-7b02-4ea7-bc9d-14fef6c012c7,Isabella Lomellini,—hasMother—>,25808,a60cb05d-b2af-4e1a-9ca0-8d19e870e0e4,Margaritta Torre
+25159,42bc7a56-6564-42b7-89aa-582c10a99fa2,Tobia Lomellini,—hasMother—>,23040,960e91f9-75e8-4419-a600-d5e54db80ffc,Orietta —
+24305,42da440d-580a-4a32-8eeb-b1c273f35c48,Filippo Lomellini,—hasMother—>,23021,14c007a3-fd30-40cc-b1dd-174dd9d7aef8,Isabella —
+23942,431a4725-e53e-4637-9838-99e544cb395d,Angelo Lomellini,—hasMother—>,23700,ecfde847-a327-48ab-bc8e-cd982b22fd80,Nicoletta Grimaldi Cebà
+24586,4364d55b-99d6-4b5b-a9d7-f1dd97f4cd4c,Gironima Lomellini,—hasMother—>,23377,c5ba68d7-5619-4111-9151-88e280ae6f79,Francisca Doria
+25040,4373b208-74b4-4085-be68-e10b2e3c5be9,Porzia Lomellini,—hasMother—>,23736,3963b642-9cfd-47f1-9a7a-9a8fa79edfbf,Maria Imperiale
+24653,43d1e85a-5b3a-490f-be0d-177521081dfb,Lazzaro Lomellini,—hasMother—>,25471,5ccc6f4e-d50d-4574-a06c-c12a2a2b31fa,Caterina Pinelli Ardimenti
+24082,43fb4304-548f-4418-b7f3-1901adad32f4,Benedetta Lomellini,—hasMother—>,23295,bc572ea1-6a18-4e9d-8d87-a60bca6c9d09,Niccoletta Cicala
+24306,4496d89a-0f4d-41ca-896a-19ac1c32f2c9,Filippo Lomellini,—hasMother—>,25285,cd7b1554-f53c-4395-b14f-a36688425865,Aranetta de Marini
+24845,44cf8d8d-9c52-43f3-b32f-845604c7c856,Melchior Lomellini,—hasMother—>,23579,2fc6f5fb-23dc-4b1d-9eb4-46701fbdd8ff,Pellegra Gentile Pignoli
+24121,44e23833-7ebe-47da-a71a-ff86ac395f18,Bianca Lomellini,—hasMother—>,23253,fa7dd5dc-71fe-4ff2-b300-063ce827afa6,Francisca Centurione Cantelli
+24639,454c99e9-cdfd-4c4e-8886-53609a3326d4,Isabella Lomellini,—hasMother—>,25438,02e37316-3a4b-435c-a0a9-aa23e0b7c025,Tommasina Pallavicini
+25106,456b9455-26ed-495d-8cfd-bbb66dcee5a1,Stefano Lomellini,—hasMother—>,23353,39695fac-9ce5-402d-a1d7-1d65ae430125,Benedetta Doria
+24395,46bea590-2469-4087-80dd-1e6cffe837e9,Germano Lomellini,—hasMother—>,25399,faffebcb-1164-43b0-8c1b-4943cfc1e81b,Maria Odone
+24027,471745b5-32d6-4528-ba28-921bc2306644,Bartolommeo Lomellini,—hasMother—>,23044,1bed15d1-5660-49e9-871c-a6eede394725,Selvagia —
+24796,47549ade-05e4-4236-9494-d07a0d86aee2,Maria Lomellini,—hasMother—>,25746,0565e26c-5e2e-41d0-ae69-e03f5f843635,Niccoletta Spinola
+24271,47ce77c9-4036-4bcf-a8d3-355d44b612df,Dorotea Lomellini,—hasMother—>,24054,9c6505a0-696b-415b-ae4b-c12f19fd3a69,Battina Lomellini
+24183,48312f97-2e2b-486b-8553-abd5b1067635,Caterina Lomellini,—hasMother—>,23424,1e622c87-d744-4875-947d-ae142e8dd26c,Nicoletta Doria
+25098,484a9591-1755-4935-b132-eaef6b24e27d,Sobrana Lomellini,—hasMother—>,23849,605db703-8ccd-42b1-aa80-10cdda923d7b,Luchina Lercari
+24629,488b82c3-1fc9-46b1-a5b6-505170d68cd3,Innocente Lomellini,—hasMother—>,23350,22144d54-ccaf-49a6-ac3b-ab5ab57a4ea3,Battina Doria
+24326,48c5c773-ffe5-454a-bf53-3c9ae29e60f8,Francesco Lomellini,—hasMother—>,23015,d8aef0d5-01ff-4ad1-b13c-bdc800459b0d,Franca —
+24066,48d56d19-d1c7-480c-a99c-22021d8b4dbc,Battina Lomellini,—hasMother—>,23213,49c4575f-e408-4f41-8c83-a240c7ba8089,Lombarda Cattaneo
+25308,4953ab7e-40b5-41d5-ac0b-d4f8cddf4de1,Giovanni de Marini Castagna,—hasMother—>,24811,7e84c186-9a81-427d-82a4-5d2107b3c3c3,Maria Lomellini
+24438,4955f61d-a913-452a-b92e-6883456555bd,Ginevra Lomellini,—hasMother—>,24829,54f985fb-0109-45b9-965e-7a1f40ea89e9,Maria Lomellini
+24010,4990db49-1500-47dd-8a97-0e86573ec128,Baldassare Lomellini,—hasMother—>,23993,087b4932-fed1-4ef7-9500-0c8182edd1cc,Argenta Lomellini
+24913,4a2d35d0-7f7b-4ce5-8e34-4720b833fb25,Oberto Lomellini,—hasMother—>,23714,96077fb9-be1c-4ee2-ae71-43b14ae61ffe,Francisca de Gualtieri
+24119,4a5eac3d-7938-4610-8bdc-896a3db26bca,Bianca Lomellini,—hasMother—>,23579,2fc6f5fb-23dc-4b1d-9eb4-46701fbdd8ff,Pellegra Gentile Pignoli
+24250,4a8a3a97-2b1a-465e-9132-cefc5a52e7d1,Damiano Lomellini,—hasMother—>,23533,04d11860-6929-4227-99e4-23028eb55c61,Argenta Gentile de Turca
+24591,4a9caed7-6339-4bab-9aa5-dbfbd32e31e9,Giulia Lomellini,—hasMother—>,25733,2326e60d-58ba-4909-9ccf-33de96600f47,Luigia Spinola
+24890,4ab52c60-516e-41d9-a5e0-fab011072296,Niccolò Lomellini,—hasMother—>,25885,fb808123-abc2-4af1-9e2c-713a454e8640,Violante Vivaldi
+24206,4abc8c72-11ce-4f5f-92e8-1f461468b1b4,Cecilia Lomellini,—hasMother—>,23364,b2b96b56-fbbe-4f0c-9e6d-7324c9df69df,Chiara Doria
+24179,4ada80d2-afca-437e-9b9d-c1b246be5f92,Caterina Lomellini,—hasMother—>,23220,861ed6af-8c57-4d74-af3a-676cbfeeb5b5,Maria Cattaneo
+23986,4adf80e5-1ab8-46b1-a868-1a17bf37c0c4,Argenta Lomellini,—hasMother—>,23004,db535961-f6a8-444e-91c0-51ea9b8d8e91,Caterina —
+24694,4ae2a13c-7a9b-4e80-b4ae-d17a884aa37c,Luca Lomellini,—hasMother—>,25341,e1eb9b72-30b5-4161-8ed3-0b4aca90283e,Manfreda Maruffo
+24678,4ae34153-5001-45e3-b445-92805b61eef4,Lodisio Lomellini,—hasMother—>,24180,c02003bf-626e-487f-b1c4-867f54ed716e,Caterina Lomellini
+24158,4b095513-a49b-4686-9ed5-b6b642eeae2e,Carlo Lomellini,—hasMother—>,24574,1e792ee6-6c78-4a1d-8313-d81bacd4ec9f,Gironima Lomellini
+24577,4b190f35-f38f-4ca4-b64b-4ca528cf753e,Gironima Lomellini,—hasMother—>,25746,0565e26c-5e2e-41d0-ae69-e03f5f843635,Niccoletta Spinola
+24024,4b2eb749-1405-48b3-b7f3-2fcc56239838,Bartolommeo Lomellini,—hasMother—>,25738,8bff2fda-fcd5-4bee-bdad-a970c5897828,Maria Spinola
+24018,4b3efa15-7d48-4431-bcc3-25ddbbb7ad04,Barnaba Lomellini,—hasMother—>,23003,4e9aa1a4-906c-401d-8db3-92464c16e8f9,Campiona —
+24283,4b49f63a-c877-46e3-beba-d2c86e508fe1,Eliana Lomellini,—hasMother—>,25736,76fd97e1-3587-4c0a-811a-ad55de57cf29,Maria Spinola
+24699,4b561e3a-5a51-4c4b-85ed-5784a6a8ffb6,Lucchino Lomellini,—hasMother—>,24976,36efda92-18c3-45b3-9a3b-68e9f87b2d16,Pellegra Lomellini
+24756,4b645bfc-bb9f-4e0d-a64d-6031981f8bfe,Marco Lomellini,—hasMother—>,23933,b7fc6562-469b-4a15-9303-5c70160ec4e1,Andreola Lomellini
+25100,4bb62984-a35a-4546-9c03-38f6ab7df61e,Soldano Lomellini,—hasMother—>,23491,19bfc93c-3c72-471d-91d1-7f70ebaafd52,Mencia Fieschi
+24060,4bbdc58d-d38e-49ea-9ce6-743b02592436,Battina Lomellini,—hasMother—>,25885,fb808123-abc2-4af1-9e2c-713a454e8640,Violante Vivaldi
+25007,4c600a13-b169-41d1-bda9-87df0cd865b9,Pier Andrea Lomellini,—hasMother—>,25275,0a755ced-7e64-425a-b868-662cb5dd0780,Selvagia de Mari
+24724,4c6b89ab-e546-4606-bb42-783ad9aaef1e,Luigia Lomellini,—hasMother—>,24774,fe0d3d8a-79db-4770-973e-634061b9ebdf,Maria Lomellini
+24514,4c8510c4-ee5e-4be9-807c-eb336dc4cd54,Giovanni Giacomo Lomellini,—hasMother—>,23177,07a92e65-4222-432b-84d9-0daea191322f,Camilla de Cassina
+24893,4c9c8573-2a93-4011-881b-bba805c884dd,Niccolò Lomellini,—hasMother—>,23017,30d92a95-c6d1-4c56-876c-7c0cc1dd6b44,Gioffredina —
+24499,4cba9c7c-f83f-4d50-ad1a-c0c58cd15516,Giovanni Battista Lomellini,—hasMother—>,23085,88d229a1-97e9-4e47-b698-235ea92fd8d3,Nicoletta Benegassi
+24485,4cf226b9-b665-414a-863a-cd95006a7819,Giovanni Battista Lomellini,—hasMother—>,25554,9707240b-da07-4d83-8690-812fb7a3359b,Tommasina Salvago
+24871,4d021e68-6528-458d-9302-53fa1cc94fc6,Niccolò Lomellini,—hasMother—>,23046,3871ad32-4e6c-492e-a1fd-a85d6d747343,Simona —
+24784,4d221220-9914-4f3f-acac-71a755089e63,Maria Lomellini,—hasMother—>,25836,cc2bc7b0-2492-43ba-bed3-d9c2850109b4,Caterina Valdettaro
+24644,4d25f553-906d-471e-92a2-db4d8b847507,Isolta Lomellini,—hasMother—>,22996,63d5fab1-c8b3-46ba-9c1e-5c3b94731e97,Angela —
+25080,4d44a67c-c9b6-4dca-a113-409a78788743,Simone Lomellini,—hasMother—>,23532,7db4cd87-c299-40dc-903b-14fa4f138fe1,Argenta Gentile
+23957,4d6c078a-b041-401b-82ba-4cd06f85d029,Ansaldo Lomellini,—hasMother—>,25639,7f19ec94-bcd1-49c0-8451-1b69d267559a,Chiara Spinola
+24459,4d6c34e2-2cee-4298-808e-2618f783cd2d,Giorgio Lomellini,—hasMother—>,23503,134035b1-8543-44e6-b26e-65a78078b0f5,Violante Fieschi
+24905,4dae8d38-d0d9-4794-ab07-afec97c895d1,Nicoletta Lomellini,—hasMother—>,23271,8798fbba-f158-43aa-ab83-f83e4ac6c5e1,Pellina Centurione Becchignone
+24288,4db58465-d4d2-4d93-9525-8d2b481998dc,Elisabetta Lomellini,—hasMother—>,23623,738ecfb9-e519-46b8-b743-8c1daa109c85,Giovanna Grillo
+24727,4dd19e2e-c1b5-491d-95fe-ead80d574862,Luigia Lomellini,—hasMother—>,25629,f0832368-d4f7-4a89-966a-210144d3bdf3,Bianca Spinola
+24979,4de30696-2fe0-4280-94f9-de06a7cce9c8,Pellegra Lomellini,—hasMother—>,23411,1584a588-8d66-4b09-93b9-e3f154b67962,Maria Doria
+24823,4ded53cd-3460-4147-bc1a-07761142f41d,Maria Lomellini,—hasMother—>,25847,0db30427-8b7e-4fac-b2b4-71381b0b9082,Barbara Vivaldi
+24754,4e2784fd-fd9d-4f8a-94c8-bac3bdba1d09,Marco Lomellini,—hasMother—>,23931,9ce474cf-76c9-45f3-b6e8-08413fd09ff6,Andreola Lomellini
+24834,4e368bd3-97e9-4573-99ae-33829def32ff,Marta Lomellini,—hasMother—>,24734,6d1070e9-f9ea-47fe-9a9e-dbcbd9b2c172,Maddalena Lomellini
+24492,4e5aec85-016a-4c68-9d4d-259dd0333dcf,Giovanni Battista Lomellini,—hasMother—>,23698,c8363f22-dac5-4483-a319-a41c6782e47d,Niccoletta Grimaldi Cebà
+24273,4e6b79bc-d87b-4288-a639-143a02dee20a,Egidio Lomellini,—hasMother—>,23714,96077fb9-be1c-4ee2-ae71-43b14ae61ffe,Francisca de Gualtieri
+25004,4e6befb0-c8f1-4fc3-bdda-155e0aecf1d3,Peretta Lomellini,—hasMother—>,23532,7db4cd87-c299-40dc-903b-14fa4f138fe1,Argenta Gentile
+24319,4f18c58c-fe87-4379-9c03-cbee78b8b068,Filippo Lomellini,—hasMother—>,25733,2326e60d-58ba-4909-9ccf-33de96600f47,Luigia Spinola
+23973,4f248ff8-b6a1-431c-b86f-2bfea22e88db,Antonio Lomellini,—hasMother—>,23049,8a80ccc0-6449-4e4c-93ad-b1dfa53d5ce5,Tommasina —
+24609,4f396816-2d8f-4aef-856c-4ee3117e2007,Gregorio Lomellini,—hasMother—>,23133,6db335df-3f6c-4d43-b95b-ae7c96ad318e,Peretta Calvi
+24000,4f4082ca-8ec1-4eff-ac6f-844d94a795d9,Aurelia Lomellini,—hasMother—>,23530,2c63eeda-fefa-4416-a57e-4f484f27d236,Antonia Gentile Pignoli
+24571,4f7a073b-5551-4233-9f01-5ddd8991e3f2,Gironima Lomellini,—hasMother—>,23530,2c63eeda-fefa-4416-a57e-4f484f27d236,Antonia Gentile Pignoli
+24847,5007ab05-765a-40e7-8f20-9e250ac59fe3,Meliaduce Lomellini,—hasMother—>,23021,14c007a3-fd30-40cc-b1dd-174dd9d7aef8,Isabella —
+24720,5010bf47-3668-47be-a008-d28885a6052b,Luciano Lomellini,—hasMother—>,23296,8d93d158-cc18-42e2-bd36-b1350414fb18,Novella Cicala
+25023,509c497d-7d14-412d-972d-fdc941cd8cf4,Pietro Lomellini,—hasMother—>,23041,635037b9-8368-4fbf-9f25-244324d656d3,Pietra —
+24133,51226acd-b6bd-4a4c-8859-6784ffef1274,Bonvassallo Lomellini,—hasMother—>,23046,3871ad32-4e6c-492e-a1fd-a85d6d747343,Simona —
+24991,514a2f71-5631-440a-8855-8d7054726cfd,Pellina Lomellini,—hasMother—>,23994,8d49c1e6-14f0-41c7-92b9-4d03f8d4aef1,Argenta Lomellini
+25177,516d496a-3d7d-4bfb-8718-1bd7eb3714b8,Tommaso Lomellini,—hasMother—>,25375,323f177a-2bf3-4c86-9120-fd883f493288,Teodora di Negro
+24209,5241eadf-369b-4320-b577-26c7e3d3bf0a,Cesare Lomellini,—hasMother—>,23174,1ee4d293-f09f-4f49-a3c2-b49a484dac2a,Maria del Carretto
+23765,524431ee-320f-4471-b13a-81f7fb22850f,Catetta Ittaliano Mignardi,—hasMother—>,23097,be7dbb5d-c151-4253-9e9e-2b3a48f7c962,Gironima Bianchi
+24636,5274ff64-d48b-4d17-a59f-3ec4ef281de3,Isabella Lomellini,—hasMother—>,23042,f447cf9f-24c6-410f-9b9f-0b65661e0af8,Porzia —
+24805,52b111e9-0641-4fff-984b-ca35c7f81ad4,Maria Lomellini,—hasMother—>,25629,f0832368-d4f7-4a89-966a-210144d3bdf3,Bianca Spinola
+24539,52bb2afd-118b-4209-a94e-2316b0123dd0,Giovanni Raffaele Lomellini,—hasMother—>,25399,faffebcb-1164-43b0-8c1b-4943cfc1e81b,Maria Odone
+24789,5320dff1-c321-4496-ab86-9ff931bd0a20,Maria Lomellini,—hasMother—>,23564,3ff707d7-1cd4-4f8c-9784-2e0efc872eb4,Maddalena Gentile Ricci
+24322,53996d2c-a934-476e-9fc2-612049f21607,Franca Lomellini,—hasMother—>,25313,8a45368e-50b0-4947-ad44-1a9286241b84,Lionetta de Marini Pessagno
+24758,53b4868f-53ab-4511-8125-cf7d77c4a7c7,Margaritta Lomellini,—hasMother—>,25758,a5f9cc83-b9e6-4b09-8047-2018ce8ff283,Orietta Spinola
+24733,53c7f66b-2f90-445a-b756-10dd35da0efc,Luigia Lomellini,—hasMother—>,23694,cad802cb-6d3d-4393-abdd-1bfae94155f8,Luigia Grimaldi
+24603,53d60d6a-992c-44fb-a603-74d4f5a1da5b,Giustina Lomellini,—hasMother—>,23620,5d13c7bf-cf75-4f89-81c4-46cb1e927c04,Francisca Grillo
+25130,53fb36dd-7af5-459b-b96a-6a88107a7977,Teodora Lomellini,—hasMother—>,24829,54f985fb-0109-45b9-965e-7a1f40ea89e9,Maria Lomellini
+24177,5401b970-19d8-4879-afd9-9424d1366c0a,Caterina Lomellini,—hasMother—>,24574,1e792ee6-6c78-4a1d-8313-d81bacd4ec9f,Gironima Lomellini
+25033,542fb086-2e9f-4226-af2a-5bcb7dec43bd,Pietro Lomellini,—hasMother—>,25375,323f177a-2bf3-4c86-9120-fd883f493288,Teodora di Negro
+24638,54a00a7a-5857-4052-99a2-cca09346af23,Isabella Lomellini,—hasMother—>,23168,207a161c-0485-425d-aaee-d9c9fbbd842d,Caterina de Carmandino
+24185,54e9c0b8-b56c-4bf9-8d17-cd3a73853821,Caterina Lomellini,—hasMother—>,23742,0cff9bd0-8ec6-404a-a611-ed9c1c3dd78e,Silvia Imperiale
+24673,54f38eec-7a43-4eb8-8da2-9e934ad65dee,Lodisio Lomellini,—hasMother—>,23533,04d11860-6929-4227-99e4-23028eb55c61,Argenta Gentile de Turca
+24594,550ca95f-e904-492b-8469-fa488688d7d9,Giuliana Lomellini,—hasMother—>,25486,5e8f45a4-4143-4438-a5a2-fb1e2ebe4ca3,Maria Pinelli
+24462,558a5e5f-f493-4035-8017-347865c109d0,Giovanna Lomellini,—hasMother—>,25494,53fcbf3a-939e-4fd2-8704-1309bf49ace3,Violante Pinelli Ardimenti
+25099,558b52e0-f1ff-43f6-a7c3-f3750b6ff50f,Sobrana Lomellini,—hasMother—>,24404,179f2c2d-cfad-4f04-a34c-c545ecfdaa81,Giacoba Lomellini
+24743,5594f1b7-5fee-40fa-bbb6-785db7be8fb2,Maddalena Lomellini,—hasMother—>,25736,76fd97e1-3587-4c0a-811a-ad55de57cf29,Maria Spinola
+25169,561d88ba-04e1-4759-9734-a6e521693d8f,Tommasina Lomellini,—hasMother—>,23242,6cae7248-fee1-421a-baba-4a0bfd2526f6,Bianca Centurione Becchignone
+23093,56200512-0aa5-4924-91e9-6b7d220635fd,Bonifacio Bianchi,—hasMother—>,23783,a2b3ccc7-4663-4e76-8ec7-bc59c769ab4e,Linò Ittaliano Lavaggi
+24088,563288d8-efe6-46fd-8b70-9c443e339c41,Benedetto Lomellini,—hasMother—>,23580,d86feb3d-d661-4c19-ae30-0519188b078a,Pellina Gentile Ricci
+24941,56655e2e-4e3d-4b6f-8443-176a66df8801,Orietta Lomellini,—hasMother—>,25774,6da2f159-0706-49ec-9c33-e61683c32db4,Selvagia Spinola
+24127,568cebbc-6e76-47ed-9d3f-1141fa489876,Boarello Lomellini,—hasMother—>,23004,db535961-f6a8-444e-91c0-51ea9b8d8e91,Caterina —
+24519,5696ccb9-c892-47ee-9057-3a9f5f1638c2,Giovanni Lomellini,—hasMother—>,25246,dc0f85f0-3c95-401a-84dc-29e7fae5ec25,Orietta Malocello
+23948,56b8b21d-cc59-4ed3-a8cc-364fa02db7a8,Anna Lomellini,—hasMother—>,23177,07a92e65-4222-432b-84d9-0daea191322f,Camilla de Cassina
+25175,56d7f9d7-bace-4980-9dda-29c6999c25f1,Tommaso Lomellini,—hasMother—>,25632,32e19400-3fc6-4096-9c52-1b4e5b032e9d,Caterina Spinola
+24619,56dca87a-63e6-4d3b-93be-8a9ffd0fda89,Guglielmo Lomellini,—hasMother—>,25407,08247da3-5311-4bd0-9d9a-9be30b6ffd19,Caterina Oltramarini
+24417,57931b3f-bed5-49e2-8520-6b77792b9fc3,Giacomo Lomellini,—hasMother—>,23554,cbff4beb-4d5f-4935-8be8-9e4d6ae116dc,Giorgietta Gentile
+24925,5807acc1-3636-425c-ac84-e172f7c740a6,Oliverio Lomellini,—hasMother—>,23834,8eb1cf8b-3941-4dc4-9746-67aa54e99ced,Franca Lercari
+24122,58b24c9c-ab4f-45ce-9a5a-41b713d5ec8f,Bianca Lomellini,—hasMother—>,25375,323f177a-2bf3-4c86-9120-fd883f493288,Teodora di Negro
+25052,58f2223d-e4b4-4129-b3ef-f877adbe2557,Raffaele Lomellini,—hasMother—>,23025,33080be5-40fc-43f0-b182-3aaa2a484585,Luchina —
+25039,591bbbce-0063-4d76-9313-4cd06fafcabd,Pometta Lomellini,—hasMother—>,23533,04d11860-6929-4227-99e4-23028eb55c61,Argenta Gentile de Turca
+24988,599d6e0d-3161-46be-bd06-333b1a0329c0,Pellegra Lomellini,—hasMother—>,23377,c5ba68d7-5619-4111-9151-88e280ae6f79,Francisca Doria
+24854,59c4d27a-258d-4da9-a139-1e51494e4b91,Moisia Lomellini,—hasMother—>,23252,8019c711-b480-4f6f-92db-300acc35fa89,Franca Centurione Oltramarini
+25094,5a36a81a-67e5-4164-8f9e-f9f1cfef6cbf,Sobrana Lomellini,—hasMother—>,25076,c3421ea6-a506-40c5-a394-03b0110ee818,Simona Lomellini
+24712,5a4b8ef1-f198-4a8c-927b-58d748ce5ef2,Luchina Lomellini,—hasMother—>,25849,cc417d27-a2e1-4826-822f-29818252ac3c,Battina Vivaldi
+24049,5a59865d-8b22-4088-b30f-d6f856343384,Battina Lomellini,—hasMother—>,25290,f2f24b15-3464-4d2d-984b-c9c30a72f8ba,Bianca de Marini
+25034,5a79618b-fbeb-40e8-b686-d2d0f26cd447,Pietro Lomellini,—hasMother—>,24180,c02003bf-626e-487f-b1c4-867f54ed716e,Caterina Lomellini
+23987,5a7d8ea1-2a3c-43ca-8f70-7661cabfb119,Argenta Lomellini,—hasMother—>,23435,a424676d-970d-496c-b294-9bb4d8b8e46c,Pietra Doria
+24753,5a8221e0-903d-4c32-abce-a87b5bd897ec,Marco Lomellini,—hasMother—>,25552,fb844a13-42fb-43c8-ad5b-e45026972d4e,Selvagia Salvago
+24695,5a96d92b-ab51-4814-b59d-c50a799880b7,Lucano Lomellini,—hasMother—>,23252,8019c711-b480-4f6f-92db-300acc35fa89,Franca Centurione Oltramarini
+24468,5aaec571-5df7-4ddc-97ed-1b2c72284215,Giovanni Antonio Lomellini,—hasMother—>,23007,41e473e8-4ed2-4d4a-87f4-fa3f13cb7836,Chiara —
+24184,5ac8fbf0-ec9a-472a-bdc6-a2039b1e5bb1,Caterina Lomellini,—hasMother—>,23569,9ab3f2f7-2ce4-4391-a910-b52ec71d56ca,Maria Gentile
+24378,5b681602-92eb-471d-b79a-0f86cf60f029,Galeazzo Lomellini,—hasMother—>,23597,188dd02d-884b-436f-81ec-8439df32e3ea,Isabella Ghizolfi
+24904,5b69b97f-175f-4445-9807-c073b9bbefad,Nicoletta Lomellini,—hasMother—>,25485,f521a4dd-62dc-4c61-88c1-d3505c65ab38,Maria Pinelli
+24898,5b8c1e3c-2d93-44ad-80e1-c955c91935d9,Niccolò Lomellini,—hasMother—>,23344,e99871d8-2e70-4f66-bfdf-1c87358809c3,Bartolommea Doria
+24850,5baa0c1f-56e7-42ae-a7b2-072f3cf18829,Michele Lomellini,—hasMother—>,25293,19a2f7b3-6ad6-4bf4-8f7d-0beb7f1fabf3,Caterina de Marini
+25027,5c0cc92d-ff1f-432b-a07e-1388ed2dbaa3,Pietro Lomellini,—hasMother—>,23413,dcad4e0b-e660-45a7-82ac-02d274890b69,Maria Doria
+24448,5c331f72-ceec-4440-9e71-413c6b1da81e,Giorgietta Lomellini,—hasMother—>,23068,c9cd3a09-dd07-43da-8a2a-8d0c680162e8,Brigida de Balestrino
+23149,5c4e40d2-eea8-4ac5-b2f1-f683995de2bf,Niccolò Camilla q. Domenico,—hasMother—>,25716,42232586-1b9c-4852-83a4-47a5addf0ab5,Gironima Spinola q. Bartolomeo
+23285,5c5b9487-4c9f-4ba6-ac34-dbc80c84c1a9,Argenta Cicala ,—hasMother—>,25664,cd636718-f237-4852-9411-508c57064e03,Francesca Spinola
+23998,5cda72c6-9956-4c54-b633-b254b7a78621,Artemisia Lomellini,—hasMother—>,25414,d95b3d2b-dd50-48ce-97a8-59955adfb2bc,Barbara Pallavicini
+25193,5d6a2d8e-128e-4426-8df8-64c4baa63b09,Valentino Lomellini,—hasMother—>,23714,96077fb9-be1c-4ee2-ae71-43b14ae61ffe,Francisca de Gualtieri
+24657,5d92d692-5633-4644-9f3c-d9298fd69e6e,Leonardo Lomellini,—hasMother—>,25076,c3421ea6-a506-40c5-a394-03b0110ee818,Simona Lomellini
+24998,5dabf6b4-51cf-433d-a409-54673ddab2b9,Percivale Lomellini,—hasMother—>,23046,3871ad32-4e6c-492e-a1fd-a85d6d747343,Simona —
+24204,5dbd7872-ba51-4163-b820-e5132a99c9e2,Cattaneo Lomellini,—hasMother—>,25370,8b96c638-79de-44a6-b0c6-cd3576b25630,Maria di Negro
+24447,5dbeb818-c0a4-4025-a9c0-a1da9b63d223,Giorgietta Lomellini,—hasMother—>,23992,df74adb3-7837-41d7-bebf-e98d36012b0c,Argenta Lomellini
+24852,5dd95f6d-7d22-4000-885f-541e8afccf1e,Minetta Lomellini,—hasMother—>,23271,8798fbba-f158-43aa-ab83-f83e4ac6c5e1,Pellina Centurione Becchignone
+24114,5df028f2-74ea-486f-9fba-3b682986b04a,Bertolino Lomellini,—hasMother—>,25828,a6934968-a47e-45ac-b0b9-908eb4343b27,Orietta Usodimare
+24698,5e208823-daf1-4c24-9eef-8c416bb8b241,Lucchino Lomellini,—hasMother—>,23593,84c419fc-be6c-40bf-8cc7-b7e1acb8a06d,Caterina Ghizolfi
+25222,5e754b41-d40c-473d-b42d-d55115e70d03,Amico da Lumbello,—hasMother—>,23175,f16e51dd-6f62-4887-9dfd-fb888f9c9df4,Giacoba Cartagenia
+24275,5ebad11a-402b-4b56-b537-ac721efa84a4,Eleonora Lomellini,—hasMother—>,25639,7f19ec94-bcd1-49c0-8451-1b69d267559a,Chiara Spinola
+24230,5ebb1c52-52c0-4494-80a3-1787f0899fbe,Cosmo Lomellini,—hasMother—>,25390,5de5c11d-ecfe-4aa7-97f8-568f23da0319,Maria Negrone
+24513,5ec1d30c-f4ab-4057-87fe-1ed61d64a651,Giovanni Francesco Lomellini,—hasMother—>,23070,29a91ac5-2592-4711-b342-d23823c0ecbf,Gironima Banchero
+24467,5edc930d-9b1a-47d9-bedc-17afd255ddcc,Giovanni Antonio Lomellini,—hasMother—>,25367,ecb86666-2282-4f46-9f05-a8cbf9430a39,Luchesia di Negro
+24313,5f5d6223-559f-4b73-8a22-fc4412254ac1,Filippo Lomellini,—hasMother—>,24626,1d9ee6d9-3ff6-4097-91e7-3bb10ec6c423,Imperiale Lomellini
+24506,5f73248d-073d-4e0d-9a9b-958f6a90655f,Giovanni Battista Lomellini,—hasMother—>,23584,7627597b-e671-4c63-bb39-7c481fffdf07,Selvagia Gentile Ricci
+24426,5fbc2f69-94d3-4cd2-b1b1-ff6f58d11f9f,Giacomo Lomellini,—hasMother—>,24829,54f985fb-0109-45b9-965e-7a1f40ea89e9,Maria Lomellini
+25036,600dc1fb-cb67-4df1-bd3f-c6112d0fa940,Pietro Lomellini,—hasMother—>,25774,6da2f159-0706-49ec-9c33-e61683c32db4,Selvagia Spinola
+24770,60263a82-bb52-4883-a145-0ae554e57b86,Maria Lomellini,—hasMother—>,23021,14c007a3-fd30-40cc-b1dd-174dd9d7aef8,Isabella —
+24687,604cecf3-a848-4984-81f9-a205d0cf4ad5,Lorenzo Lomellini,—hasMother—>,23520,31015488-0162-4567-8ffe-eaa17717055d,Sobrana Garibaldi
+24301,60910b26-0dd3-4b2d-bc89-ebfc2fe7fbf4,Fabiano Lomellini,—hasMother—>,23211,4e717e8d-ec0b-4a0b-bfb2-60b292af4ce4,Linò Cattaneo
+24022,60b584d8-3c42-40fe-aac9-36744fbb675b,Bartolommea Lomellini,—hasMother—>,23520,31015488-0162-4567-8ffe-eaa17717055d,Sobrana Garibaldi
+24070,61286303-0597-4e2a-a60d-32a418899142,Battista Lomellini,—hasMother—>,24774,fe0d3d8a-79db-4770-973e-634061b9ebdf,Maria Lomellini
+24522,6134c06c-a0ee-4203-a2bb-bc25b6fda9fd,Giovanni Lomellini,—hasMother—>,25269,b42492c3-a6e4-4033-a743-cc3c41a92acd,Orietta de Mari
+24358,616e9f5d-ac97-4ec6-883f-360088916185,Francisca Lomellini,—hasMother—>,25788,fbf215d4-8810-4a70-920d-ce15ce61b6b1,Battina Squarciafico
+24690,617f1182-cd15-4440-b069-14f29f5ac3d7,Lorenzo Lomellini,—hasMother—>,23616,5faf00eb-4891-4d7c-b3d3-99d988969347,Battina Grillo
+25143,61af4eb5-eb0a-42ee-bd2c-ee78ebecf0f6,Teodora Lomellini,—hasMother—>,25736,76fd97e1-3587-4c0a-811a-ad55de57cf29,Maria Spinola
+24056,61fd59b7-6a05-4f68-9cc5-c6d54f5d40e8,Battina Lomellini,—hasMother—>,25241,6f2a7a97-912a-42f0-958f-3b6a14280836,Maddalena Maggiolo
+24002,620c1026-7ee5-4b44-9099-f0942ba058c3,Babilano Lomellini,—hasMother—>,23036,6694b635-2ab0-452c-8619-4e84efe2ae7f,Odina —
+24249,622e5065-5ae7-4ed5-b129-281bf2de0bde,Damiano Lomellini,—hasMother—>,25794,250aad66-fc1b-44fe-9553-c5df1d21a808,Margaritta Squarciafico
+24123,6235c9fd-b74a-4864-9cca-4922a9d95e91,Bianca Lomellini,—hasMother—>,25845,266ed7a2-d79b-4e2e-b8dc-57a26bc0eb44,Argenta Vivaldi
+23883,626ca1ff-3445-473b-8742-01250f3d807a,Agostino Lomellini,—hasMother—>,25613,15e92ece-63e6-4919-a511-1847805c2b4a,Barbara Spinola
+23981,6277773f-45f8-48e3-8ccd-8444263a6c9e,Antoniotto Lomellini,—hasMother—>,23050,5c9d7cbf-dcab-4caa-99fc-672c97273134,Violante —
+24315,628b7c52-45c3-4b5e-9eb4-be4d22507c10,Filippo Lomellini,—hasMother—>,23520,31015488-0162-4567-8ffe-eaa17717055d,Sobrana Garibaldi
+23989,628cbee7-f487-41c8-83a9-b4993f5bf78e,Argenta Lomellini,—hasMother—>,23849,605db703-8ccd-42b1-aa80-10cdda923d7b,Luchina Lercari
+23908,6303ba3e-5dc8-45eb-97e2-9e0df3c03198,Ambrogio Lomellini,—hasMother—>,23610,62db3d53-61a8-440b-9acc-8758eaa0396e,Valerana Giustiniani Longhi
+24454,6338d52e-0112-463d-a75d-8589649a4672,Giorgio Lomellini,—hasMother—>,25326,fa6d489e-b325-448c-9770-c32ef872fdb2,Romanella de Marini
+24379,634c1926-b402-42e8-8250-5589985dd00a,Galeazzo Lomellini,—hasMother—>,25795,a49e734c-4947-4e15-bc27-276bb349c30a,Maria Squarciafico
+24406,637ad1ca-d4a9-4a41-bebb-d40f8cc99143,Giacomo Antonio Lomellini,—hasMother—>,23610,62db3d53-61a8-440b-9acc-8758eaa0396e,Valerana Giustiniani Longhi
+24502,640c868e-38e2-425a-813d-323a3b3484fd,Giovanni Battista Lomellini,—hasMother—>,24731,1d9ddf68-2987-4dfb-a419-1f1a442c3d64,Luigia Lomellini
+24289,6415df82-3208-4b32-81c5-e3324dd0ed04,Elisia Lomellini,—hasMother—>,25794,250aad66-fc1b-44fe-9553-c5df1d21a808,Margaritta Squarciafico
+24930,645bbad5-41ec-423a-a42f-24b77bbe8afd,Opizio Lomellini,—hasMother—>,23364,b2b96b56-fbbe-4f0c-9e6d-7324c9df69df,Chiara Doria
+23965,645bd30b-ef91-4ee6-a34e-2cc6828fabb8,Antonio Lomellini,—hasMother—>,23218,b20761a6-e68c-4a3a-9a26-d2c9a29e3fd8,Maddalena Cattaneo
+24604,645c8dc0-18bc-4245-9303-6b20940837d3,Goffredo Lomellini,—hasMother—>,25771,43c16887-63e0-42d2-ad06-ba7c79a140af,Pometta Spinola
+25072,64796865-2253-48ea-ab75-150a11ace802,Silvestro Lomellini,—hasMother—>,24066,48d56d19-d1c7-480c-a99c-22021d8b4dbc,Battina Lomellini
+24477,64b8130f-6215-4891-8fb4-040cb2c533cb,Giovanni Battista Lomellini,—hasMother—>,23315,922e0f97-6693-4dfe-8ebc-7a0f520c69e2,— Crivelli della Spezia
+23907,64d1de39-0034-40b8-b4fa-e23b50749a27,Ambrogio Lomellini,—hasMother—>,23353,39695fac-9ce5-402d-a1d7-1d65ae430125,Benedetta Doria
+24140,654d9cc3-6491-4691-a864-73c8cd75e377,Brigida Lomellini,—hasMother—>,23559,78655b92-5326-487f-ad2b-e8614fb6def8,Isabella Gentile Pignoli
+24642,658cf546-7cc9-4511-bae5-96fb4421ae1a,Isabella Lomellini,—hasMother—>,24787,18cfbddf-3826-4ef7-b367-a04e67cc325d,Maria Lomellini
+24880,65c8d91a-1ccc-49f6-8474-488fd8f0cd66,Niccolò Lomellini,—hasMother—>,23994,8d49c1e6-14f0-41c7-92b9-4d03f8d4aef1,Argenta Lomellini
+24075,65cc0881-83c9-467b-befe-266cc5847a0f,Battista Lomellini,—hasMother—>,24191,b14cdde7-ae80-4f80-8512-cf9047b1d655,Caterina Lomellini
+24021,65ce1d60-ab64-4d27-b07c-e56f86abe2ac,Bartolommea Lomellini,—hasMother—>,25582,6d0607ed-42bd-4440-902d-9d2d653d8ad8,Bianca de Signori di Lagneto
+24596,65d5fe18-52f4-4035-9a77-bc6eb7d01671,Giuliano Lomellini,—hasMother—>,23593,84c419fc-be6c-40bf-8cc7-b7e1acb8a06d,Caterina Ghizolfi
+25122,6606920f-d445-4e94-af0f-852c135c45b1,Taddeo Lomellini,—hasMother—>,23106,314c8177-969d-4d4e-bc09-4c3e2712f468,Tommasina Boccaccio
+25081,667d003d-da07-4f51-a385-1eed30194467,Simone Lomellini,—hasMother—>,25554,9707240b-da07-4d83-8690-812fb7a3359b,Tommasina Salvago
+24982,668e325d-7519-4e9d-a552-a2c40aadddc4,Pellegra Lomellini,—hasMother—>,23242,6cae7248-fee1-421a-baba-4a0bfd2526f6,Bianca Centurione Becchignone
+24971,66c04b26-c1d6-4a20-9cc4-6d3876ffb19b,Pasquale Lomellini,—hasMother—>,25639,7f19ec94-bcd1-49c0-8451-1b69d267559a,Chiara Spinola
+24286,66e82522-2c13-44f4-8e0d-c465772d7213,Eliano Lomellini,—hasMother—>,23354,77c94fc6-a636-40d3-b5ad-9ff420296e74,Benedetta Doria
+24651,67aec133-e8f8-4838-a2a2-a4e17d709a8c,Lazzaro Lomellini,—hasMother—>,25639,7f19ec94-bcd1-49c0-8451-1b69d267559a,Chiara Spinola
+24402,67de3679-811e-489b-9c17-2c9f7486f8a9,Giacoba Lomellini,—hasMother—>,23658,bcb72d86-9750-4d58-a96b-21651c620521,Bianca Grimaldi de Castro
+24590,68004009-3989-45ab-a0b9-6db4ae372c97,Giulia Lomellini,—hasMother—>,25428,d69a75c0-23f3-4ee1-be62-3aed32453797,Maria Pallavicini
+25114,6816cb1c-3c7a-4c3e-95ee-5d9794276e9d,Stefano Lomellini,—hasMother—>,23520,31015488-0162-4567-8ffe-eaa17717055d,Sobrana Garibaldi
+24785,68994ad6-961c-459d-afa2-2767366ed84a,Maria Lomellini,—hasMother—>,23381,ecd1b449-c46e-4606-9d90-a2ca7959a28d,Giacoba Doria
+25147,68f3e18b-2b79-4352-a56e-62d64766d786,Teodora Lomellini,—hasMother—>,25146,832d4151-87e9-4916-b994-33080bb7b15b,Teodora Lomellini
+24057,691e7053-c519-4299-ba6d-27a5d1a4d441,Battina Lomellini,—hasMother—>,25570,e0a0baf0-e603-4fe9-a9d2-efdf42a50d55,Isabella Scaglia
+24025,693457bf-fe82-40c3-91ac-df1010f87582,Bartolommeo Lomellini,—hasMother—>,23029,e78beb8e-6df8-4f09-888d-a952742368a8,Margaritta —
+24704,694b961a-4cab-4472-af65-3babd8b8819a,Luchetto Lomellini,—hasMother—>,24939,05ab32b3-aac9-4695-85eb-80e828a596ff,Orietta Lomellini
+25205,69821a7b-3cd3-4ceb-9ba8-b6f8422213e2,Vincenzo Lomellini,—hasMother—>,22999,5e5a977e-9aef-4cd2-b697-556cbb136aa8,Argenta —
+24788,699055ea-e9ce-4cbf-87e7-ba444d0f43f6,Maria Lomellini,—hasMother—>,25367,ecb86666-2282-4f46-9f05-a8cbf9430a39,Luchesia di Negro
+24187,699df053-04fd-43b1-93e6-13be860b9019,Caterina Lomellini,—hasMother—>,23241,2463926e-01d9-41f5-9aa2-87f0f1b4ee55,Battina Centurione Oltramarini
+24883,69b671d4-1374-4a0f-82da-e6d2863ad91f,Niccolò Lomellini,—hasMother—>,25745,147aeaa3-8e9d-4486-a097-098dff9f624a,Niccoletta Spinola
+25044,69b7059d-22d1-49f7-8a45-12e25b609cac,Raffaele Lomellini,—hasMother—>,23041,635037b9-8368-4fbf-9f25-244324d656d3,Pietra —
+24174,69d34aa7-f10c-4ace-9c4c-c3f510fd807b,Caterina Lomellini,—hasMother—>,24829,54f985fb-0109-45b9-965e-7a1f40ea89e9,Maria Lomellini
+25014,69fcfb4c-f3c9-42ca-ad98-f1ecb71a74e0,Pier Gregorio Lomellini,—hasMother—>,23535,5ed3ead9-872a-49a6-9798-9eb4797dde4f,Battina Gentile Ricci
+24264,6a4fa738-a609-4df6-a873-9251396ea79a,Domenico Lomellini,—hasMother—>,25878,57839e67-15ac-4d1b-a08b-b2478f7a3863,Peretta Vivaldi
+24822,6a6d9bbb-65d0-4fd1-b255-2f33b5ade098,Maria Lomellini,—hasMother—>,23993,087b4932-fed1-4ef7-9500-0c8182edd1cc,Argenta Lomellini
+24655,6a725934-2423-4d40-a8bd-ee0798fab680,Leonardo Lomellini,—hasMother—>,23016,2e85f439-99d1-4d3a-b90b-e518519ee836,Francisca —
+24172,6ba1edcd-2247-4dae-829c-1c964b8bb1e2,Caterina Lomellini,—hasMother—>,23252,8019c711-b480-4f6f-92db-300acc35fa89,Franca Centurione Oltramarini
+24820,6c07944a-c835-4f6e-9fe5-4fb7315c6284,Maria Lomellini,—hasMother—>,23616,5faf00eb-4891-4d7c-b3d3-99d988969347,Battina Grillo
+24251,6c0fc125-2e4b-46d5-b74f-f2fdb54954f8,Damiano Lomellini,—hasMother—>,25326,fa6d489e-b325-448c-9770-c32ef872fdb2,Romanella de Marini
+24722,6c368341-05c7-4c5a-a288-620806de1336,Luigia Lomellini,—hasMother—>,23244,3fc93356-33ed-46af-961a-1d9fb5bde070,Chiara Centurione
+24956,6c76638a-97be-4cee-bb53-2294ade47cf7,Paola Lomellini,—hasMother—>,23241,2463926e-01d9-41f5-9aa2-87f0f1b4ee55,Battina Centurione Oltramarini
+23939,6ccd00f9-ba0a-42b1-9c7f-57cfa24c1b14,Angelo Giovanni Lomellini,—hasMother—>,25264,2c838e09-9749-4226-945b-a38712411707,Maria de Mari
+24527,6cedc89c-ca31-45d3-bf34-46332c2d2699,Giovanni Lomellini,—hasMother—>,23363,a9b9a97b-066c-4f41-a674-524c42e5c8fc,Chiara Doria
+24160,6cefb6e2-9e59-47dc-89b0-0416acc657df,Carlo Lomellini,—hasMother—>,24462,558a5e5f-f493-4035-8017-347865c109d0,Giovanna Lomellini
+24929,6d080d9a-7d84-469a-9b4d-72f54c7b217b,Onorasco Lomellini,—hasMother—>,25788,fbf215d4-8810-4a70-920d-ce15ce61b6b1,Battina Squarciafico
+24734,6d1070e9-f9ea-47fe-9a9e-dbcbd9b2c172,Maddalena Lomellini,—hasMother—>,25740,0818d587-9bf5-487a-9035-7cc389b6a012,Mariola Spinola
+24729,6d155aaa-3aed-4d2e-a373-ba352d101bfc,Luigia Lomellini,—hasMother—>,23253,fa7dd5dc-71fe-4ff2-b300-063ce827afa6,Francisca Centurione Cantelli
+24856,6d312912-5647-4cb9-9af9-5ad010edaacb,Morvello Lomellini,—hasMother—>,24261,abb9d253-bab7-498f-9e74-6d605f8bdd65,Despina Lomellini
+24067,6d320be8-1b52-4089-80d8-e00115d25c4c,Battina Lomellini,—hasMother—>,25795,a49e734c-4947-4e15-bc27-276bb349c30a,Maria Squarciafico
+25058,6d41fb25-37f4-4a9e-ae40-d15e574cbf6f,Salvagia Lomellini,—hasMother—>,23821,b44a3d30-5a8b-4d74-8635-a9984298bc00,Ginevra Leccavello
+25226,6dff2343-3e35-43e5-ba7a-7a03be7ec9e8,Bartolommea da Lumbello,—hasMother—>,23175,f16e51dd-6f62-4887-9dfd-fb888f9c9df4,Giacoba Cartagenia
+24380,6ea235b1-b1d0-4fb8-992a-42eb337bcac0,Galeotto Lomellini,—hasMother—>,23821,b44a3d30-5a8b-4d74-8635-a9984298bc00,Ginevra Leccavello
+24048,6eb16ca6-5a9d-4387-9c2e-40aa95f96453,Battina Lomellini,—hasMother—>,25326,fa6d489e-b325-448c-9770-c32ef872fdb2,Romanella de Marini
+24528,6eb52aac-0008-4a6e-9492-aa9df4f86b40,Giovanni Lomellini,—hasMother—>,24155,c08335fe-9227-4fb5-874a-a8e43795e0a4,Caracosa Lomellini
+25187,6ece5792-cc90-46c0-b9b5-47ba6c696d0e,Triadano Lomellini,—hasMother—>,25582,6d0607ed-42bd-4440-902d-9d2d653d8ad8,Bianca de Signori di Lagneto
+24509,6efa8a17-b4c3-4405-8656-c78793e4f832,Giovanni Francesco Lomellini,—hasMother—>,25337,9d5d1cd9-037d-4d0e-9d76-fa2d27a806bb,Giacoba Maruffo
+24111,6f74382f-ba8b-4037-9300-9da5c51decc8,Bernardo Lomellini,—hasMother—>,24825,d7f0b9c2-2160-49b5-960e-f22b3654709d,Maria Lomellini
+24311,7000b0d9-8abb-4784-9476-6838ce10cf95,Filippo Lomellini,—hasMother—>,25095,79ede81f-f6fe-44dc-8c99-3ea2df501dfb,Sobrana Lomellini
+25042,701ad271-951f-4d59-8f8a-63fba1881cce,Prospero Lomellini,—hasMother—>,23606,f4ad5a40-509b-4598-bcaf-30dce9cc86a1,Limbania Giustiniani
+24281,7035e304-69a1-44b3-8ce6-6be8f2ea5c06,Eliana Lomellini,—hasMother—>,23298,77700862-e18d-4012-a896-951fa291b9fc,Selvagia Cicala
+24927,704cc0a9-2c65-4872-89c6-b992e42ad33a,Onofrio Lomellini,—hasMother—>,23071,982472cc-4af6-425d-8b4e-600c13312ee9,Caterina Barbavaria
+24924,70980139-891e-4d8c-98f2-e30381130305,Oliverio Lomellini,—hasMother—>,24191,b14cdde7-ae80-4f80-8512-cf9047b1d655,Caterina Lomellini
+24143,7125ce06-5197-4027-ae69-e4a90f043b49,Brigida Lomellini,—hasMother—>,23596,1ee8f425-cb0e-4dae-8deb-39b34bbaeb9d,Gironima Ghizolfi
+24715,715ec493-3836-4617-a63f-3cb4f26c824b,Lucia Lomellini,—hasMother—>,25632,32e19400-3fc6-4096-9c52-1b4e5b032e9d,Caterina Spinola
+25031,71dadfd3-dc97-491a-ad5c-9f7bea6c5c8f,Pietro Lomellini,—hasMother—>,25264,2c838e09-9749-4226-945b-a38712411707,Maria de Mari
+24285,72222fa4-531e-42ae-b258-d0e1c84f9c21,Eliano Lomellini,—hasMother—>,25740,0818d587-9bf5-487a-9035-7cc389b6a012,Mariola Spinola
+24300,72475185-b801-4ef6-afef-c63bd9896a62,Fabiano Lomellini,—hasMother—>,25487,62d98c61-b3eb-42d8-b88b-fa15505da08a,Moisia Pinelli
+24707,72606ed7-8d16-4cb8-bb9f-5907a2a015cf,Luchina Lomellini,—hasMother—>,24734,6d1070e9-f9ea-47fe-9a9e-dbcbd9b2c172,Maddalena Lomellini
+25136,729ea3b3-5e89-44a6-80ef-34616229b329,Teodora Lomellini,—hasMother—>,25097,3d757e85-1a84-4256-b058-4c0b8a7cc21c,Sobrana Lomellini
+24646,72d211a6-2e45-42e4-aa97-e9cf2b875908,Lanfranco Lomellini,—hasMother—>,23106,314c8177-969d-4d4e-bc09-4c3e2712f468,Tommasina Boccaccio
+25104,72d841ed-5d5b-4b39-adff-6b221e8a6475,Sorleone Lomellini,—hasMother—>,24146,c4251f93-0623-4673-b490-7542ee91340f,Brigida Lomellini
+24101,73612254-46a3-4eb7-8917-a5bd03260f06,Benedetto Lomellini,—hasMother—>,22996,63d5fab1-c8b3-46ba-9c1e-5c3b94731e97,Angela —
+25129,73774755-584f-4c7a-94cd-5c90764f2217,Teodora Lomellini,—hasMother—>,25336,87b283e1-22c7-4b53-9f69-3a60e69ca122,Francisca Maruffo
+25149,73e6b294-1ca4-4687-9748-73790e29ffb0,Teramo Lomellini,—hasMother—>,23211,4e717e8d-ec0b-4a0b-bfb2-60b292af4ce4,Linò Cattaneo
+24614,73f8e431-167c-4b3f-9a30-cd2ea7f32391,Gregorio Lomellini,—hasMother—>,24937,7bae2620-0b9a-405d-8257-566c1600edfa,Orietta Lomellini
+24877,743da6cc-b96f-4bb5-93bb-7acad119fea3,Niccolò Lomellini,—hasMother—>,23038,71ef6995-d100-4c94-a69d-77ab81f4e12b,Orietta —
+25217,74a54892-e2b0-4473-81ea-2145962262ed,Vittoria Lomellini,—hasMother—>,24054,9c6505a0-696b-415b-ae4b-c12f19fd3a69,Battina Lomellini
+25125,74f0000e-3ddd-49d9-ab93-31cf3877ee83,Teodora Lomellini,—hasMother—>,23021,14c007a3-fd30-40cc-b1dd-174dd9d7aef8,Isabella —
+24605,753e8caf-fdf3-4a07-bccf-577eb1d0ebda,Goffredo Lomellini,—hasMother—>,25375,323f177a-2bf3-4c86-9120-fd883f493288,Teodora di Negro
+25185,75450f9d-4522-4498-bb62-e0e2b83d75dc,Triadano Lomellini,—hasMother—>,24668,a8ec4a55-2066-48f8-bf8d-67625bfcd564,Linò Lomellini
+24595,754894f5-af4a-4f39-b0fb-fa7c546207e3,Giuliano Lomellini,—hasMother—>,25870,df6a75ae-5490-49cd-a929-45cb577a7ec0,Maddalena Vivaldi
+24157,7603d0e5-53f1-4b11-ba9a-07db0a9d5d38,Carlo Lomellini,—hasMother—>,25330,7e015b39-5bcd-4693-bf4c-c3d9ea2ccb32,Susanna de Marini
+24764,7646c30f-224d-4d75-969e-effe58acc3a7,Margaritta Lomellini,—hasMother—>,23993,087b4932-fed1-4ef7-9500-0c8182edd1cc,Argenta Lomellini
+24940,76b9d3a7-d9d4-40f1-be5d-11a58e85c318,Orietta Lomellini,—hasMother—>,23439,89fbfe19-b532-43d9-848b-08fbe53c7897,Susanna Doria
+25189,76dc5b66-25d5-4e8d-889d-54c75f9fe3e2,Ughetto Lomellini,—hasMother—>,23018,3e99b304-3f0c-42bf-a7fc-09ca188b36a4,Giulia —
+24346,76fe1066-905f-4695-9d01-d0a34d351313,Francesco Lomellini,—hasMother—>,25370,8b96c638-79de-44a6-b0c6-cd3576b25630,Maria di Negro
+24776,7720ce8d-89d5-475a-882c-21b6c607ec8b,Maria Lomellini,—hasMother—>,23841,1e32a940-c999-43f8-9bf4-bfab93bcf4c4,Gironima Lercari
+25194,7774339c-af18-4272-8cd4-c1aa3f4939de,Valerano Lomellini,—hasMother—>,22999,5e5a977e-9aef-4cd2-b697-556cbb136aa8,Argenta —
+24457,7862657b-6be8-4b88-b137-8748dc0e5495,Giorgio Lomellini,—hasMother—>,23025,33080be5-40fc-43f0-b182-3aaa2a484585,Luchina —
+23971,78795aa5-62bc-4212-a531-7e97eefa2218,Antonio Lomellini,—hasMother—>,25293,19a2f7b3-6ad6-4bf4-8f7d-0beb7f1fabf3,Caterina de Marini
+25235,78d77e1b-e323-4c7b-8a02-794bf9066231,Ogerio da Lumbello,—hasMother—>,23175,f16e51dd-6f62-4887-9dfd-fb888f9c9df4,Giacoba Cartagenia
+24900,792447de-2dcd-4f77-97d0-0391fed3f2df,Niccolosia Lomellini,—hasMother—>,23620,5d13c7bf-cf75-4f89-81c4-46cb1e927c04,Francisca Grillo
+24881,79247ccd-1bd8-4fb1-be69-3988c91b9edc,Niccolò Lomellini,—hasMother—>,23363,a9b9a97b-066c-4f41-a674-524c42e5c8fc,Chiara Doria
+25002,792995d8-3c9f-4e80-aa42-67a15ccb81a9,Peretta Lomellini,—hasMother—>,23656,5aba82b9-b3fc-423a-9179-fb52995e7a30,Battina Grimaldi Oliva
+24666,798146e0-4c98-4d5b-ab93-cec1807fb53f,Limbania Lomellini,—hasMother—>,25343,742f255d-2828-4b93-af60-671792739d3e,Pietra Maruffo
+24224,79995c6e-7208-4921-95de-a5a176b8a61c,Claudia Lomellini,—hasMother—>,23203,4d159acf-21f7-445c-9fe9-f4a408eb6d7d,Ginevra Cattaneo
+24062,79c43af4-a822-4c36-9308-7aacd5e7cdec,Battina Lomellini,—hasMother—>,23655,ccfc3b66-feb7-447a-9645-df6bec7e0100,Bartolommea Grimaldi Cebà
+24521,79cd7bfc-0d01-4973-8586-847e6121be9b,Giovanni Lomellini,—hasMother—>,23413,dcad4e0b-e660-45a7-82ac-02d274890b69,Maria Doria
+24292,79d124aa-489f-4a8c-b3ea-84a02cd3ddc9,Emanuele Lomellini,—hasMother—>,23025,33080be5-40fc-43f0-b182-3aaa2a484585,Luchina —
+25095,79ede81f-f6fe-44dc-8c99-3ea2df501dfb,Sobrana Lomellini,—hasMother—>,25552,fb844a13-42fb-43c8-ad5b-e45026972d4e,Selvagia Salvago
+24725,7a0b619b-062e-4510-982f-754d5095d440,Luigia Lomellini,—hasMother—>,25399,faffebcb-1164-43b0-8c1b-4943cfc1e81b,Maria Odone
+24161,7a4d02a0-0bed-448e-8e60-c6ff0f8bf7d3,Carlo Lomellini,—hasMother—>,23241,2463926e-01d9-41f5-9aa2-87f0f1b4ee55,Battina Centurione Oltramarini
+24970,7a615c4f-b7e8-41d8-bf68-d934a905b111,Pasquale Lomellini,—hasMother—>,23671,6477fe20-a1f6-4256-9d78-8b5403e8227e,Francisca Grimaldi Oliva
+24396,7abf2baf-19f3-4cf0-8763-12b363e212f6,Gherardo Lomellini,—hasMother—>,24932,b741c8c4-7adf-4f96-b58d-e8800f595210,Orietta Lomellini
+24677,7acbdb84-7c10-4391-b543-0c83f898350e,Lodisio Lomellini,—hasMother—>,23166,a0f34a06-1f43-4b63-ac5e-79b436270367,Pometta de Carli
+24746,7b047f84-0b6a-4488-b823-58b94ffeb417,Maddalena Lomellini,—hasMother—>,25767,1311bb60-1a88-4106-a9d7-5cb2b5fe115e,Pellina Spinola
+24324,7b081d85-01ec-413f-ba73-1af0e1721335,Franca Lomellini,—hasMother—>,23849,605db703-8ccd-42b1-aa80-10cdda923d7b,Luchina Lercari
+24804,7b1025bf-6d14-42b2-af32-87351cafed0b,Maria Lomellini,—hasMother—>,23243,3c350e78-65b8-4ccf-9f14-3a04ae4a58a3,Bianca Centurione Cantelli
+24663,7b420cef-7ce8-487c-853c-d855b0b65122,Leonello Lomellini,—hasMother—>,25375,323f177a-2bf3-4c86-9120-fd883f493288,Teodora di Negro
+24949,7b48f679-e8ee-46e4-98c5-377d29545c00,Ottobono Lomellini,—hasMother—>,23729,594748a8-9964-412e-b80a-19de1e41c0be,Cecilia Imperiale
+23923,7b76aaae-4763-4310-a8a8-5fc2aac120ad,Andrea Lomellini,—hasMother—>,25375,323f177a-2bf3-4c86-9120-fd883f493288,Teodora di Negro
+25102,7b909895-ccc0-44b3-b3f8-16155d7feabb,Sorleone Lomellini,—hasMother—>,23821,b44a3d30-5a8b-4d74-8635-a9984298bc00,Ginevra Leccavello
+24937,7bae2620-0b9a-405d-8257-566c1600edfa,Orietta Lomellini,—hasMother—>,23821,b44a3d30-5a8b-4d74-8635-a9984298bc00,Ginevra Leccavello
+23889,7bc172b6-8b9d-495a-a19f-e5059d5f4a2b,Agostino Lomellini,—hasMother—>,25471,5ccc6f4e-d50d-4574-a06c-c12a2a2b31fa,Caterina Pinelli Ardimenti
+24650,7bc999e0-8907-4849-9227-4b0cbe754be8,Lazzaro Lomellini,—hasMother—>,25680,31af271d-9797-4a67-94ec-54c4d823f77c,Ginevra Spinola
+25174,7bcd5705-a332-4788-967a-8af4c000e356,Tommaso Lomellini,—hasMother—>,25554,9707240b-da07-4d83-8690-812fb7a3359b,Tommasina Salvago
+23914,7bcd861a-b348-49de-aa25-dcad1e172891,Ambrogio Lomellini,—hasMother—>,23022,a3602b87-b753-4c97-be3c-4a0fe22422e4,Isabella —
+24299,7be78681-dba3-4771-9c7c-48207d7168d0,Fabiano Lomellini,—hasMother—>,24261,abb9d253-bab7-498f-9e74-6d605f8bdd65,Despina Lomellini
+24227,7c08fbfe-e762-419a-b1e1-406d16216421,Corrado Lomellini,—hasMother—>,23016,2e85f439-99d1-4d3a-b90b-e518519ee836,Francisca —
+24383,7c74cf7d-88d9-4095-a47f-a60b767eb821,Galeotto Lomellini,—hasMother—>,23166,a0f34a06-1f43-4b63-ac5e-79b436270367,Pometta de Carli
+24479,7c9612a3-193e-4cf8-8c23-6ad7505a142d,Giovanni Battista Lomellini,—hasMother—>,25770,6af85ecd-4da7-4c38-a572-21734095a4d4,Pomellina Spinola
+25178,7c9e3ef5-cf67-4fc6-823a-b8894634c1fa,Tommaso Lomellini,—hasMother—>,25885,fb808123-abc2-4af1-9e2c-713a454e8640,Violante Vivaldi
+24761,7d19e5b6-be90-4642-ab11-d1d169641b0d,Margaritta Lomellini,—hasMother—>,23109,adf741f3-89df-4728-881a-437e5d60a83b,Teodora de Bosco
+24336,7d7b2135-3d0a-4070-92b5-bfbb852804b1,Francesco Lomellini,—hasMother—>,25376,e1df58fa-6baf-4a22-b2c4-464fe8721fa4,Tobietta di Negro
+24495,7d95e1dc-da89-4959-b6a0-ee65803a8c13,Giovanni Battista Lomellini,—hasMother—>,24404,179f2c2d-cfad-4f04-a34c-c545ecfdaa81,Giacoba Lomellini
+24910,7d97a383-675d-4cc9-87e7-188c5788d881,Novella Lomellini,—hasMother—>,23532,7db4cd87-c299-40dc-903b-14fa4f138fe1,Argenta Gentile
+24442,7da195ad-fd87-4e82-bbbf-6e799fe039b2,Ginevra Lomellini,—hasMother—>,23629,7b14e228-ae72-426e-968e-4b0838562569,Isabella Grillo
+24849,7db2ea3e-31b5-4781-9fc6-b1b7e54b34c6,Michele Lomellini,—hasMother—>,25738,8bff2fda-fcd5-4bee-bdad-a970c5897828,Maria Spinola
+23935,7de1ccfa-9f75-483c-b7a7-f00724a79c8b,Andreolo Lomellini,—hasMother—>,25828,a6934968-a47e-45ac-b0b9-908eb4343b27,Orietta Usodimare
+24811,7e84c186-9a81-427d-82a4-5d2107b3c3c3,Maria Lomellini,—hasMother—>,25828,a6934968-a47e-45ac-b0b9-908eb4343b27,Orietta Usodimare
+25093,7ea359e3-2add-4290-9be3-4c2ab53fb5eb,Sobrana Lomellini,—hasMother—>,25285,cd7b1554-f53c-4395-b14f-a36688425865,Aranetta de Marini
+25627,7f12340b-aa95-429e-89c9-39b82f7aa528,Bernardo Spinola,—hasMother—>,25067,7a213d84-b1c1-4965-8ae0-cfaa71ba5d3d,Selvagia Lomellini
+24611,7f570e4f-7d10-4375-b684-d63d1d454ad5,Gregorio Lomellini,—hasMother—>,23931,9ce474cf-76c9-45f3-b6e8-08413fd09ff6,Andreola Lomellini
+24252,7f9d68e1-af44-4684-968f-fbd82723587e,Damiano Lomellini,—hasMother—>,25381,5f4bb0a9-b4e1-4a38-bc23-7c3d0e97c2e4,Caterina Negrone
+24957,7fd751ff-b96f-4217-9397-1166aa107309,Paolo Lomellini,—hasMother—>,23050,5c9d7cbf-dcab-4caa-99fc-672c97273134,Violante —
+24759,8035f718-81a8-439d-a417-9cc7696c705d,Margaritta Lomellini,—hasMother—>,25878,57839e67-15ac-4d1b-a08b-b2478f7a3863,Peretta Vivaldi
+24550,80457a1b-22dc-4bc6-844a-c9c26a24e131,Girolamo Lomellini,—hasMother—>,25742,2572e1d7-8a62-4ccd-a0c3-2e6f4e508c1b,Moisetta Spinola
+24400,80471067-cdcb-42ba-8e79-190c940eb157,Gherardo Lomellini,—hasMother—>,25795,a49e734c-4947-4e15-bc27-276bb349c30a,Maria Squarciafico
+24421,8153b173-e170-4073-858d-6bff489e96bb,Giacomo Lomellini,—hasMother—>,23606,f4ad5a40-509b-4598-bcaf-30dce9cc86a1,Limbania Giustiniani
+24736,819ebd60-e24c-4cf0-8d2e-527e82407916,Maddalena Lomellini,—hasMother—>,23133,6db335df-3f6c-4d43-b95b-ae7c96ad318e,Peretta Calvi
+23873,81e1abae-278f-4c5c-9290-a26d4f9f02ec,Agamennone Lomellini,—hasMother—>,23021,14c007a3-fd30-40cc-b1dd-174dd9d7aef8,Isabella —
+24671,81ebd061-5854-4647-b149-aac590873645,Lionetta Lomellini,—hasMother—>,24774,fe0d3d8a-79db-4770-973e-634061b9ebdf,Maria Lomellini
+24763,82278ea5-2d98-4fcb-affb-0ee4eaff59fb,Margaritta Lomellini,—hasMother—>,25606,3918a8ed-3761-4ed7-99a2-6a3f58c999bd,Andreola Spinola
+23995,83152b76-fd9a-4727-a23a-75040836dba7,Argenta Lomellini,—hasMother—>,23213,49c4575f-e408-4f41-8c83-a240c7ba8089,Lombarda Cattaneo
+25146,832d4151-87e9-4916-b994-33080bb7b15b,Teodora Lomellini,—hasMother—>,25817,4741530e-b56b-46d2-9357-80a4e1ccb027,Brigida Usodimare
+25223,8394056a-afe7-48df-9002-ee9218ed252a,Andreola da Lumbello,—hasMother—>,23175,f16e51dd-6f62-4887-9dfd-fb888f9c9df4,Giacoba Cartagenia
+24074,8428ead4-29e9-4a64-9128-e0f58c165c08,Battista Lomellini,—hasMother—>,25375,323f177a-2bf3-4c86-9120-fd883f493288,Teodora di Negro
+24399,8444dccc-0a5e-4422-94f5-ece4f920a53e,Gherardo Lomellini,—hasMother—>,23363,a9b9a97b-066c-4f41-a674-524c42e5c8fc,Chiara Doria
+24557,8459ab6b-7e0b-4d08-80ba-08fbc76a39c4,Girolamo Lomellini,—hasMother—>,25121,f024050c-e0f7-4f60-987a-ec3ff750a34c,Susanna Lomellini
+24944,8504c018-c943-42ce-804b-88371fb8f604,Ottaviano Lomellini,—hasMother—>,23177,07a92e65-4222-432b-84d9-0daea191322f,Camilla de Cassina
+24073,8517f0dc-9505-4f1a-a190-1d563b1490ae,Battista Lomellini,—hasMother—>,23168,207a161c-0485-425d-aaee-d9c9fbbd842d,Caterina de Carmandino
+24015,85382277-6aec-4bc2-9c3b-978e04122c81,Barbara Lomellini,—hasMother—>,25847,0db30427-8b7e-4fac-b2b4-71381b0b9082,Barbara Vivaldi
+24589,857ed556-56b2-4505-9e61-e1d358d6c573,Giulia Lomellini,—hasMother—>,23535,5ed3ead9-872a-49a6-9798-9eb4797dde4f,Battina Gentile Ricci
+24797,85961d22-f0b7-486f-a84d-eef0387cd9cf,Maria Lomellini,—hasMother—>,23295,bc572ea1-6a18-4e9d-8d87-a60bca6c9d09,Niccoletta Cicala
+24293,85b71246-ba08-4a7b-97a4-b3b83b20773c,Emanuele Lomellini,—hasMother—>,23610,62db3d53-61a8-440b-9acc-8758eaa0396e,Valerana Giustiniani Longhi
+24985,85be4bb3-ba90-4cab-9dff-7f2c941a3cf2,Pellegra Lomellini,—hasMother—>,25403,a45f0c5c-ba57-4e1b-b84e-ebada88b70b3,Bartolommea Oliva
+24441,85bf2141-6c40-4580-af9a-cb34fb96591f,Ginevra Lomellini,—hasMother—>,23589,d1d65240-e74c-4bc5-a1bf-7a297cbc9f8e,Teodora Gentile de Turca
+24518,85fc6088-6821-427d-83aa-a567baada59d,Giovanni Lomellini,—hasMother—>,22996,63d5fab1-c8b3-46ba-9c1e-5c3b94731e97,Angela —
+24357,8600f78a-39e1-4f8a-b520-dd8cbd565c04,Francisca Lomellini,—hasMother—>,25870,df6a75ae-5490-49cd-a929-45cb577a7ec0,Maddalena Vivaldi
+25816,868a0092-6352-4d4b-95f3-959b7e619b6e,Brigida Usodimare,—hasMother—>,24196,a3e17c87-137a-4f97-b013-54c99d9a8a40,Caterina Lomellini
+24475,86ed8832-9743-4b3e-9d06-96ca525afb70,Giovanni Battista Lomellini,—hasMother—>,23536,c757d7d0-cbef-4815-944f-8e5f2ec18897,Benedetta Gentile
+23997,87db1f14-6cb3-42ee-b54b-26de23439cfc,Argone Lomellini,—hasMother—>,23281,9ba0e919-ffdd-4421-b987-467d2609c743,Brandolina Cibo
+24491,87f9e79b-b677-4f05-b4b8-fdcf9ce9f5f1,Giovanni Battista Lomellini,—hasMother—>,25293,19a2f7b3-6ad6-4bf4-8f7d-0beb7f1fabf3,Caterina de Marini
+24989,88155e01-e362-47bd-91be-c69828b2902e,Pellegra Lomellini,—hasMother—>,24180,c02003bf-626e-487f-b1c4-867f54ed716e,Caterina Lomellini
+23874,887e631e-94a6-421c-b43d-8499c376e46d,Agamennone Lomellini,—hasMother—>,25740,0818d587-9bf5-487a-9035-7cc389b6a012,Mariola Spinola
+24786,8896ddba-292f-45d5-930f-1a9a422e69b5,Maria Lomellini,—hasMother—>,24126,b0f83553-df80-472d-bd62-c5c2dfe14ece,Bigotta Lomellini
+24349,889bc9bf-233e-42bc-8468-8d06f6386be8,Francesco Lomellini,—hasMother—>,23213,49c4575f-e408-4f41-8c83-a240c7ba8089,Lombarda Cattaneo
+23896,88aa40ca-cecf-4fbf-ac47-4fd91e481546,Aimone Lomellini,—hasMother—>,23384,0c4cbbac-b42d-4ebc-886d-747c074eeb3b,Ginevra Doria
+25666,88cc53c6-a412-4883-bd84-4c36fc276868,Francesco Spinola,—hasMother—>,25063,b1f65f82-2b41-40d2-8c12-d80fce0def49,Selvagia Lomellini
+24347,88d56dcc-e726-41a0-ba4e-5b8505add791,Francesco Lomellini,—hasMother—>,23987,5a7d8ea1-2a3c-43ca-8f70-7661cabfb119,Argenta Lomellini
+24058,8974f9dd-6725-4bc0-b23a-ddfedc52012a,Battina Lomellini,—hasMother—>,25259,c4f54093-d1c2-4e7e-84ae-adbd06bf1f5c,Francisca de Mari
+23494,8a6d3cd8-8257-4a56-a52d-ea5840bd55d4,Niccolò Fieschi,—hasMother—>,25162,f6cf61ad-7542-4808-8e98-d2aa292d39cb,Tobietta Lomellini
+24833,8c160aa6-4a5d-46a4-9ec0-53c463c1a44d,Maria Luigia Lomellini,—hasMother—>,25733,2326e60d-58ba-4909-9ccf-33de96600f47,Luigia Spinola
+24488,8c96a592-da6a-4285-8f4a-c6f9270cf3e4,Giovanni Battista Lomellini,—hasMother—>,23268,27051d26-c714-4656-8d4c-d6e61b3b2323,Orietta Centurione Oltramarini
+24003,8ca97406-fd6c-486c-8629-273591f8ca30,Babilano Lomellini,—hasMother—>,24774,fe0d3d8a-79db-4770-973e-634061b9ebdf,Maria Lomellini
+24068,8cb0c4fb-7505-4184-b09d-bc4ab62af6b6,Battina Lomellini,—hasMother—>,25800,67cb5038-2c79-4167-b1a6-0d23bc315cd5,Pometta Stella
+24954,8ced19aa-bae2-417d-a6ef-b54efc2bcc20,Pantaleo Lomellini,—hasMother—>,25569,5bda94c8-8c15-4f10-91b0-d920f301ceee,Gironima Scaglia
+24581,8cf89211-bb51-4740-9372-9932d0149883,Gironima Lomellini,—hasMother—>,25742,2572e1d7-8a62-4ccd-a0c3-2e6f4e508c1b,Moisetta Spinola
+25001,8d496046-8aa1-4512-9039-b0edbac3c414,Percivale Lomellini,—hasMother—>,23211,4e717e8d-ec0b-4a0b-bfb2-60b292af4ce4,Linò Cattaneo
+23994,8d49c1e6-14f0-41c7-92b9-4d03f8d4aef1,Argenta Lomellini,—hasMother—>,24019,df268090-f9d7-47b0-b8d1-0ac5b00dc383,Bartolommea Lomellini
+24920,8d945d4b-7e93-4d69-afe9-483c111597c4,Odoardo Lomellini,—hasMother—>,23016,2e85f439-99d1-4d3a-b90b-e518519ee836,Francisca —
+25161,8dc05bd3-99a6-4f1a-bf43-8b3bb8a681ca,Tobietta Lomellini,—hasMother—>,23821,b44a3d30-5a8b-4d74-8635-a9984298bc00,Ginevra Leccavello
+23887,8dc6ac24-99f7-45cd-90e0-e68162c3afff,Agostino Lomellini,—hasMother—>,24193,21c3189a-7ea5-45d1-be7b-6cb1de96eb1f,Caterina Lomellini
+24537,8df533e2-1ca5-4f8d-88ab-5dfd96782dd0,Giovanni Maria Lomellini,—hasMother—>,23174,1ee4d293-f09f-4f49-a3c2-b49a484dac2a,Maria del Carretto
+25179,8e2acb3b-1dc3-4d45-b1b7-f2ba4164e8e5,Tommaso Lomellini,—hasMother—>,23166,a0f34a06-1f43-4b63-ac5e-79b436270367,Pometta de Carli
+25210,8e4dc2ca-62fd-4403-8430-f46f47f9bcd0,Violante Lomellini,—hasMother—>,23730,5a2f3776-31d8-4cc6-9edf-953e19867958,Chiara Imperiale
+24511,8ec6c3c8-3818-481d-bac6-8101e0ce7898,Giovanni Francesco Lomellini,—hasMother—>,25494,53fcbf3a-939e-4fd2-8704-1309bf49ace3,Violante Pinelli Ardimenti
+25170,8f48bf00-491a-411e-9db5-80f02f9d552c,Tommasina Lomellini,—hasMother—>,24731,1d9ddf68-2987-4dfb-a419-1f1a442c3d64,Luigia Lomellini
+24723,8f60d1bb-8d25-4a0e-8790-2a7397ccaf83,Luigia Lomellini,—hasMother—>,24080,1cd8b9ea-99cd-4a23-a6d0-1fc7bb4e089b,Benedetta Lomellini
+24802,8f71eaea-053a-469b-bee2-ed4054531e4f,Maria Lomellini,—hasMother—>,25808,a60cb05d-b2af-4e1a-9ca0-8d19e870e0e4,Margaritta Torre
+25016,8f7bbc49-f1cb-4701-9e7c-690c6b0331f0,Pietra Lomellini,—hasMother—>,25462,dc82fb86-7c03-4512-89e9-0bb2867ce554,Maria Pignoli
+24064,902243cf-9780-4d04-8fcc-40478e569ebd,Battina Lomellini,—hasMother—>,23433,4dcef1af-1870-4bcb-a7a7-a2ff77c47c53,Pellina Doria
+25005,90539081-4e89-4465-bfbf-deda2944eeef,Peretta Lomellini,—hasMother—>,25746,0565e26c-5e2e-41d0-ae69-e03f5f843635,Niccoletta Spinola
+24631,90bc5618-5b3d-4c10-8b74-707391728d0e,Innocenza Lomellini,—hasMother—>,24775,abf07818-22b2-4d57-a13f-076430f3595c,Maria Lomellini
+24593,90c089d1-791a-46be-acd5-41bc8d1301b3,Giulia Lomellini,—hasMother—>,23433,4dcef1af-1870-4bcb-a7a7-a2ff77c47c53,Pellina Doria
+24474,90f646ac-8286-4e8d-b5a2-db4ff42e414c,Giovanni Battista Lomellini,—hasMother—>,25399,faffebcb-1164-43b0-8c1b-4943cfc1e81b,Maria Odone
+24369,913ee783-e685-44be-af2d-a94f43c2bc8f,Franco Lomellini,—hasMother—>,23610,62db3d53-61a8-440b-9acc-8758eaa0396e,Valerana Giustiniani Longhi
+25021,915b8e3d-86c2-431e-b016-0635f730435d,Pietra Lomellini,—hasMother—>,24141,a4ba824e-39d1-420f-ad1c-07e0b535d9a2,Brigida Lomellini
+24044,91630cf5-8496-4b6f-a097-758e171cf257,Battina Lomellini,—hasMother—>,23135,03267065-45b6-4b97-9d61-fd61287e9dc9,Selvagia Calvi
+24735,91985e02-72ee-4c59-99a9-fa6482f465c6,Maddalena Lomellini,—hasMother—>,25285,cd7b1554-f53c-4395-b14f-a36688425865,Aranetta de Marini
+24256,91a0d35b-24ca-406d-b9f0-b323de41181c,Dario Lomellini,—hasMother—>,25407,08247da3-5311-4bd0-9d9a-9be30b6ffd19,Caterina Oltramarini
+25053,928525e5-a798-4ad6-8701-e3f1de7c2332,Raffaele Lomellini,—hasMother—>,23756,9454ae48-d7d2-409b-b57b-20abb379e900,Battina Ittaliano olim Romeo
+24229,92f17633-4ce3-499f-a7fa-21f8cca7ad57,Cosmo Lomellini,—hasMother—>,25886,6c2954fc-6036-41f9-a6b2-695a09aae30a,Bigotta Zaccaria
+24253,9383f2ac-9ddb-4d66-a574-f3417fdb8aba,Damiano Lomellini,—hasMother—>,23049,8a80ccc0-6449-4e4c-93ad-b1dfa53d5ce5,Tommasina —
+24541,938a13f9-d6a5-40d3-b176-fb34e100ed8f,Girolamo Lomellini,—hasMother—>,25738,8bff2fda-fcd5-4bee-bdad-a970c5897828,Maria Spinola
+23982,93edd262-93c2-4d53-a5c4-d018fb2c97bc,Antoniotto Lomellini,—hasMother—>,23987,5a7d8ea1-2a3c-43ca-8f70-7661cabfb119,Argenta Lomellini
+24282,94193565-3175-46e1-84d1-39b52243aba8,Eliana Lomellini,—hasMother—>,23083,c9d11660-9fc8-4c28-b1b8-d4613650f36f,Primafore de Benamà
+25132,949723de-b8e9-4bb9-9808-fa4ae5f486b1,Teodora Lomellini,—hasMother—>,25552,fb844a13-42fb-43c8-ad5b-e45026972d4e,Selvagia Salvago
+24241,94a3b295-4321-4860-986e-6c9af1cbf5cf,Cristiano Lomellini,—hasMother—>,24141,a4ba824e-39d1-420f-ad1c-07e0b535d9a2,Brigida Lomellini
+24896,950807d9-5982-4aa9-bb43-016fe0818ffe,Niccolò Lomellini,—hasMother—>,23655,ccfc3b66-feb7-447a-9645-df6bec7e0100,Bartolommea Grimaldi Cebà
+24994,952e27ba-7639-4711-b448-057ff31d0300,Pellina Lomellini,—hasMother—>,23520,31015488-0162-4567-8ffe-eaa17717055d,Sobrana Garibaldi
+25233,9532e7ae-77ad-49c2-93e5-60f9f98af1e0,Montanaria da Lumbello,—hasMother—>,23175,f16e51dd-6f62-4887-9dfd-fb888f9c9df4,Giacoba Cartagenia
+24443,95446f15-27c3-4b49-a795-9e5f13be6ed1,Ginevra Lomellini,—hasMother—>,23597,188dd02d-884b-436f-81ec-8439df32e3ea,Isabella Ghizolfi
+24598,956526ad-9140-425c-9474-9e0f0d2401ed,Giuliano Lomellini,—hasMother—>,25774,6da2f159-0706-49ec-9c33-e61683c32db4,Selvagia Spinola
+24531,957ccd19-8136-41a8-9da6-2893e715ee22,Giovanni Lomellini,—hasMother—>,23168,207a161c-0485-425d-aaee-d9c9fbbd842d,Caterina de Carmandino
+23876,958a9811-de13-497d-a58a-90cdb3a5dc8f,Agostino Lomellini,—hasMother—>,23353,39695fac-9ce5-402d-a1d7-1d65ae430125,Benedetta Doria
+24497,95ba8136-7359-4b45-aac4-54f854294298,Giovanni Battista Lomellini,—hasMother—>,23271,8798fbba-f158-43aa-ab83-f83e4ac6c5e1,Pellina Centurione Becchignone
+24382,95cc14e4-672c-42d4-aa74-48b95308d399,Galeotto Lomellini,—hasMother—>,25375,323f177a-2bf3-4c86-9120-fd883f493288,Teodora di Negro
+24873,96662883-d79c-424b-b390-11326d21b724,Niccolò Lomellini,—hasMother—>,25641,423d58c9-dc44-4b4a-9519-224edf5269de,Costanza Spinola
+25028,96e612b9-efff-4036-834d-dc10c3990e39,Pietro Lomellini,—hasMother—>,23994,8d49c1e6-14f0-41c7-92b9-4d03f8d4aef1,Argenta Lomellini
+24045,96f031e8-2765-468d-91dd-824a06ab2acf,Battina Lomellini,—hasMother—>,23272,2dc5584e-e810-43a7-b8e3-dd97edbd7eae,Peretta Centurione Bestagno
+24972,97065acd-5b1e-4f36-9d8f-326cd4369bce,Pasquale Lomellini,—hasMother—>,23665,49ef9868-5ddc-4fef-a64f-4031348ce4c6,Eliana Grimaldi
+23926,9796d888-3274-4d95-95e6-e759b0fd96fe,Andrea Lomellini,—hasMother—>,25170,8f48bf00-491a-411e-9db5-80f02f9d552c,Tommasina Lomellini
+25126,97ff8188-c642-40bd-8e25-0cb2eae34277,Teodora Lomellini,—hasMother—>,23016,2e85f439-99d1-4d3a-b90b-e518519ee836,Francisca —
+24092,98d89728-e2a5-4efc-ba5d-a4d83238e0f5,Benedetto Lomellini,—hasMother—>,23671,6477fe20-a1f6-4256-9d78-8b5403e8227e,Francisca Grimaldi Oliva
+24783,99205b67-23f6-43ef-b1dd-c4e4864cdbb8,Maria Lomellini,—hasMother—>,23714,96077fb9-be1c-4ee2-ae71-43b14ae61ffe,Francisca de Gualtieri
+24689,99723168-92cf-4e13-9e24-1ed37a09f8bc,Lorenzo Lomellini,—hasMother—>,23115,18125c40-754a-44ef-a29e-a98fa60d7e79,Maddalena Brignole
+24372,99db23e0-78da-4398-87c1-03b07c25799e,Franco Lomellini,—hasMother—>,25800,67cb5038-2c79-4167-b1a6-0d23bc315cd5,Pometta Stella
+24992,9a0d82d6-103c-46a4-bdca-1b962a79e24a,Pellina Lomellini,—hasMother—>,24571,4f7a073b-5551-4233-9f01-5ddd8991e3f2,Gironima Lomellini
+23985,9a1ad695-0719-4917-85f9-846692adf54e,Argenta Lomellini,—hasMother—>,23025,33080be5-40fc-43f0-b182-3aaa2a484585,Luchina —
+24624,9a32a1b2-4b9b-437c-98cc-5f443baa3552,Illario Lomellini,—hasMother—>,23714,96077fb9-be1c-4ee2-ae71-43b14ae61ffe,Francisca de Gualtieri
+24732,9a89cab2-1cea-4992-96d4-27a442f8ebbb,Luigia Lomellini,—hasMother—>,25795,a49e734c-4947-4e15-bc27-276bb349c30a,Maria Squarciafico
+25135,9ab597ad-3260-47e1-a6f5-08ac022c596f,Teodora Lomellini,—hasMother—>,23295,bc572ea1-6a18-4e9d-8d87-a60bca6c9d09,Niccoletta Cicala
+24501,9ad626d2-f9eb-48e5-a6ea-8d4ce6b34f4a,Giovanni Battista Lomellini,—hasMother—>,23070,29a91ac5-2592-4711-b342-d23823c0ecbf,Gironima Banchero
+24403,9ae5751e-9f1f-4d97-bfae-beaf90b50ba4,Giacoba Lomellini,—hasMother—>,23411,1584a588-8d66-4b09-93b9-e3f154b67962,Maria Doria
+24714,9aeeb9a8-2b5e-483d-8826-ec1788c681d5,Lucia Lomellini,—hasMother—>,23038,71ef6995-d100-4c94-a69d-77ab81f4e12b,Orietta —
+24934,9b5e8522-cd1f-474a-b99c-fac9a013cec1,Orietta Lomellini,—hasMother—>,25095,79ede81f-f6fe-44dc-8c99-3ea2df501dfb,Sobrana Lomellini
+24915,9b7b8eeb-31cb-4779-8fcd-c6b1fe097334,Oberto Lomellini,—hasMother—>,23298,77700862-e18d-4012-a896-951fa291b9fc,Selvagia Cicala
+24234,9b855add-a4bb-4db6-b96c-1b3225677e79,Cosmo Lomellini,—hasMother—>,23044,1bed15d1-5660-49e9-871c-a6eede394725,Selvagia —
+24054,9c6505a0-696b-415b-ae4b-c12f19fd3a69,Battina Lomellini,—hasMother—>,23563,33f15bd4-480b-41b7-9bd0-37a7c035f855,Maddalena Gentile Pignoli
+25413,9cc2417b-b68c-4dd9-8115-fbb36ae98427,Ansaldo Pallavicini,—hasMother—>,25198,aa108c95-177f-40c2-9b60-d5e352dba629,Veronica Lomellini
+25211,9ccc5d94-0386-4186-8542-c64a4a714ad0,Violante Lomellini,—hasMother—>,25427,5cc32461-b224-405f-965d-c45146c9f7b7,Maddalena Pallavicini
+23931,9ce474cf-76c9-45f3-b6e8-08413fd09ff6,Andreola Lomellini,—hasMother—>,25629,f0832368-d4f7-4a89-966a-210144d3bdf3,Bianca Spinola
+23916,9ceecfb5-45fe-4624-98de-111417fe6d65,Ambrogio Lomellini,—hasMother—>,23433,4dcef1af-1870-4bcb-a7a7-a2ff77c47c53,Pellina Doria
+24601,9d8eb7bc-b770-4031-8ade-bbd18a15cd0a,Giulio Lomellini,—hasMother—>,23085,88d229a1-97e9-4e47-b698-235ea92fd8d3,Nicoletta Benegassi
+24868,9dac5794-89ac-4522-854b-4722ae8436cb,Niccolò Andrea Lomellini,—hasMother—>,25808,a60cb05d-b2af-4e1a-9ca0-8d19e870e0e4,Margaritta Torre
+24899,9db2f5e4-7850-4975-ac3a-9e367b98bc5f,Niccolò Lomellini,—hasMother—>,25738,8bff2fda-fcd5-4bee-bdad-a970c5897828,Maria Spinola
+24641,9df10f42-18c5-4b7c-8495-19af347d39a6,Isabella Lomellini,—hasMother—>,23190,37e47d1a-72be-42be-bd0f-ca2373011fbb,Battina Cattaneo
+24423,9e404388-3721-462c-bd37-eeba7eb12b5c,Giacomo Lomellini,—hasMother—>,24787,18cfbddf-3826-4ef7-b367-a04e67cc325d,Maria Lomellini
+24401,9e727313-f5af-4196-abcd-ed50dd9e7f9e,Gherardo Lomellini,—hasMother—>,25286,f85db74b-9d9c-4766-9691-a27de077a5c3,Argenta de Marini
+24726,9e7fe2d4-934d-4fe9-8069-2764734ea9c6,Luigia Lomellini,—hasMother—>,23535,5ed3ead9-872a-49a6-9798-9eb4797dde4f,Battina Gentile Ricci
+24858,9ea92c61-620d-40b5-9219-ebeb07448692,Napoleone Lomellini,—hasMother—>,23656,5aba82b9-b3fc-423a-9179-fb52995e7a30,Battina Grimaldi Oliva
+24482,9edeb9ca-cab4-48f6-b4a2-a2ac75cd3afa,Giovanni Battista Lomellini,—hasMother—>,25414,d95b3d2b-dd50-48ce-97a8-59955adfb2bc,Barbara Pallavicini
+24555,9f02031a-e96d-4cac-9979-d481bcd15da2,Girolamo Lomellini,—hasMother—>,25781,bf13e400-ebde-43aa-b0a9-1c04c2e2b725,Teodora Spinola
+24307,9f697e33-3f59-44bc-8b7d-516607efe1c0,Filippo Lomellini,—hasMother—>,23413,dcad4e0b-e660-45a7-82ac-02d274890b69,Maria Doria
+24345,9f6d1400-876e-4719-95a7-af2c940296d0,Francesco Lomellini,—hasMother—>,25849,cc417d27-a2e1-4826-822f-29818252ac3c,Battina Vivaldi
+24716,9fba0c96-6ac0-4452-976c-8513bd2931fa,Lucia Lomellini,—hasMother—>,23508,cb322175-cba1-4717-9c9b-6cb020385a6a,Luigia de Fornari
+25115,9fbb5169-a638-4dd5-a4ca-1ee1814c7163,Stefano Lomellini,—hasMother—>,24462,558a5e5f-f493-4035-8017-347865c109d0,Giovanna Lomellini
+24942,9fd7f0f7-8927-4784-a74d-0dc352464ccb,Ortensia Lomellini,—hasMother—>,25549,983dee24-73d5-4acc-bc4a-de923e4b627a,Pellegra Salvago
+24551,9fde1242-17e0-4b08-9aab-cb56c107924e,Girolamo Lomellini,—hasMother—>,23554,cbff4beb-4d5f-4935-8be8-9e4d6ae116dc,Giorgietta Gentile
+24500,9ff73279-1ce5-473f-8bea-9cfb4fc238dc,Giovanni Battista Lomellini,—hasMother—>,25847,0db30427-8b7e-4fac-b2b4-71381b0b9082,Barbara Vivaldi
+24235,9ff8a659-e050-4e61-8d7b-8e6fe52a85b9,Costantino Lomellini,—hasMother—>,23051,a2abfc4f-e83b-40bb-9e25-021101767ee9,Vissa —
+24152,a06a606d-082a-4ff6-b370-b6bcdbdfb35d,Camilla Lomellini,—hasMother—>,25428,d69a75c0-23f3-4ee1-be62-3aed32453797,Maria Pallavicini
+24917,a0f93e14-f97d-4fac-9d1f-a1b92aa9e70c,Oberto Lomellini,—hasMother—>,23018,3e99b304-3f0c-42bf-a7fc-09ca188b36a4,Giulia —
+24836,a10cedbe-8846-4ea3-8217-2ed7006be67e,Martino Lomellini,—hasMother—>,25554,9707240b-da07-4d83-8690-812fb7a3359b,Tommasina Salvago
+23920,a153c4be-543c-48cf-9e5a-ff5cbf0a83b7,Andrea Lomellini,—hasMother—>,23994,8d49c1e6-14f0-41c7-92b9-4d03f8d4aef1,Argenta Lomellini
+24244,a166f53b-d531-47a9-ac00-7bb9dfbd97e3,Cristoforo Lomellini,—hasMother—>,23729,594748a8-9964-412e-b80a-19de1e41c0be,Cecilia Imperiale
+24765,a1745939-f17c-4d8a-be74-16fccbe94f94,Margaritta Lomellini,—hasMother—>,23296,8d93d158-cc18-42e2-bd36-b1350414fb18,Novella Cicala
+25073,a1e0096c-da2a-47e8-9439-6dfa8c7446f0,Silvia Lomellini,—hasMother—>,24185,54e9c0b8-b56c-4bf9-8d17-cd3a73853821,Caterina Lomellini
+24975,a24b279f-dd17-4839-b7af-b4eab4e0268f,Pellegra Lomellini,—hasMother—>,23704,6e7cce69-468e-4cb5-9b12-999ca9c9de22,Peretta Grimaldi
+23954,a2542eab-5a91-440e-ad99-c3393236b9e3,Annibale Lomellini,—hasMother—>,23363,a9b9a97b-066c-4f41-a674-524c42e5c8fc,Chiara Doria
+23878,a26f48da-6578-429e-9388-ec83cd3c0ead,Agostino Lomellini,—hasMother—>,23610,62db3d53-61a8-440b-9acc-8758eaa0396e,Valerana Giustiniani Longhi
+23967,a29efd9e-aee6-4d4f-a0be-236ed741bf63,Antonio Lomellini,—hasMother—>,25639,7f19ec94-bcd1-49c0-8451-1b69d267559a,Chiara Spinola
+23918,a2bd8405-d129-46a4-8f98-896d3c6a0323,Andalò Lomellini,—hasMother—>,24787,18cfbddf-3826-4ef7-b367-a04e67cc325d,Maria Lomellini
+24065,a2ce3ce8-0ec1-49a9-9d66-f0a753a5fa6b,Battina Lomellini,—hasMother—>,23258,287c907a-a853-4b8f-aa91-4058793dfd70,Gironima Centurione Oltramarini
+24411,a2d6aae8-5a58-4597-804d-5acd5d4ec13f,Giacomo Lomellini,—hasMother—>,23026,028bd9c3-794a-4594-b344-cb62e48e1da4,Lucia —
+25127,a2e9d22a-c9d3-4a26-9760-627504220420,Teodora Lomellini,—hasMother—>,25275,0a755ced-7e64-425a-b868-662cb5dd0780,Selvagia de Mari
+24705,a2fcb445-4e9f-43c2-a67b-e5bc4e0e418e,Luchina Lomellini,—hasMother—>,23051,a2abfc4f-e83b-40bb-9e25-021101767ee9,Vissa —
+25061,a36055be-0c84-4a0b-9c92-213f714d77ef,Selvagia Lomellini,—hasMother—>,23015,d8aef0d5-01ff-4ad1-b13c-bdc800459b0d,Franca —
+24196,a3e17c87-137a-4f97-b013-54c99d9a8a40,Caterina Lomellini,—hasMother—>,23559,78655b92-5326-487f-ad2b-e8614fb6def8,Isabella Gentile Pignoli
+24478,a4093bc1-80da-49ac-a374-a5ae30792529,Giovanni Battista Lomellini,—hasMother—>,23411,1584a588-8d66-4b09-93b9-e3f154b67962,Maria Doria
+24973,a41d9f92-93ad-4c0b-bd7d-a436cc4cf19a,Pasqualino Lomellini,—hasMother—>,24180,c02003bf-626e-487f-b1c4-867f54ed716e,Caterina Lomellini
+25112,a41e179c-2f86-4e27-bb33-133141d83183,Stefano Lomellini,—hasMother—>,25493,b6697345-3915-49f2-9c5a-bd4a38aa7db3,Violante Pinelli
+24276,a422a418-7e26-4847-9bb0-ae2de608a43b,Eleonora Lomellini,—hasMother—>,23268,27051d26-c714-4656-8d4c-d6e61b3b2323,Orietta Centurione Oltramarini
+23893,a473981c-5b0d-4424-8c37-246b076b5cec,Agostino Lomellini,—hasMother—>,23344,e99871d8-2e70-4f66-bfdf-1c87358809c3,Bartolommea Doria
+24284,a4a637bd-b46a-43ac-82e5-3a7eedb8bc72,Eliana Lomellini,—hasMother—>,23818,dadc983a-ee66-4b7c-a5aa-9cbf9379d551,Caterina Lecavello
+25064,a4b58e22-93e0-418d-8c2f-ee571d4bf23a,Selvagia Lomellini,—hasMother—>,25670,08b48cf3-cce7-4657-8332-2e059dbd6c4b,Francisca Spinola
+24141,a4ba824e-39d1-420f-ad1c-07e0b535d9a2,Brigida Lomellini,—hasMother—>,23435,a424676d-970d-496c-b294-9bb4d8b8e46c,Pietra Doria
+24110,a4dd7203-8a28-4aff-8b8c-80e49f775a3c,Bernardo Lomellini,—hasMother—>,25218,725bd425-d3bb-4c67-bb6a-3deb20bf7031,Gironima de Loreto
+24696,a563ab6d-78d8-4efb-99d6-79ddcd8ac2a8,Lucano Lomellini,—hasMother—>,25825,3eb90695-ac06-43b1-ac58-ab99638697a7,Linò Usodimare
+25006,a56c4477-9344-46d3-9561-43a8f2673e08,Peretta Lomellini,—hasMother—>,25570,e0a0baf0-e603-4fe9-a9d2-efdf42a50d55,Isabella Scaglia
+24333,a56deddb-b94b-40b5-be70-8cad40cf5fdc,Francesco Lomellini,—hasMother—>,23298,77700862-e18d-4012-a896-951fa291b9fc,Selvagia Cicala
+23096,a5816aba-0118-4cff-9630-cf30680e1234,Giovanni Bianchi,—hasMother—>,23783,a2b3ccc7-4663-4e76-8ec7-bc59c769ab4e,Linò Ittaliano Lavaggi
+24621,a5b068a7-3985-403e-af88-262bb426a961,Ignazio Lomellini,—hasMother—>,23115,18125c40-754a-44ef-a29e-a98fa60d7e79,Maddalena Brignole
+25074,a5d2dc47-336b-4130-9764-29c6ec25c1e1,Simona Lomellini,—hasMother—>,25639,7f19ec94-bcd1-49c0-8451-1b69d267559a,Chiara Spinola
+24648,a5f42bcd-fd5c-46d8-ac36-b30fe2b2a6d1,Lavinia Lomellini,—hasMother—>,23042,f447cf9f-24c6-410f-9b9f-0b65661e0af8,Porzia —
+24697,a6346138-967f-4cde-bfdd-e197327c9fa9,Lucchino Lomellini,—hasMother—>,22996,63d5fab1-c8b3-46ba-9c1e-5c3b94731e97,Angela —
+24870,a67456e0-2c4c-4d39-af24-4852879e8272,Niccolò Lomellini,—hasMother—>,24062,79c43af4-a822-4c36-9308-7aacd5e7cdec,Battina Lomellini 
+24928,a6a6f702-69c5-435d-bcc1-406ba4cea69a,Onofrio Lomellini,—hasMother—>,25441,9d7367dc-80e1-43fa-882e-471fddc1496e,Luchina Pansano
+24778,a70f3cd4-7a1d-4deb-b767-b3fd1d857bc3,Maria Lomellini,—hasMother—>,23272,2dc5584e-e810-43a7-b8e3-dd97edbd7eae,Peretta Centurione Bestagno
+24656,a8259712-7c4a-405a-87a7-d962990851ae,Leonardo Lomellini,—hasMother—>,25336,87b283e1-22c7-4b53-9f69-3a60e69ca122,Francisca Maruffo
+23891,a8ae7faa-7784-447d-a104-2d463af3ab90,Agostino Lomellini,—hasMother—>,23070,29a91ac5-2592-4711-b342-d23823c0ecbf,Gironima Banchero
+23925,a8e13987-b871-48e8-a42b-716d328ac177,Andrea Lomellini,—hasMother—>,23995,83152b76-fd9a-4727-a23a-75040836dba7,Argenta Lomellini
+24668,a8ec4a55-2066-48f8-bf8d-67625bfcd564,Linò Lomellini,—hasMother—>,23014,b8b98473-484e-4dc0-9e71-333bff03c301,Eliana —
+24445,a8fcd13e-7e50-4cb4-9e84-7c5f8dfb02ac,Ginevra Lomellini,—hasMother—>,23377,c5ba68d7-5619-4111-9151-88e280ae6f79,Francisca Doria
+25103,a90ec7b9-4532-49f2-b4f0-52975ae800f9,Sorleone Lomellini,—hasMother—>,25264,2c838e09-9749-4226-945b-a38712411707,Maria de Mari
+25144,a9b3f8a7-2ca9-4b83-9785-b94d2371fadd,Teodora Lomellini,—hasMother—>,23377,c5ba68d7-5619-4111-9151-88e280ae6f79,Francisca Doria
+24176,a9bbd99d-9cbb-4caa-b194-1d116ef217e0,Caterina Lomellini,—hasMother—>,25095,79ede81f-f6fe-44dc-8c99-3ea2df501dfb,Sobrana Lomellini
+24947,aa0bbe42-c163-40ab-b5b8-734797176753,Ottaviano Lomellini,—hasMother—>,24199,24fc42e2-d7f1-42fa-a30b-a4fd311f1416,Catetta Lomellini
+24083,aa2509e8-f8be-4ad0-8946-c3c06b0c1b6b,Benedetta Lomellini,—hasMother—>,25734,222b0cb2-5158-4d63-b625-7873f9a2c7ab,Maddalena Spinola
+24202,aa6a3e5b-e96f-4a73-b9f0-f9863b197b79,Cattaneo Lomellini,—hasMother—>,25330,7e015b39-5bcd-4693-bf4c-c3d9ea2ccb32,Susanna de Marini
+24799,aaa8dec7-5c5c-4424-a054-23440f38b282,Maria Lomellini,—hasMother—>,23730,5a2f3776-31d8-4cc6-9edf-953e19867958,Chiara Imperiale
+24584,aae5bd59-ed04-46c4-8aec-44c85b6d820e,Gironima Lomellini,—hasMother—>,25370,8b96c638-79de-44a6-b0c6-cd3576b25630,Maria di Negro
+24993,aae6e0dc-0c28-47be-aee8-5a45650cce72,Pellina Lomellini,—hasMother—>,24679,2fce458f-43c5-48af-abc0-d0a84b14ab00,Lombardina Lomellini
+24320,ab345c72-fd8e-4854-b794-c6af8a86e742,Filippo Lomellini,—hasMother—>,25403,a45f0c5c-ba57-4e1b-b84e-ebada88b70b3,Bartolommea Oliva
+24261,abb9d253-bab7-498f-9e74-6d605f8bdd65,Despina Lomellini,—hasMother—>,23038,71ef6995-d100-4c94-a69d-77ab81f4e12b,Orietta —
+24775,abf07818-22b2-4d57-a13f-076430f3595c,Maria Lomellini,—hasMother—>,24080,1cd8b9ea-99cd-4a23-a6d0-1fc7bb4e089b,Benedetta Lomellini
+24701,ac1a2f88-002b-44a0-b48b-6454b7a9487d,Lucchino Lomellini,—hasMother—>,23190,37e47d1a-72be-42be-bd0f-ca2373011fbb,Battina Cattaneo
+25644,ac75f261-6052-426c-bb80-d2aabe093136,Cristoforo Spinola,—hasMother—>,24780,39b2b41e-0803-4985-83f2-089d7df03b50,Maria Lomellini
+24654,acb732e1-76cc-4c86-97b8-3862b75401a8,Lazzaro Lomellini,—hasMother—>,23068,c9cd3a09-dd07-43da-8a2a-8d0c680162e8,Brigida de Balestrino
+24809,acc4e353-4693-4dd9-8570-d34b77df69d2,Maria Lomellini,—hasMother—>,25259,c4f54093-d1c2-4e7e-84ae-adbd06bf1f5c,Francisca de Mari
+24353,acd329a8-5410-4b1b-96b9-e6a6dff69e15,Francisca Lomellini,—hasMother—>,25343,742f255d-2828-4b93-af60-671792739d3e,Pietra Maruffo
+24670,ace1d784-b84a-419b-9edc-d50fe6ffae71,Linò Lomellini,—hasMother—>,24939,05ab32b3-aac9-4695-85eb-80e828a596ff,Orietta Lomellini
+24144,acfb46d3-53fe-4f09-985e-f12f9c0657bc,Brigida Lomellini,—hasMother—>,23659,2552b322-281d-41e7-ac4c-211f4c9b58c0,Bianca Grimaldi Oliva
+25152,ad0f982b-1820-4298-bb44-289a6093069c,Teresa Lomellini,—hasMother—>,24462,558a5e5f-f493-4035-8017-347865c109d0,Giovanna Lomellini
+24814,ad908628-1a22-42a0-bd59-4e20eb4be341,Maria Lomellini,—hasMother—>,23006,5163e067-524c-45ad-a311-0f948f694f44,Caterina —
+24564,adc71448-33fa-4807-a9e8-91f5187d55f8,Gironima Lomellini,—hasMother—>,24829,54f985fb-0109-45b9-965e-7a1f40ea89e9,Maria Lomellini
+25163,adde6bf2-c9d9-4f44-85b9-50b66c6f5d01,Tobietta Lomellini,—hasMother—>,25121,f024050c-e0f7-4f60-987a-ec3ff750a34c,Susanna Lomellini
+24515,ae16843d-7b97-4456-affb-5b3d7dc08146,Giovanni Girolamo Lomellini,—hasMother—>,25399,faffebcb-1164-43b0-8c1b-4943cfc1e81b,Maria Odone
+24348,ae30dd63-e39c-49f2-a12b-ade8ae28c849,Francesco Lomellini,—hasMother—>,23344,e99871d8-2e70-4f66-bfdf-1c87358809c3,Bartolommea Doria
+24573,ae5172b7-8931-41e2-bfe5-a34cca6b2a64,Gironima Lomellini,—hasMother—>,23561,58f79ed5-51bb-4889-ad95-3de5505d3618,Laura Gentile
+25043,ae7b4645-3c3b-4005-adaf-07c957e03bbb,Prospero Lomellini,—hasMother—>,23503,134035b1-8543-44e6-b26e-65a78078b0f5,Violante Fieschi
+24843,ae8cf5c2-1506-42e2-a1c5-6612943b3b64,Matteo Lomellini,—hasMother—>,25569,5bda94c8-8c15-4f10-91b0-d920f301ceee,Gironima Scaglia
+24817,ae8ef007-d057-4d6f-af19-388d2784a171,Maria Lomellini,—hasMother—>,23483,1c16e949-db54-4f10-a2a0-8222a02f99b1,Gironima Fieschi
+24102,aea1fea6-97e9-4d66-8940-54bd571d123a,Benedetto Lomellini,—hasMother—>,23804,e55afa90-d4ce-475f-8f04-318f3a4e0f1f,Teodora Ittaliano Lavaggi
+24470,af0193ef-e5de-4922-a1c6-51b1b82ced0d,Giovanni Battista Lomellini,—hasMother—>,25577,10c0f47f-825e-4eb0-893a-58b916fe588e,Eliana Serra
+24211,af389987-98cd-4c39-8062-ef0a0c4cb621,Chiara Lomellini,—hasMother—>,25285,cd7b1554-f53c-4395-b14f-a36688425865,Aranetta de Marini
+24213,af580dcf-5ba2-4589-b94c-9793e0b447be,Chiara Lomellini,—hasMother—>,23288,f5b7d282-f214-4659-8e09-d5af4ecc49a3,Caterina Cicala
+24691,af65ea0f-5375-4d12-8a70-855adb2d060f,Lorenzo Lomellini,—hasMother—>,23675,6f108413-84c6-4d40-8b75-97d4fe54a766,Ginevra Grimaldi
+25145,af699fe8-e7a7-42eb-8e73-687861653d6a,Teodora Lomellini,—hasMother—>,24050,25042291-c1e5-4952-84d6-ff8c9368173c,Battina Lomellini
+25090,af8e380f-9754-40ef-8f8a-ba6eb0c03aa5,Sisto Lomellini,—hasMother—>,23756,9454ae48-d7d2-409b-b57b-20abb379e900,Battina Ittaliano olim Romeo
+24162,af9cb998-f127-48a7-ba13-e9acd39c570f,Carlo Lomellini,—hasMother—>,25655,13288196-f3e2-4ddb-ae3d-babd1e6ea971,Dorotea Spinola
+24953,afbe3b8f-8ccb-4314-83fc-f76a81a1e46c,Panfilo Lomellini,—hasMother—>,23010,abb9f25d-8b50-4baf-a8d0-478a97c91bc0,Clarisia —
+25154,b00ef89e-7ea8-4836-8862-b8dd8b685d9b,Teresa Lomellini,—hasMother—>,25655,13288196-f3e2-4ddb-ae3d-babd1e6ea971,Dorotea Spinola
+24769,b0592a8d-5cc7-455d-a742-f9a4427192e9,Maria Lomellini,—hasMother—>,22996,63d5fab1-c8b3-46ba-9c1e-5c3b94731e97,Angela —
+24203,b0ad2f54-66cc-4c08-a9db-a68dcd8a263d,Cattaneo Lomellini,—hasMother—>,25487,62d98c61-b3eb-42d8-b88b-fa15505da08a,Moisia Pinelli
+24612,b0e8f419-2095-44cd-8cf0-49ae5e12fcc6,Gregorio Lomellini,—hasMother—>,25485,f521a4dd-62dc-4c61-88c1-d3505c65ab38,Maria Pinelli
+24635,b0ebd383-8ee6-4ab0-be56-dfada3837e14,Isabella Lomellini,—hasMother—>,23381,ecd1b449-c46e-4606-9d90-a2ca7959a28d,Giacoba Doria
+24126,b0f83553-df80-472d-bd62-c5c2dfe14ece,Bigotta Lomellini,—hasMother—>,25336,87b283e1-22c7-4b53-9f69-3a60e69ca122,Francisca Maruffo
+24191,b14cdde7-ae80-4f80-8512-cf9047b1d655,Caterina Lomellini,—hasMother—>,23491,19bfc93c-3c72-471d-91d1-7f70ebaafd52,Mencia Fieschi
+24812,b1680adf-35c8-4da0-8b79-06293347f83d,Maria Lomellini,—hasMother—>,23561,58f79ed5-51bb-4889-ad95-3de5505d3618,Laura Gentile
+25063,b1f65f82-2b41-40d2-8c12-d80fce0def49,Selvagia Lomellini,—hasMother—>,25577,10c0f47f-825e-4eb0-893a-58b916fe588e,Eliana Serra
+24793,b1f9f4ec-cf6b-4e02-8540-f184db3deb71,Maria Lomellini,—hasMother—>,23643,53372738-2155-4f11-972f-ade73df97eba,Andreola Grimaldi
+24061,b2183897-b695-4160-b458-7dd7f980f70d,Battina Lomellini,—hasMother—>,25606,3918a8ed-3761-4ed7-99a2-6a3f58c999bd,Andreola Spinola
+24610,b338bd6e-6098-40cd-bfd8-1ab8653ac171,Gregorio Lomellini,—hasMother—>,25639,7f19ec94-bcd1-49c0-8451-1b69d267559a,Chiara Spinola
+24842,b3419592-1402-42ed-a08c-a6365707cac7,Matteo Lomellini,—hasMother—>,24146,c4251f93-0623-4673-b490-7542ee91340f,Brigida Lomellini
+25139,b3669d71-1973-4ab0-aae6-1f8cdb914578,Teodora Lomellini,—hasMother—>,23109,adf741f3-89df-4728-881a-437e5d60a83b,Teodora de Bosco
+24340,b36b1ca3-ed61-405b-b189-07144f5f7341,Francesco Lomellini,—hasMother—>,24463,d37c6f3b-7af0-4aa6-b4a3-41c803c6bb91,Giovanna Lomellini
+24020,b39eb52e-b4ca-4afb-9796-5b6c9498ffaa,Bartolommea Lomellini,—hasMother—>,23700,ecfde847-a327-48ab-bc8e-cd982b22fd80,Nicoletta Grimaldi Cebà
+24334,b3aae414-c09e-45fc-8803-6101dbc9f91f,Francesco Lomellini,—hasMother—>,25097,3d757e85-1a84-4256-b058-4c0b8a7cc21c,Sobrana Lomellini
+23932,b3dcd007-badb-4dec-abe3-039ef462f0cf,Andreola Lomellini,—hasMother—>,23017,30d92a95-c6d1-4c56-876c-7c0cc1dd6b44,Gioffredina —
+23984,b455bb5a-d799-4892-b753-dc0bd5ed5321,Argenta Lomellini,—hasMother—>,25535,4108d3ff-4cbf-40df-9bf9-0de9ffeab9ae,Bianca Salvago
+24246,b4844037-49f9-486d-bcc7-ef32414981ad,Cristoforo Lomellini,—hasMother—>,25855,844dedb1-f76e-4e36-bd5c-1308a4b1e866,Francisca Vivaldi
+24748,b4a18ab3-2615-48ac-ac44-6a80d7ee72b2,Manfreda Lomellini,—hasMother—>,23503,134035b1-8543-44e6-b26e-65a78078b0f5,Violante Fieschi
+24554,b4bd7499-b467-4f8a-8ce0-4d2654aabff0,Girolamo Lomellini,—hasMother—>,23190,37e47d1a-72be-42be-bd0f-ca2373011fbb,Battina Cattaneo
+24085,b4edb5c0-f46f-49f9-a295-e1704eb22952,Benedetta Lomellini,—hasMother—>,23040,960e91f9-75e8-4419-a600-d5e54db80ffc,Orietta —
+24876,b4f40d85-0425-46b4-878e-644a92880a02,Niccolò Lomellini,—hasMother—>,25794,250aad66-fc1b-44fe-9553-c5df1d21a808,Margaritta Squarciafico
+24841,b52a12f8-55a4-4bed-9b4d-4de92d6fef31,Matteo Lomellini,—hasMother—>,23991,fe377dc2-4a59-43ba-9fc7-6b63563ce558,Argenta Lomellini
+24791,b56c9245-62d4-4f56-aae1-e73cec496d76,Maria Lomellini,—hasMother—>,25639,7f19ec94-bcd1-49c0-8451-1b69d267559a,Chiara Spinola
+24545,b57b2aad-423d-443f-973e-64ea60b8cffb,Girolamo Lomellini,—hasMother—>,23133,6db335df-3f6c-4d43-b95b-ae7c96ad318e,Peretta Calvi
+25003,b59175d5-445a-491a-92be-0324d3cc2089,Peretta Lomellini,—hasMother—>,23704,6e7cce69-468e-4cb5-9b12-999ca9c9de22,Peretta Grimaldi
+24879,b5a77b69-ef31-45b2-8880-2e147b0367e6,Niccolò Lomellini,—hasMother—>,23413,dcad4e0b-e660-45a7-82ac-02d274890b69,Maria Doria
+24389,b5bc9fc1-48de-4907-9a0b-a02316a4c0d4,Gaspare Lomellini,—hasMother—>,23849,605db703-8ccd-42b1-aa80-10cdda923d7b,Luchina Lercari
+25157,b642d3b4-1f30-4f3f-8e5b-936cc9def585,Tobia Lomellini,—hasMother—>,23616,5faf00eb-4891-4d7c-b3d3-99d988969347,Battina Grillo
+24077,b69abc3a-5c09-482b-9c26-a822fe3665b7,Battista Lomellini,—hasMother—>,23440,9d566fef-8296-4d09-81f0-c3e7138708b8,Tobietta Doria
+24548,b6ae1640-32d8-4ec9-b5a5-c3d5bcef1d85,Girolamo Lomellini,—hasMother—>,25639,7f19ec94-bcd1-49c0-8451-1b69d267559a,Chiara Spinola
+24460,b6b6066e-f75d-4f16-8287-b9d31b29c9a4,Giovanna Geltruda Lomellini,—hasMother—>,24462,558a5e5f-f493-4035-8017-347865c109d0,Giovanna Lomellini
+24608,b6d8a653-8f37-4225-b24f-97e5ed87c2f7,Gregorio Lomellini,—hasMother—>,23025,33080be5-40fc-43f0-b182-3aaa2a484585,Luchina —
+25070,b6f1d356-2152-4d20-b125-65ba0720228d,Selvagio Lomellini,—hasMother—>,25389,9474248e-143c-4c3e-ba98-ebcf5949e09a,Isabella Negrone
+24916,b7348bab-5c1e-40cf-b5a1-39f8ef5dbebe,Oberto Lomellini,—hasMother—>,23407,c1b002f5-46e6-4d49-a0af-d7645734d4e5,Luigia Doria
+24961,b73f0afb-cc75-4fd1-a163-9a2edd1614b3,Paolo Lomellini,—hasMother—>,23550,41f345aa-74bb-4d45-8bbf-fe9c2befe716,Giacoba Gentile
+24932,b741c8c4-7adf-4f96-b58d-e8800f595210,Orietta Lomellini,—hasMother—>,23729,594748a8-9964-412e-b80a-19de1e41c0be,Cecilia Imperiale
+24309,b774585f-cf03-46b4-8ae1-b2623d819d7c,Filippo Lomellini,—hasMother—>,23135,03267065-45b6-4b97-9d61-fd61287e9dc9,Selvagia Calvi
+24684,b7cffb20-684b-4c62-8c70-4f4e314cc716,Lorenzo Lomellini,—hasMother—>,24829,54f985fb-0109-45b9-965e-7a1f40ea89e9,Maria Lomellini
+23933,b7fc6562-469b-4a15-9303-5c70160ec4e1,Andreola Lomellini,—hasMother—>,25616,70a0c597-9362-41a7-968f-0a45ae1ba4fe,Battina Spinola
+24308,b804bdf0-1b09-4cf2-86e7-77a718053ed4,Filippo Lomellini,—hasMother—>,25287,4453e243-3d81-4487-b7da-bcc4be33a410,Battina de Marini
+24912,b860764d-0293-429d-8d0e-1405c087dc18,Oberto Lomellini,—hasMother—>,25269,b42492c3-a6e4-4033-a743-cc3c41a92acd,Orietta de Mari
+23897,b89ca634-e70a-40a9-99a6-0f44675e5d76,Alaona Lomellini,—hasMother—>,23051,a2abfc4f-e83b-40bb-9e25-021101767ee9,Vissa —
+24490,b8a6817a-b5aa-4dbe-851b-8bb2814e1ef1,Giovanni Battista Lomellini,—hasMother—>,25683,887e8d98-5502-45d6-989d-7df50eb8afed,Giovanna Spinola
+24051,b8b9abb0-1050-42fd-941a-b377e06126ae,Battina Lomellini,—hasMother—>,23376,476323a6-8a14-49c1-88c1-56cb453d4487,Francisca Doria
+24175,b8f069ef-81d9-4cb5-8cb8-eeff2c931a9d,Caterina Lomellini,—hasMother—>,25462,dc82fb86-7c03-4512-89e9-0bb2867ce554,Maria Pignoli
+24632,ba17ef21-db22-4aa7-aa97-169c231947cc,Isabella Lomellini,—hasMother—>,22996,63d5fab1-c8b3-46ba-9c1e-5c3b94731e97,Angela —
+24420,ba308696-ea7a-4f5d-9e44-588a8a17f34c,Giacomo Lomellini,—hasMother—>,24324,7b081d85-01ec-413f-ba73-1af0e1721335,Franca Lomellini
+24520,baa24e55-9d05-4f17-9f00-d59d8be278e4,Giovanni Lomellini,—hasMother—>,23025,33080be5-40fc-43f0-b182-3aaa2a484585,Luchina —
+23979,bb3d5ba3-0e0a-48b7-aa67-7e4414e1a824,Antoniotto Lomellini,—hasMother—>,23541,59f80a01-d3c5-46cf-9e74-734443a1a493,Caterina Gentile Pignoli
+25216,bb43f0c1-d758-49fe-b619-aa2972ea72ea,Vittoria Lomellini,—hasMother—>,25613,15e92ece-63e6-4919-a511-1847805c2b4a,Barbara Spinola
+23869,bb9e8b78-bfd8-49b1-8efb-90b04cfe9867,Abraino Lomellini,—hasMother—>,23051,a2abfc4f-e83b-40bb-9e25-021101767ee9,Vissa —
+24366,bbb55ea8-9bb4-4020-9061-117ba7570ce5,Francisca Lomellini,—hasMother—>,25375,323f177a-2bf3-4c86-9120-fd883f493288,Teodora di Negro
+24029,bbe905eb-fe38-4356-af76-5794a65fba9c,Bartolommeo Lomellini,—hasMother—>,25091,e307f82d-46b1-42a4-9cda-ba6c767d10da,Sobrana Lomellini
+24730,bc162b41-238a-4795-bbe3-6febe61eef33,Luigia Lomellini,—hasMother—>,25403,a45f0c5c-ba57-4e1b-b84e-ebada88b70b3,Bartolommea Oliva
+24084,bc879450-eb65-4fe2-a817-75278ebdd8f0,Benedetta Lomellini,—hasMother—>,25375,323f177a-2bf3-4c86-9120-fd883f493288,Teodora di Negro
+24190,bc92b2be-d096-40ba-b8ee-6e96bef0a6bc,Caterina Lomellini,—hasMother—>,23664,ca3c99ed-d2bb-461e-9842-225b580d1a92,Decia Grimaldi Oliva
+23976,bcaca54c-b03b-4926-8fcc-543c752d3eb7,Antonio Lomellini,—hasMother—>,23584,7627597b-e671-4c63-bb39-7c481fffdf07,Selvagia Gentile Ricci
+24078,bd6c7bc0-7ec7-41e8-8578-c56f2cbdc4de,Battista Lomellini,—hasMother—>,25774,6da2f159-0706-49ec-9c33-e61683c32db4,Selvagia Spinola
+24974,bdad283c-6deb-44eb-b9a2-f0d6208b0a2b,Pellegra Lomellini,—hasMother—>,23656,5aba82b9-b3fc-423a-9179-fb52995e7a30,Battina Grimaldi Oliva
+23791,be03862d-7a98-4c95-aaea-ebc3d0842fa4,Maddalena Ittaliano,—hasMother—>,25857,5e6696ca-c819-483f-84ef-e27ca64f99c2,Giacoba Vivaldi
+24265,be63bf19-8062-482f-879f-556738eadb1b,Domenico Lomellini,—hasMother—>,23411,1584a588-8d66-4b09-93b9-e3f154b67962,Maria Doria
+24231,becb8647-6507-40f8-8eb7-de8678d8d8a2,Cosmo Lomellini,—hasMother—>,23855,b8a9881d-664d-4318-8a33-a8ed4087a5ef,Selvagia Lercari
+23882,beeb1302-f9fd-4edf-9816-75b389a474be,Agostino Lomellini,—hasMother—>,23242,6cae7248-fee1-421a-baba-4a0bfd2526f6,Bianca Centurione Becchignone
+24647,bf20aa3c-4bd2-4e3b-9305-84697b43c180,Lanfranco Lomellini,—hasMother—>,23018,3e99b304-3f0c-42bf-a7fc-09ca188b36a4,Giulia —
+24245,bf54c0a4-db4e-4b4b-a25a-1edb1f2484ea,Cristoforo Lomellini,—hasMother—>,23704,6e7cce69-468e-4cb5-9b12-999ca9c9de22,Peretta Grimaldi
+24108,bf7c26d3-f5f7-44ad-a712-ca6c7e9aa11b,Bernardo Lomellini,—hasMother—>,25583,0312daf0-c71b-4ef3-b229-b43aadbf5751,Caterina de Signori di Lingueglia
+24297,bf978814-d911-4227-a554-0de7210bbcfb,Ettore Lomellini,—hasMother—>,23253,fa7dd5dc-71fe-4ff2-b300-063ce827afa6,Francisca Centurione Cantelli
+24721,c00a0bc1-9ed8-4354-b5bd-7385fce1dc29,Lucrezia Lomellini,—hasMother—>,25549,983dee24-73d5-4acc-bc4a-de923e4b627a,Pellegra Salvago
+24180,c02003bf-626e-487f-b1c4-867f54ed716e,Caterina Lomellini,—hasMother—>,23821,b44a3d30-5a8b-4d74-8635-a9984298bc00,Ginevra Leccavello
+24516,c0346819-307a-4834-9f24-493f477e6ecb,Giovanni Girolamo Lomellini,—hasMother—>,24150,cb9ccc03-acf2-4f24-9beb-8218f459d3fd,Camilla Lomellini
+24359,c0b33475-683c-4bdc-abf5-bb8b1fe91e73,Francisca Lomellini,—hasMother—>,23411,1584a588-8d66-4b09-93b9-e3f154b67962,Maria Doria
+24228,c0e5be34-fb67-4603-91d2-bde3293e2e07,Corrado Lomellini,—hasMother—>,23491,19bfc93c-3c72-471d-91d1-7f70ebaafd52,Mencia Fieschi
+24965,c0f08915-d9a7-4af6-b569-acc33a7f6f61,Paride Lomellini,—hasMother—>,25742,2572e1d7-8a62-4ccd-a0c3-2e6f4e508c1b,Moisetta Spinola
+24138,c1108925-b23e-4d9b-908e-42b9c7328b3c,Brigida Lomellini,—hasMother—>,24932,b741c8c4-7adf-4f96-b58d-e8800f595210,Orietta Lomellini
+25133,c12e2931-2846-4d42-b4aa-b32fb9746831,Teodora Lomellini,—hasMother—>,25367,ecb86666-2282-4f46-9f05-a8cbf9430a39,Luchesia di Negro
+24413,c149c4c2-8bc2-4172-a803-55ac6eb07ecd,Giacomo Lomellini,—hasMother—>,23643,53372738-2155-4f11-972f-ade73df97eba,Andreola Grimaldi
+25128,c1639084-6249-4a26-ba1d-a2fc5f6f673a,Teodora Lomellini,—hasMother—>,24772,1368576c-70cb-4e14-aace-9e6c4ed52ef0,Maria Lomellini
+24556,c1a47f86-f01b-4634-93e8-37ddafad5c65,Girolamo Lomellini,—hasMother—>,23377,c5ba68d7-5619-4111-9151-88e280ae6f79,Francisca Doria
+24795,c1c899f9-1e7f-4528-8bb8-07c948e55702,Maria Lomellini,—hasMother—>,23589,d1d65240-e74c-4bc5-a1bf-7a297cbc9f8e,Teodora Gentile de Turca
+25056,c23c0cb2-d2f5-46ab-8738-59c89e5a87c6,Riccardo Lomellini,—hasMother—>,22996,63d5fab1-c8b3-46ba-9c1e-5c3b94731e97,Angela —
+24824,c25203d1-0c10-4183-855a-a0d8d6c55d77,Maria Lomellini,—hasMother—>,23987,5a7d8ea1-2a3c-43ca-8f70-7661cabfb119,Argenta Lomellini
+23880,c26d02a7-b9d4-4620-9495-cbb7a657ef53,Agostino Lomellini,—hasMother—>,25554,9707240b-da07-4d83-8690-812fb7a3359b,Tommasina Salvago
+24109,c280aef4-491b-43f2-8dfe-ac0fbfffd6ae,Bernardo Lomellini,—hasMother—>,23439,89fbfe19-b532-43d9-848b-08fbe53c7897,Susanna Doria
+25000,c314cf6e-52db-4598-aa67-b55c0b18fee2,Percivale Lomellini,—hasMother—>,23281,9ba0e919-ffdd-4421-b987-467d2609c743,Brandolina Cibo
+25051,c334a182-3708-4cd2-9429-0619286413d6,Raffaele Lomellini,—hasMother—>,23834,8eb1cf8b-3941-4dc4-9746-67aa54e99ced,Franca Lercari
+25076,c3421ea6-a506-40c5-a394-03b0110ee818,Simona Lomellini,—hasMother—>,25736,76fd97e1-3587-4c0a-811a-ad55de57cf29,Maria Spinola
+24257,c3d2715b-db44-4727-86d2-fdd9cddf9391,Davide Lomellini,—hasMother—>,23253,fa7dd5dc-71fe-4ff2-b300-063ce827afa6,Francisca Centurione Cantelli
+24466,c40c5e7e-0f62-4b03-9c61-a7fd7047fa7a,Giovanni Andrea Lomellini,—hasMother—>,23177,07a92e65-4222-432b-84d9-0daea191322f,Camilla de Cassina
+23990,c40d6993-af78-4db2-9cef-5fabb0fb1bb0,Argenta Lomellini,—hasMother—>,23190,37e47d1a-72be-42be-bd0f-ca2373011fbb,Battina Cattaneo
+24146,c4251f93-0623-4673-b490-7542ee91340f,Brigida Lomellini,—hasMother—>,23407,c1b002f5-46e6-4d49-a0af-d7645734d4e5,Luigia Doria
+24874,c4733b55-53ec-499d-9219-d2ade6e5028f,Niccolò Lomellini,—hasMother—>,25343,742f255d-2828-4b93-af60-671792739d3e,Pietra Maruffo
+24317,c4c6a7e5-64dd-4e1f-8761-295269481f28,Filippo Lomellini,—hasMother—>,23115,18125c40-754a-44ef-a29e-a98fa60d7e79,Maddalena Brignole
+25160,c521d451-ab9b-4560-b59f-97e45a67b842,Tobia Lomellini,—hasMother—>,23804,e55afa90-d4ce-475f-8f04-318f3a4e0f1f,Teodora Ittaliano Lavaggi
+24218,c55c3091-d33e-4cf9-9545-413c363ea3c5,Chiara Lomellini,—hasMother—>,23483,1c16e949-db54-4f10-a2a0-8222a02f99b1,Gironima Fieschi
+23871,c56afacc-fa22-4d31-a7f9-377782727318,Adelasia Lomellini,—hasMother—>,23001,f10b1446-eda1-4eb8-8443-7c1cef76d2b8,Attilia —
+23886,c5a25424-38aa-4724-ad04-30eca9d71dd8,Agostino Lomellini,—hasMother—>,25849,cc417d27-a2e1-4826-822f-29818252ac3c,Battina Vivaldi
+24702,c633ffa5-7e31-4ad4-ae55-e39d81dabcab,Luchesina Lomellini,—hasMother—>,25788,fbf215d4-8810-4a70-920d-ce15ce61b6b1,Battina Squarciafico
+23956,c6614569-e046-4b20-86b8-cb7430bfb61c,Ansaldo Lomellini,—hasMother—>,22996,63d5fab1-c8b3-46ba-9c1e-5c3b94731e97,Angela —
+24742,c678b228-d61b-401a-9efd-c911f86f7be8,Maddalena Lomellini,—hasMother—>,25241,6f2a7a97-912a-42f0-958f-3b6a14280836,Maddalena Maggiolo
+24415,c69207cc-4e10-4d99-9d76-42d3dd81ba62,Giacomo Lomellini,—hasMother—>,23005,2a5b71a8-1da8-4b47-a72a-ea230184f134,Caterina —
+24200,c6c8e667-7222-480c-a58f-05af30828978,Cattaneo Lomellini,—hasMother—>,23021,14c007a3-fd30-40cc-b1dd-174dd9d7aef8,Isabella —
+24567,c6ca4246-8a1a-4637-af1a-1f3d085affbf,Gironima Lomellini,—hasMother—>,23991,fe377dc2-4a59-43ba-9fc7-6b63563ce558,Argenta Lomellini
+25088,c6d9823d-ea82-4625-b08d-39455347dd77,Simone Lomellini,—hasMother—>,23584,7627597b-e671-4c63-bb39-7c481fffdf07,Selvagia Gentile Ricci
+24041,c7022705-4e6a-4771-9c0e-c7d21f5f1e6f,Battina Lomellini,—hasMother—>,25535,4108d3ff-4cbf-40df-9bf9-0de9ffeab9ae,Bianca Salvago
+24028,c73e3b4b-129b-4a35-a543-5156b0b1a1be,Bartolommeo Lomellini,—hasMother—>,23852,e965213c-49e9-4f55-9aef-16cf4736243e,Orietta Lercari
+25008,c741009a-bd66-41c2-9b97-d12c4cc1053e,Pier Bartolommeo Lomellini,—hasMother—>,25570,e0a0baf0-e603-4fe9-a9d2-efdf42a50d55,Isabella Scaglia
+24530,c74261db-be9a-4908-a18d-41ab454fa48d,Giovanni Lomellini,—hasMother—>,23010,abb9f25d-8b50-4baf-a8d0-478a97c91bc0,Clarisia —
+24393,c7543685-1077-48e1-952d-a0e0ff1da71f,Germano Lomellini,—hasMother—>,24774,fe0d3d8a-79db-4770-973e-634061b9ebdf,Maria Lomellini
+24310,c7ebdb5c-5500-4f0a-8b31-a101c269b295,Filippo Lomellini,—hasMother—>,24571,4f7a073b-5551-4233-9f01-5ddd8991e3f2,Gironima Lomellini
+25026,c8239dfd-4a71-4041-b9c9-c8764411ffae,Pietro Lomellini,—hasMother—>,25091,e307f82d-46b1-42a4-9cda-ba6c767d10da,Sobrana Lomellini
+23938,c82d6560-73f1-4527-b9dd-895321376c3d,Angela Lomellini,—hasMother—>,23213,49c4575f-e408-4f41-8c83-a240c7ba8089,Lombarda Cattaneo
+24969,c84228f3-da99-41ff-909e-bb97e87d0406,Pasquale Lomellini,—hasMother—>,24774,fe0d3d8a-79db-4770-973e-634061b9ebdf,Maria Lomellini
+24878,c8c05479-0cdd-4c48-9360-f417e3b79d8d,Niccolò Lomellini,—hasMother—>,24829,54f985fb-0109-45b9-965e-7a1f40ea89e9,Maria Lomellini
+24046,c92c1c7e-3fae-4a19-8874-bc42e5021d45,Battina Lomellini,—hasMother—>,23559,78655b92-5326-487f-ad2b-e8614fb6def8,Isabella Gentile Pignoli
+25201,c94f2526-b305-45cd-ab95-3021c811e6c5,Vincenzo Lomellini,—hasMother—>,24774,fe0d3d8a-79db-4770-973e-634061b9ebdf,Maria Lomellini
+24540,c9ccf7fd-cabe-443a-a01a-49ebe35a8e4d,Giovanni Vincenzo Lomellini,—hasMother—>,23736,3963b642-9cfd-47f1-9a7a-9a8fa79edfbf,Maria Imperiale
+24686,c9d53203-414e-4c54-ab74-a3e049a961e2,Lorenzo Lomellini,—hasMother—>,25746,0565e26c-5e2e-41d0-ae69-e03f5f843635,Niccoletta Spinola
+24156,c9e9aa7c-2d99-4374-9ee3-74e6067b7c0f,Carlo Lomellini,—hasMother—>,25336,87b283e1-22c7-4b53-9f69-3a60e69ca122,Francisca Maruffo
+23947,ca2269ee-d4fd-430a-9b7b-6cd64ae2d8c7,Anna Lomellini,—hasMother—>,23998,5cda72c6-9956-4c54-b633-b254b7a78621,Artemisia Lomellini
+24456,ca4871f0-d50b-41d5-b6c3-8bbe98b76fde,Giorgio Lomellini,—hasMother—>,23017,30d92a95-c6d1-4c56-876c-7c0cc1dd6b44,Gioffredina —
+24217,ca4c3037-c07c-414f-a7ca-d1c8ce6a26db,Chiara Lomellini,—hasMother—>,23022,a3602b87-b753-4c97-be3c-4a0fe22422e4,Isabella —
+23924,ca7a02ec-7eae-4fba-aab5-06d83bd91e76,Andrea Lomellini,—hasMother—>,24937,7bae2620-0b9a-405d-8257-566c1600edfa,Orietta Lomellini
+24255,ca9bed30-38cd-462e-b4e4-33b0b96757d8,Daniele Lomellini,—hasMother—>,23933,b7fc6562-469b-4a15-9303-5c70160ec4e1,Andreola Lomellini
+24236,ca9fa6c4-d924-4a64-9056-f304e3aaf4c9,Costantino Lomellini,—hasMother—>,24937,7bae2620-0b9a-405d-8257-566c1600edfa,Orietta Lomellini
+24569,caa7ccc9-fa87-4a2c-be0c-f9c39949ad19,Gironima Lomellini,—hasMother—>,23994,8d49c1e6-14f0-41c7-92b9-4d03f8d4aef1,Argenta Lomellini
+23922,cabb7f78-b8ac-43aa-99bd-b9b038bd9da3,Andrea Lomellini,—hasMother—>,25632,32e19400-3fc6-4096-9c52-1b4e5b032e9d,Caterina Spinola
+24693,caf4e64f-805c-418f-88a3-c07efc2e293a,Luca Lomellini,—hasMother—>,23021,14c007a3-fd30-40cc-b1dd-174dd9d7aef8,Isabella —
+24496,cb1d8357-4583-4eae-b422-1a8191cfebbd,Giovanni Battista Lomellini,—hasMother—>,25885,fb808123-abc2-4af1-9e2c-713a454e8640,Violante Vivaldi
+25066,cb419ae0-be4e-4f20-ae29-5e11a371df08,Selvagia Lomellini,—hasMother—>,25828,a6934968-a47e-45ac-b0b9-908eb4343b27,Orietta Usodimare
+24428,cb47d814-2d20-426d-8117-5459ba179f2e,Giacomo Lomellini,—hasMother—>,23018,3e99b304-3f0c-42bf-a7fc-09ca188b36a4,Giulia —
+24277,cb69cabb-026c-49a3-9038-02f395abfd72,Eliana Lomellini,—hasMother—>,23021,14c007a3-fd30-40cc-b1dd-174dd9d7aef8,Isabella —
+24344,cb6a38ca-cdb9-42db-a0fc-1f59ca979a83,Francesco Lomellini,—hasMother—>,23049,8a80ccc0-6449-4e4c-93ad-b1dfa53d5ce5,Tommasina —
+24860,cb7e721c-ceb9-472d-8745-a780774d182b,Napoleone Lomellini,—hasMother—>,23006,5163e067-524c-45ad-a311-0f948f694f44,Caterina —
+24582,cbc27c1c-0a84-4de3-9b70-7158f08c88c0,Gironima Lomellini,—hasMother—>,23376,476323a6-8a14-49c1-88c1-56cb453d4487,Francisca Doria
+24316,cc1b162d-7d29-404c-bc5c-15b9e19c02a2,Filippo Lomellini,—hasMother—>,23241,2463926e-01d9-41f5-9aa2-87f0f1b4ee55,Battina Centurione Oltramarini
+24816,cc2359b7-6cb5-490e-842c-ffc0e318f45e,Maria Lomellini,—hasMother—>,23541,59f80a01-d3c5-46cf-9e74-734443a1a493,Caterina Gentile Pignoli
+24431,cc44b034-2c78-4fa5-8b61-56baa0eb466c,Giannotto Lomellini,—hasMother—>,23016,2e85f439-99d1-4d3a-b90b-e518519ee836,Francisca —
+25183,cc90265c-f52f-4dce-916d-1e4036b3d490,Tommaso Lomellini,—hasMother—>,23018,3e99b304-3f0c-42bf-a7fc-09ca188b36a4,Giulia —
+25116,ccbe1778-5d87-4441-a503-f87ff16a47fb,Stefano Lomellini,—hasMother—>,24054,9c6505a0-696b-415b-ae4b-c12f19fd3a69,Battina Lomellini
+25209,cd1aee19-e304-4cb6-a926-1659212a2d8b,Violante Lomellini,—hasMother—>,25462,dc82fb86-7c03-4512-89e9-0bb2867ce554,Maria Pignoli
+23904,cd4e9916-251d-45bd-a526-323649dbbd93,Alessandro Lomellini,—hasMother—>,24937,7bae2620-0b9a-405d-8257-566c1600edfa,Orietta Lomellini
+24983,cd59bec4-5e26-447b-88f8-724cd5fd400f,Pellegra Lomellini,—hasMother—>,24146,c4251f93-0623-4673-b490-7542ee91340f,Brigida Lomellini
+24354,cd732e83-9fb9-4b0b-8827-54db46d5831c,Francisca Lomellini,—hasMother—>,23353,39695fac-9ce5-402d-a1d7-1d65ae430125,Benedetta Doria
+24911,cd99188a-8331-465e-8ec3-54016b573c53,Novella Lomellini,—hasMother—>,23993,087b4932-fed1-4ef7-9500-0c8182edd1cc,Argenta Lomellini
+24367,cdc03585-313a-4de7-a5c8-9b40e77d7913,Francisca Lomellini,—hasMother—>,23483,1c16e949-db54-4f10-a2a0-8222a02f99b1,Gironima Fieschi
+25089,cdc9ec0c-ddbd-4db2-873c-a4496a6e7fd5,Sisto Lomellini,—hasMother—>,25828,a6934968-a47e-45ac-b0b9-908eb4343b27,Orietta Usodimare
+25078,cde20a67-7190-49e7-8cbc-12371c64d4c9,Simone Lomellini,—hasMother—>,23135,03267065-45b6-4b97-9d61-fd61287e9dc9,Selvagia Calvi
+23941,cdff68fa-95f4-4e17-ae2a-f6d99ff0fc6b,Angelo Lomellini,—hasMother—>,25287,4453e243-3d81-4487-b7da-bcc4be33a410,Battina de Marini
+23936,ce13021f-628d-4c8f-9ee4-bad5221572c1,Anfreone Lomellini,—hasMother—>,24261,abb9d253-bab7-498f-9e74-6d605f8bdd65,Despina Lomellini
+24168,ceb24af3-910b-4941-ad2a-595493734584,Carlotto Lomellini,—hasMother—>,23021,14c007a3-fd30-40cc-b1dd-174dd9d7aef8,Isabella —
+24830,cf30212f-ab96-4b6f-b51d-90bf5621f59e,Maria Lomellini,—hasMother—>,25771,43c16887-63e0-42d2-ad06-ba7c79a140af,Pometta Spinola
+24397,d005b96b-547d-491d-835a-512f4ff9a6e1,Gherardo Lomellini,—hasMother—>,25886,6c2954fc-6036-41f9-a6b2-695a09aae30a,Bigotta Zaccaria
+24043,d099a72b-d763-4878-b289-d1891bc67f5f,Battina Lomellini,—hasMother—>,23571,119035c6-45fe-4fda-90cd-660d1e31d54b,Maria Gentile Pallavicini
+23944,d0df3835-edf1-4ad5-b9f7-0cf5d7cf1b12,Angelo Lomellini,—hasMother—>,23849,605db703-8ccd-42b1-aa80-10cdda923d7b,Luchina Lercari
+24777,d0fce926-5322-4152-a8ad-e6d2494193d0,Maria Lomellini,—hasMother—>,25287,4453e243-3d81-4487-b7da-bcc4be33a410,Battina de Marini
+24480,d15106bc-25db-4578-b9dc-1c90ee17e142,Giovanni Battista Lomellini,—hasMother—>,23579,2fc6f5fb-23dc-4b1d-9eb4-46701fbdd8ff,Pellegra Gentile Pignoli
+24436,d15738f3-4787-41d1-8449-7712fcbf7557,Giano Lomellini,—hasMother—>,23424,1e622c87-d744-4875-947d-ae142e8dd26c,Nicoletta Doria
+24790,d16f5508-fd41-42e7-96a5-224c6e0c4fe4,Maria Lomellini,—hasMother—>,23364,b2b96b56-fbbe-4f0c-9e6d-7324c9df69df,Chiara Doria
+24352,d1eff42c-40d8-464a-863a-beae10bac0b2,Francesco Maria Lomellini,—hasMother—>,23561,58f79ed5-51bb-4889-ad95-3de5505d3618,Laura Gentile
+23919,d26b80fa-194c-4962-ace2-d141f3536c34,Andalò Lomellini,—hasMother—>,25616,70a0c597-9362-41a7-968f-0a45ae1ba4fe,Battina Spinola
+24512,d314db91-8f58-4fbe-8da1-f722da52f2d0,Giovanni Francesco Lomellini,—hasMother—>,23268,27051d26-c714-4656-8d4c-d6e61b3b2323,Orietta Centurione Oltramarini
+25062,d332672c-6567-4124-bb7c-20f70f74ebf3,Selvagia Lomellini,—hasMother—>,25331,6074cc80-3949-42ee-beb3-0f17b3aabe22,Teodora de Marini
+24132,d38db898-243b-477b-9615-61f6898b5243,Bonifacio Lomellini,—hasMother—>,24787,18cfbddf-3826-4ef7-b367-a04e67cc325d,Maria Lomellini
+23978,d3b167dc-1856-4de1-a4f9-46bd5a876565,Antoniotto Lomellini,—hasMother—>,23411,1584a588-8d66-4b09-93b9-e3f154b67962,Maria Doria
+24197,d3ef795a-c73c-419e-8c07-7f6b5fce0591,Catetta Lomellini,—hasMother—>,23413,dcad4e0b-e660-45a7-82ac-02d274890b69,Maria Doria
+24768,d3f7d60e-f238-4634-8915-5f730729a917,Maria Lomellini,—hasMother—>,23043,c2ea2eda-53d4-47c4-a4f1-5b54e6a89073,Richelda —
+24145,d3f903cf-abbe-4282-959f-941569f55dbf,Brigida Lomellini,—hasMother—>,24805,52b111e9-0641-4fff-984b-ca35c7f81ad4,Maria Lomellini
+24859,d4255573-8fd7-4063-b898-ba1c18ab22d3,Napoleone Lomellini,—hasMother—>,25316,21a199be-1dd1-4cc2-ac70-823ea1c1bb9c,Luchina de Marini
+24034,d45c590b-8a0a-4ad9-b3b7-75a6208c52b2,Bartolommeo Lomellini,—hasMother—>,23700,ecfde847-a327-48ab-bc8e-cd982b22fd80,Nicoletta Grimaldi Cebà
+24381,d4e3541b-372a-4093-bddd-9acbc8afbb80,Galeotto Lomellini,—hasMother—>,23047,fdb61d25-5ed0-4327-998e-1d9e54be6bef,Teodora —
+23953,d55343bc-06ac-4705-a652-d0fc15de7052,Anna Maria Lomellini,—hasMother—>,23258,287c907a-a853-4b8f-aa91-4058793dfd70,Gironima Centurione Oltramarini
+24565,d56176c0-0836-4313-8ad9-69d0e445f634,Gironima Lomellini,—hasMother—>,25536,ce4daa60-c1d0-4255-a430-963e76aa214a,Bianca Salvago
+25124,d592c508-a55f-484a-9c49-a5b4a9b5b2d1,Tedina Lomellini,—hasMother—>,23596,1ee8f425-cb0e-4dae-8deb-39b34bbaeb9d,Gironima Ghizolfi
+24832,d5a2a767-ce17-46fa-9622-5d4afa37f668,Maria Lomellini,—hasMother—>,23584,7627597b-e671-4c63-bb39-7c481fffdf07,Selvagia Gentile Ricci
+24978,d5c1c002-2a42-47ae-863c-c483de519b55,Pellegra Lomellini,—hasMother—>,25290,f2f24b15-3464-4d2d-984b-c9c30a72f8ba,Bianca de Marini
+24030,d5d60004-4d05-4495-9d38-9ffc471099c7,Bartolommeo Lomellini,—hasMother—>,23411,1584a588-8d66-4b09-93b9-e3f154b67962,Maria Doria
+24606,d6387ae6-9f31-4268-8174-2c397c2147ae,Gottifredo Lomellini,—hasMother—>,23021,14c007a3-fd30-40cc-b1dd-174dd9d7aef8,Isabella —
+24958,d732c550-0f91-4be6-942d-841fef6d0b32,Paolo Lomellini,—hasMother—>,25290,f2f24b15-3464-4d2d-984b-c9c30a72f8ba,Bianca de Marini
+24882,d7e16e63-83eb-4a3c-bcb1-f727b0b75095,Niccolò Lomellini,—hasMother—>,24574,1e792ee6-6c78-4a1d-8313-d81bacd4ec9f,Gironima Lomellini
+24166,d7e89938-d357-4c36-81ef-abc2021d1d84,Carlo Lomellini,—hasMother—>,25375,323f177a-2bf3-4c86-9120-fd883f493288,Teodora di Negro
+24825,d7f0b9c2-2160-49b5-960e-f22b3654709d,Maria Lomellini,—hasMother—>,23756,9454ae48-d7d2-409b-b57b-20abb379e900,Battina Ittaliano olim Romeo
+24658,d81e634c-5c11-48de-9163-6228f2d5a6f8,Leonardo Lomellini,—hasMother—>,25317,73003734-ec27-43ff-8d6c-9acfb3b49aed,Maria de Marini
+25029,d8546d78-dddd-4b00-ae72-5b4d43d93d55,Pietro Lomellini,—hasMother—>,25076,c3421ea6-a506-40c5-a394-03b0110ee818,Simona Lomellini
+25167,d8729090-46f1-4468-877a-2f0fd557143c,Tommasina Lomellini,—hasMother—>,23994,8d49c1e6-14f0-41c7-92b9-4d03f8d4aef1,Argenta Lomellini
+24801,d95e41ba-6e07-4254-9d39-9817a57406fb,Maria Lomellini,—hasMother—>,25417,2f63dc1c-c2c6-4087-a494-0f42e66da7d1,Chiara Pallavicini
+24089,d9878630-6e0b-4c2a-adbd-ee4f1bfd04c9,Benedetto Lomellini,—hasMother—>,23536,c757d7d0-cbef-4815-944f-8e5f2ec18897,Benedetta Gentile
+24706,da00569d-4d98-4978-bbeb-346156bd940a,Luchina Lomellini,—hasMother—>,23445,57b56539-ce69-4862-bd8e-e2c8c030053b,Violante Doria
+24164,da381e3d-5664-49b2-b4a1-8536559a456d,Carlo Lomellini,—hasMother—>,23486,cd198268-ff76-439d-bbbb-15568f29c268,Livia Fieschi
+25011,da3ac49e-3a0c-47ab-9011-a90b59e57faa,Pier Battista Lomellini,—hasMother—>,25428,d69a75c0-23f3-4ee1-be62-3aed32453797,Maria Pallavicini
+25191,da593f1a-00c9-42b0-a989-d701fe564b4a,Urbano Lomellini,—hasMother—>,24404,179f2c2d-cfad-4f04-a34c-c545ecfdaa81,Giacoba Lomellini
+24938,da6b4711-1403-4425-bdca-a0e042184614,Orietta Lomellini,—hasMother—>,25828,a6934968-a47e-45ac-b0b9-908eb4343b27,Orietta Usodimare
+24386,da74e2a8-715a-4ce0-9b1a-6efc469463cf,Gaspare Lomellini,—hasMother—>,23384,0c4cbbac-b42d-4ebc-886d-747c074eeb3b,Ginevra Doria
+23902,da9aebdf-fa23-422d-a982-af59e39aff95,Alessandro Lomellini,—hasMother—>,23075,71760824-7560-4f3a-83db-ba5a00c2ce89,Francisca Basso
+23803,dab5a421-ad4c-4cf6-991d-e0f1ec4e8e78,Teodora Ittaliano,—hasMother—>,25871,f11d9ae6-9338-4558-b846-39fd54e5015d,Maddalena Vivaldi
+24504,dac1d753-5296-47f7-9226-dfcef1c70b67,Giovanni Battista Lomellini,—hasMother—>,25767,1311bb60-1a88-4106-a9d7-5cb2b5fe115e,Pellina Spinola
+24330,dadabfbd-2fec-4e5b-adfc-1030802e0a30,Francesco Lomellini,—hasMother—>,24932,b741c8c4-7adf-4f96-b58d-e8800f595210,Orietta Lomellini
+24408,dba77bad-64ec-4f4e-86dd-825e3a942fc2,Giacomo Lomellini,—hasMother—>,25341,e1eb9b72-30b5-4161-8ed3-0b4aca90283e,Manfreda Maruffo
+24086,dbfaa35d-504e-4d21-9fbe-95b57dde5b13,Benedetta Lomellini,—hasMother—>,23503,134035b1-8543-44e6-b26e-65a78078b0f5,Violante Fieschi
+24986,dc207417-a92c-4486-8f0c-b91c8006afce,Pellegra Lomellini,—hasMother—>,25736,76fd97e1-3587-4c0a-811a-ad55de57cf29,Maria Spinola
+23140,dc5209e7-6741-47cf-985b-7ed3850ae9b4,Caterina Camilla q. Domenico,—hasMother—>,23002,27958a94-436f-4d83-bd94-793985fb620a,Bigotta —
+24800,dc6021d5-f926-4182-8b78-6939756b9c54,Maria Lomellini,—hasMother—>,23700,ecfde847-a327-48ab-bc8e-cd982b22fd80,Nicoletta Grimaldi Cebà
+24869,dcc348c4-49eb-47b9-97c0-9f5d733313e1,Niccolò Antonio Lomellini,—hasMother—>,25577,10c0f47f-825e-4eb0-893a-58b916fe588e,Eliana Serra
+24096,dd77ce34-51da-46ec-a120-93fd608d9dfd,Benedetto Lomellini,—hasMother—>,23998,5cda72c6-9956-4c54-b633-b254b7a78621,Artemisia Lomellini
+24907,ddd52507-4349-4d24-984c-dc4806cf655c,Nicoletta Lomellini,—hasMother—>,25543,b6c53182-f1e5-4917-9f70-dfd0d9b0fd74,Grimalda Salvago
+24124,de1d0361-4c5d-45a3-8865-26c1b9d9e462,Bianca Lomellini,—hasMother—>,25781,bf13e400-ebde-43aa-b0a9-1c04c2e2b725,Teodora Spinola
+24493,de716f66-c6b0-4360-8e60-652994273676,Giovanni Battista Lomellini,—hasMother—>,25733,2326e60d-58ba-4909-9ccf-33de96600f47,Luigia Spinola
+24708,ded40bd2-6e3c-4590-911d-ce18cb081bf0,Luchina Lomellini,—hasMother—>,25287,4453e243-3d81-4487-b7da-bcc4be33a410,Battina de Marini
+24544,defa59fa-561c-4231-810d-d8de3ee642e8,Girolamo Lomellini,—hasMother—>,23413,dcad4e0b-e660-45a7-82ac-02d274890b69,Maria Doria
+24967,df1c45f9-9ea6-406d-a8ff-1ab5bb01e79a,Paride Lomellini,—hasMother—>,23508,cb322175-cba1-4717-9c9b-6cb020385a6a,Luigia de Fornari
+24019,df268090-f9d7-47b0-b8d1-0ac5b00dc383,Bartolommea Lomellini,—hasMother—>,25076,c3421ea6-a506-40c5-a394-03b0110ee818,Simona Lomellini
+24072,df2de2d7-208f-4335-8e78-f3ba0c3f3e27,Battista Lomellini,—hasMother—>,23354,77c94fc6-a636-40d3-b5ad-9ff420296e74,Benedetta Doria
+23992,df74adb3-7837-41d7-bebf-e98d36012b0c,Argenta Lomellini,—hasMother—>,23616,5faf00eb-4891-4d7c-b3d3-99d988969347,Battina Grillo
+24147,df903e65-d760-4fc0-87e7-924291ba3b3f,Brigida Lomellini,—hasMother—>,23609,f37e866a-394e-45b5-b904-6e006caa0896,Selvagia Giustiniani de Forneto
+24902,e000c4da-5974-48be-80c3-3638c38c4332,Nicoletta Lomellini,—hasMother—>,23994,8d49c1e6-14f0-41c7-92b9-4d03f8d4aef1,Argenta Lomellini
+24760,e0368688-2028-42ec-8e9a-b50ce6106656,Margaritta Lomellini,—hasMother—>,24806,fb04420b-cbaf-411b-9eb1-55ce9428b3c9,Maria Lomellini
+25111,e07dcde1-f4ff-443b-b98d-2509ecf5e749,Stefano Lomellini,—hasMother—>,23536,c757d7d0-cbef-4815-944f-8e5f2ec18897,Benedetta Gentile
+24906,e08696eb-230c-4842-9b2d-8175e974c0dc,Nicoletta Lomellini,—hasMother—>,25606,3918a8ed-3761-4ed7-99a2-6a3f58c999bd,Andreola Spinola
+23470,e099f669-c75d-457e-bda7-13ab2309b2ad,Ettore Fieschi,—hasMother—>,24814,ad908628-1a22-42a0-bd59-4e20eb4be341,Maria Lomellini
+25059,e103d730-087b-4ce9-abf7-8938091b0cc1,Sebastiano Lomellini,—hasMother—>,25639,7f19ec94-bcd1-49c0-8451-1b69d267559a,Chiara Spinola
+24120,e142f2b2-f037-42f0-9a9c-5df47edd657e,Bianca Lomellini,—hasMother—>,23535,5ed3ead9-872a-49a6-9798-9eb4797dde4f,Battina Gentile Ricci
+24946,e14adf9c-5053-446f-86fe-cfea406988ca,Ottaviano Lomellini,—hasMother—>,23271,8798fbba-f158-43aa-ab83-f83e4ac6c5e1,Pellina Centurione Becchignone
+24966,e14f6d14-55c1-46fc-abb1-8a7f8055ee67,Paride Lomellini,—hasMother—>,23756,9454ae48-d7d2-409b-b57b-20abb379e900,Battina Ittaliano olim Romeo
+24688,e1b0cd1a-b7ab-4803-acb6-02a5338cef08,Lorenzo Lomellini,—hasMother—>,24462,558a5e5f-f493-4035-8017-347865c109d0,Giovanna Lomellini
+25148,e209ea61-8df8-40e1-9e1b-8c8868e22afb,Teramo Lomellini,—hasMother—>,23166,a0f34a06-1f43-4b63-ac5e-79b436270367,Pometta de Carli
+25017,e25d52ea-f7c1-4189-bee0-6d014b74fd0a,Pietra Lomellini,—hasMother—>,25292,317196c2-6588-451d-9b0a-3678dd1fa08b,Caterina de Marini
+24553,e27add7f-8380-44a3-a492-242a819482b8,Girolamo Lomellini,—hasMother—>,23407,c1b002f5-46e6-4d49-a0af-d7645734d4e5,Luigia Doria
+23966,e28ac5a0-dda3-4b7b-a096-9506272846fa,Antonio Lomellini,—hasMother—>,25076,c3421ea6-a506-40c5-a394-03b0110ee818,Simona Lomellini
+24312,e2df4018-7bff-4757-a66b-7f88e837f5d9,Filippo Lomellini,—hasMother—>,23381,ecd1b449-c46e-4606-9d90-a2ca7959a28d,Giacoba Doria
+25091,e307f82d-46b1-42a4-9cda-ba6c767d10da,Sobrana Lomellini,—hasMother—>,24829,54f985fb-0109-45b9-965e-7a1f40ea89e9,Maria Lomellini
+23898,e35c2aa4-0d46-496e-aaac-06af7d7f74e6,Alaone Lomellini,—hasMother—>,22999,5e5a977e-9aef-4cd2-b697-556cbb136aa8,Argenta —
+24703,e367eeb4-d5fd-4caf-a15c-91505d92f144,Luchetto Lomellini,—hasMother—>,25849,cc417d27-a2e1-4826-822f-29818252ac3c,Battina Vivaldi
+25180,e3738fa7-528a-4dc1-89a7-7223b398d186,Tommaso Lomellini,—hasMother—>,25781,bf13e400-ebde-43aa-b0a9-1c04c2e2b725,Teodora Spinola
+24450,e3a5cdb7-a9c4-4068-b45b-1e0011b92a7e,Giorgio Lomellini,—hasMother—>,25631,cf22a524-23db-40ce-b3ef-39d183551667,Caterina Spinola
+24151,e4b7f57a-6f04-4c66-8bd1-de4416f58f7d,Camilla Lomellini,—hasMother—>,25482,c08caa59-d933-4c13-90e9-ddeb2952904d,Isolta Pinelli
+24984,e4c2d251-d265-4628-8dea-94feaa838368,Pellegra Lomellini,—hasMother—>,23190,37e47d1a-72be-42be-bd0f-ca2373011fbb,Battina Cattaneo
+24863,e4cfb500-1221-452e-b7a9-0045ec92ef83,Napoleone Lomellini,—hasMother—>,25486,5e8f45a4-4143-4438-a5a2-fb1e2ebe4ca3,Maria Pinelli
+24449,e514669e-ecfd-4168-9255-ed6f0827c994,Giorgio Lomellini,—hasMother—>,25091,e307f82d-46b1-42a4-9cda-ba6c767d10da,Sobrana Lomellini
+24201,e51506cf-2b62-4a9d-abc8-42521527ec9f,Cattaneo Lomellini,—hasMother—>,23660,f47e78b1-fccd-41cb-9ef0-4307a5cefbae,Brigida Grimaldi
+24875,e51bd674-e1f8-4328-b248-e646d0ef304c,Niccolò Lomellini,—hasMother—>,25275,0a755ced-7e64-425a-b868-662cb5dd0780,Selvagia de Mari
+24709,e57592a9-b868-4a43-907a-ab7afd040107,Luchina Lomellini,—hasMother—>,23106,314c8177-969d-4d4e-bc09-4c3e2712f468,Tommasina Boccaccio
+24135,e59079a5-51ef-49a0-b5e8-cce3ee80eba0,Bonvillano Lomellini,—hasMother—>,23160,ea178f35-8814-46e0-b8b0-a2cde5badbea,Teodora Cancelerio
+25046,e5e8cff9-bb7c-4be9-9cab-aa6b84bfe771,Raffaele Lomellini,—hasMother—>,23712,a3d49b8f-6ca2-452a-8b2a-d41a73b7abe9,Violante Grimaldi Cebà
+25172,e5fe86f8-6315-4134-8737-93861d7f11f3,Tommaso Lomellini,—hasMother—>,23536,c757d7d0-cbef-4815-944f-8e5f2ec18897,Benedetta Gentile
+24035,e65be042-d37d-4aef-929f-f5d11c137da7,Bartolommeo Lomellini,—hasMother—>,23005,2a5b71a8-1da8-4b47-a72a-ea230184f134,Caterina —
+23968,e66213d2-64aa-4a09-b5ce-7dd85afe7701,Antonio Lomellini,—hasMother—>,23535,5ed3ead9-872a-49a6-9798-9eb4797dde4f,Battina Gentile Ricci
+24494,e695fd9f-7a32-43c7-8717-731ebe4124dc,Giovanni Battista Lomellini,—hasMother—>,24146,c4251f93-0623-4673-b490-7542ee91340f,Brigida Lomellini
+24903,e69f583c-7857-41e2-ae65-9eb923554426,Nicoletta Lomellini,—hasMother—>,25836,cc2bc7b0-2492-43ba-bed3-d9c2850109b4,Caterina Valdettaro
+24838,e71df9e8-70ea-4391-a9cf-e2d679e1b187,Martino Lomellini,—hasMother—>,23584,7627597b-e671-4c63-bb39-7c481fffdf07,Selvagia Gentile Ricci
+24325,e761730f-60cf-4059-883b-b45b1553551d,Franca Lomellini,—hasMother—>,23003,4e9aa1a4-906c-401d-8db3-92464c16e8f9,Campiona —
+24867,e79da4f5-5e84-4c44-9da4-4cae31c53f57,Niccolino Lomellini,—hasMother—>,23023,feb86792-edd8-4feb-8d5f-d5a42fcdfbae,Lanza —
+24165,e888c57f-1430-40a7-8953-e85cac95b89b,Carlo Lomellini,—hasMother—>,25293,19a2f7b3-6ad6-4bf4-8f7d-0beb7f1fabf3,Caterina de Marini
+24005,e89876a3-f461-4579-a196-7d1d92d2309b,Baldassare Lomellini,—hasMother—>,23571,119035c6-45fe-4fda-90cd-660d1e31d54b,Maria Gentile Pallavicini
+24038,ea495822-3916-478e-8cbc-8bec50c21713,Bartolommeo Lomellini,—hasMother—>,23190,37e47d1a-72be-42be-bd0f-ca2373011fbb,Battina Cattaneo
+24194,ea52819c-ec6f-4d10-b725-5d697aa85f2e,Caterina Lomellini,—hasMother—>,23987,5a7d8ea1-2a3c-43ca-8f70-7661cabfb119,Argenta Lomellini
+24779,ea7a1fd1-d187-42f0-b33a-d8183bb8982d,Maria Lomellini,—hasMother—>,23559,78655b92-5326-487f-ad2b-e8614fb6def8,Isabella Gentile Pignoli
+24259,ea807ce0-aef7-4f73-9fd7-ea0c4f2c3776,Despina Lomellini,—hasMother—>,23656,5aba82b9-b3fc-423a-9179-fb52995e7a30,Battina Grimaldi Oliva
+24955,eaab6276-2f60-482e-a084-b0a9c71ac92b,Paola Lomellini,—hasMother—>,25734,222b0cb2-5158-4d63-b625-7873f9a2c7ab,Maddalena Spinola
+24649,eabd5f0c-8824-4529-86e9-8585430f30db,Lazzaro Lomellini,—hasMother—>,24126,b0f83553-df80-472d-bd62-c5c2dfe14ece,Bigotta Lomellini
+24216,eaf77e7a-8b9e-4efa-a37d-26828f391e30,Chiara Lomellini,—hasMother—>,23190,37e47d1a-72be-42be-bd0f-ca2373011fbb,Battina Cattaneo
+24189,eb1c601d-7897-4fc0-9978-e3ede79af451,Caterina Lomellini,—hasMother—>,25259,c4f54093-d1c2-4e7e-84ae-adbd06bf1f5c,Francisca de Mari
+23951,eb800517-9c23-43d1-92af-13fe89c0bc77,Anna Maria Lomellini,—hasMother—>,24462,558a5e5f-f493-4035-8017-347865c109d0,Giovanna Lomellini
+24645,eba72449-ce2d-4d80-a5d7-8af7f98e084a,Isolta Lomellini,—hasMother—>,24939,05ab32b3-aac9-4695-85eb-80e828a596ff,Orietta Lomellini
+24053,ebb798c6-5e1f-47a6-83a8-beb48119348a,Battina Lomellini,—hasMother—>,23268,27051d26-c714-4656-8d4c-d6e61b3b2323,Orietta Centurione Oltramarini
+24943,ebec1bdc-6700-4839-9c16-993390ccd53b,Ottaviano Lomellini,—hasMother—>,23994,8d49c1e6-14f0-41c7-92b9-4d03f8d4aef1,Argenta Lomellini
+25156,ebf1570c-a27e-4fa9-8562-e37f2b7d639d,Tobia Lomellini,—hasMother—>,23559,78655b92-5326-487f-ad2b-e8614fb6def8,Isabella Gentile Pignoli
+23917,ebf38c54-7384-40e8-a7a4-e239d1a59214,Andalò Lomellini,—hasMother—>,23050,5c9d7cbf-dcab-4caa-99fc-672c97273134,Violante —
+24894,ec350a11-882e-4ffe-8058-af0067fad526,Niccolò Lomellini,—hasMother—>,23203,4d159acf-21f7-445c-9fe9-f4a408eb6d7d,Ginevra Cattaneo
+24773,ecedf3d0-6224-4297-8131-c31e6fd37ea5,Maria Lomellini,—hasMother—>,24829,54f985fb-0109-45b9-965e-7a1f40ea89e9,Maria Lomellini
+24414,ed1e0e44-b89a-4dc9-8744-ce0644780afc,Giacomo Lomellini,—hasMother—>,23659,2552b322-281d-41e7-ac4c-211f4c9b58c0,Bianca Grimaldi Oliva
+24489,edaf218b-a1bd-4922-b6e8-6b2fbff4f652,Giovanni Battista Lomellini,—hasMother—>,23115,18125c40-754a-44ef-a29e-a98fa60d7e79,Maddalena Brignole
+24827,edbe2682-6c2f-4e53-98ff-1f4c7dbca3c4,Maria Lomellini,—hasMother—>,25171,21459f0f-b43f-41fd-bb26-650fd891e6ad,Tommasina Lomellini
+24017,ede8b238-39da-4e29-beb2-9b4d6525f479,Barnaba Lomellini,—hasMother—>,23190,37e47d1a-72be-42be-bd0f-ca2373011fbb,Battina Cattaneo
+24672,edf4890c-9ef9-4ddb-9cf9-e8e70413c00f,Livia Lomellini,—hasMother—>,23042,f447cf9f-24c6-410f-9b9f-0b65661e0af8,Porzia —
+24547,eed1529b-0217-4138-8ba9-ff5a68e7993c,Girolamo Lomellini,—hasMother—>,25878,57839e67-15ac-4d1b-a08b-b2478f7a3863,Peretta Vivaldi
+25092,ef9297e8-97ee-452e-abdd-26b8d2d39e64,Sobrana Lomellini,—hasMother—>,23152,4c553284-883a-4899-b7e8-2f5a1599f61e,Eliana Campofregoso
+25192,efd24919-d884-4237-9b0a-7e279d1dd3f7,Valentino Lomellini,—hasMother—>,25740,0818d587-9bf5-487a-9035-7cc389b6a012,Mariola Spinola
+25141,efe966d7-de52-4f1f-af63-af0157df0632,Teodora Lomellini,—hasMother—>,23606,f4ad5a40-509b-4598-bcaf-30dce9cc86a1,Limbania Giustiniani
+25121,f024050c-e0f7-4f60-987a-ec3ff750a34c,Susanna Lomellini,—hasMother—>,23440,9d566fef-8296-4d09-81f0-c3e7138708b8,Tobietta Doria
+23144,f02ab2bd-48d3-4264-a71b-a608b4a49d0f,Enrico Camilla q. Domenico,—hasMother—>,25716,42232586-1b9c-4852-83a4-47a5addf0ab5,Gironima Spinola q. Bartolomeo
+25035,f04128ca-f33d-4c1b-94fb-14bb23a3c8c2,Pietro Lomellini,—hasMother—>,25817,4741530e-b56b-46d2-9357-80a4e1ccb027,Brigida Usodimare
+24884,f079d0ac-3112-4eae-8c0c-b31ddfb5b2a0,Niccolò Lomellini,—hasMother—>,25414,d95b3d2b-dd50-48ce-97a8-59955adfb2bc,Barbara Pallavicini
+24807,f0dd0abb-8f99-4fa7-a97c-75dcf5c2f3e4,Maria Lomellini,—hasMother—>,23242,6cae7248-fee1-421a-baba-4a0bfd2526f6,Bianca Centurione Becchignone
+24542,f10edddd-52cd-4582-93df-cae58ad2cb4d,Girolamo Lomellini,—hasMother—>,23656,5aba82b9-b3fc-423a-9179-fb52995e7a30,Battina Grimaldi Oliva
+25648,f12173fb-e688-4340-bc7d-05e52f828dd7,Cristoforo Spinola,—hasMother—>,24178,03b4ca0f-beee-408e-aa54-e1d9cba8b1ee,Caterina Lomellini
+24583,f12f21cd-30f5-4251-bf29-4c1c45a3e840,Gironima Lomellini,—hasMother—>,23395,3f38c4cd-f982-42a1-bbd2-6f511c2e228c,Gironima Doria
+24990,f13a75cb-c577-4aa3-aea6-929983893862,Pellegra Lomellini,—hasMother—>,25795,a49e734c-4947-4e15-bc27-276bb349c30a,Maria Squarciafico
+24813,f180161d-4c92-4734-b9df-d1433d3fbda0,Maria Lomellini,—hasMother—>,23407,c1b002f5-46e6-4d49-a0af-d7645734d4e5,Luigia Doria
+24100,f18878e3-d4f6-4ef2-b9a4-40566f6d6617,Benedetto Lomellini,—hasMother—>,23040,960e91f9-75e8-4419-a600-d5e54db80ffc,Orietta —
+24295,f1c9abd9-5793-40b5-b556-6c4c82027704,Emilia Lomellini,—hasMother—>,25633,ee550fe2-1366-46dc-8478-4a4fc4a48c44,Caterina Spinola
+24154,f24c41f8-7566-4eda-8942-53b65c267540,Campiona Lomellini,—hasMother—>,23190,37e47d1a-72be-42be-bd0f-ca2373011fbb,Battina Cattaneo
+24483,f27c68f2-3d93-483f-a13e-6ce72e35457c,Giovanni Battista Lomellini,—hasMother—>,25417,2f63dc1c-c2c6-4087-a494-0f42e66da7d1,Chiara Pallavicini
+25037,f2959052-8627-464b-a737-ecb4c3ce6904,Placidia Lomellini,—hasMother—>,25399,faffebcb-1164-43b0-8c1b-4943cfc1e81b,Maria Odone
+24891,f2c5c8e9-8ccd-4f4c-b4e6-e938cf0367af,Niccolò Lomellini,—hasMother—>,23819,03c9c85d-62bb-4b6b-8091-451975bf96f2,Isolta Lecavello
+23960,f332fff6-45d8-4dbc-adc3-b7a73d061fb6,Ansaldo Lomellini,—hasMother—>,25375,323f177a-2bf3-4c86-9120-fd883f493288,Teodora di Negro
+24469,f35a183d-2e85-4268-b492-f81c6eda36a5,Giovanni Battista Lomellini,—hasMother—>,23656,5aba82b9-b3fc-423a-9179-fb52995e7a30,Battina Grimaldi Oliva
+24011,f361464b-873d-4eb1-9f42-66f54dbcbb3c,Baliano Lomellini,—hasMother—>,22996,63d5fab1-c8b3-46ba-9c1e-5c3b94731e97,Angela —
+24585,f4ce9770-2431-4f40-8a2f-3cae3fb939af,Gironima Lomellini,—hasMother—>,25268,ab1094a8-d2e3-47d4-8e02-e38035704911,Nicoletta de Mari
+25578,f4e87e39-b0f4-4c94-a20f-5a4ae7c58101,Francesco Serra,—hasMother—>,24223,338f58e6-b6bf-4f6b-9ba0-9dccf5e0bc27,Claudia Lomellini
+23903,f5280aae-5ea7-4eee-b054-4396e00a9b59,Alessandro Lomellini,—hasMother—>,25554,9707240b-da07-4d83-8690-812fb7a3359b,Tommasina Salvago
+24142,f54aa004-55f2-4ad5-a484-1e2647990276,Brigida Lomellini,—hasMother—>,23384,0c4cbbac-b42d-4ebc-886d-747c074eeb3b,Ginevra Doria
+24919,f5d504e7-7dfe-4345-8413-c947e04942a8,Odoardo Lomellini,—hasMother—>,23021,14c007a3-fd30-40cc-b1dd-174dd9d7aef8,Isabella —
+24578,f5dbbb05-b04b-474a-bd60-cf5508227726,Gironima Lomellini,—hasMother—>,23659,2552b322-281d-41e7-ac4c-211f4c9b58c0,Bianca Grimaldi Oliva
+24936,f5e41897-1821-4e08-8fbb-7d4798f6d8ba,Orietta Lomellini,—hasMother—>,23220,861ed6af-8c57-4d74-af3a-676cbfeeb5b5,Maria Cattaneo
+23921,f5e51b02-7f30-4ca6-b5cf-bca82d36ca4e,Andrea Lomellini,—hasMother—>,25414,d95b3d2b-dd50-48ce-97a8-59955adfb2bc,Barbara Pallavicini
+25190,f5f014e3-a5b2-4f4f-b7f9-d0516faa3540,Urbano Lomellini,—hasMother—>,23407,c1b002f5-46e6-4d49-a0af-d7645734d4e5,Luigia Doria
+25140,f621ea21-f423-4046-aa9a-2d2b0eb0e1b4,Teodora Lomellini,—hasMother—>,23031,97076705-7c38-4757-930e-c625c7ec6d53,Maria —
+25162,f6cf61ad-7542-4808-8e98-d2aa292d39cb,Tobietta Lomellini,—hasMother—>,25462,dc82fb86-7c03-4512-89e9-0bb2867ce554,Maria Pignoli
+23888,f6e0a5cc-a400-4470-98e9-8aa4dc74cb17,Agostino Lomellini,—hasMother—>,25606,3918a8ed-3761-4ed7-99a2-6a3f58c999bd,Andreola Spinola
+25055,f741553b-aa4e-48ae-b341-3b3bfc44ccde,Rainero Lomellini,—hasMother—>,24193,21c3189a-7ea5-45d1-be7b-6cb1de96eb1f,Caterina Lomellini
+24472,f76b4228-f4ce-4073-9a2d-ae944476170f,Giovanni Battista Lomellini,—hasMother—>,23288,f5b7d282-f214-4659-8e09-d5af4ecc49a3,Caterina Cicala
+25213,f7c7f0e2-be66-41a8-aea4-ba4ea8a49956,Violante Lomellini,—hasMother—>,23620,5d13c7bf-cf75-4f89-81c4-46cb1e927c04,Francisca Grillo
+25084,f80be426-53bd-4a9c-85df-9580bd4dbf20,Simone Lomellini,—hasMother—>,23049,8a80ccc0-6449-4e4c-93ad-b1dfa53d5ce5,Tommasina —
+24503,f8791d2a-6e2e-4c7a-866d-a0c821f68c54,Giovanni Battista Lomellini,—hasMother—>,25170,8f48bf00-491a-411e-9db5-80f02f9d552c,Tommasina Lomellini
+24995,f889c4ec-0c22-48eb-adb9-bdcad802597e,Pellina Lomellini,—hasMother—>,25438,02e37316-3a4b-435c-a0a9-aa23e0b7c025,Tommasina Pallavicini
+24173,f8a371f0-f40c-4d69-9450-5e2d626a8247,Caterina Lomellini,—hasMother—>,24284,a4a637bd-b46a-43ac-82e5-3a7eedb8bc72,Eliana Lomellini
+24007,f8a9814e-1af2-4abc-a8ef-bc2e6961e3db,Baldassare Lomellini,—hasMother—>,25870,df6a75ae-5490-49cd-a929-45cb577a7ec0,Maddalena Vivaldi
+24425,f971d052-775d-441e-8a1d-4123c22e8cc1,Giacomo Lomellini,—hasMother—>,24064,902243cf-9780-4d04-8fcc-40478e569ebd,Battina Lomellini
+24337,f9d0b8c6-3e0a-4fc8-b350-6e8e794f6876,Francesco Lomellini,—hasMother—>,23243,3c350e78-65b8-4ccf-9f14-3a04ae4a58a3,Bianca Centurione Cantelli
+25155,f9ebddb5-04c4-4781-b610-9a68b6949485,Teresa Lomellini,—hasMother—>,24054,9c6505a0-696b-415b-ae4b-c12f19fd3a69,Battina Lomellini
+24225,f9f5d5ed-5bbb-4a87-abb6-22fe1e98073c,Colombo Lomellini,—hasMother—>,23491,19bfc93c-3c72-471d-91d1-7f70ebaafd52,Mencia Fieschi
+25123,fa32b289-5b52-4bce-be5d-547c3dea7404,Taddeo Lomellini,—hasMother—>,23190,37e47d1a-72be-42be-bd0f-ca2373011fbb,Battina Cattaneo
+24296,faad4b42-bdb2-4b04-a090-8399b7839b2c,Ettore Lomellini,—hasMother—>,23038,71ef6995-d100-4c94-a69d-77ab81f4e12b,Orietta —
+24247,faae0ad4-f640-4dbe-8ecd-69d1b9da2ccd,Cristoforo Lomellini,—hasMother—>,25326,fa6d489e-b325-448c-9770-c32ef872fdb2,Romanella de Marini
+24806,fb04420b-cbaf-411b-9eb1-55ce9428b3c9,Maria Lomellini,—hasMother—>,23704,6e7cce69-468e-4cb5-9b12-999ca9c9de22,Peretta Grimaldi
+24014,fb400720-228e-4b31-816b-2ebd686b9979,Barbara Lomellini,—hasMother—>,25268,ab1094a8-d2e3-47d4-8e02-e38035704911,Nicoletta de Mari
+24350,fb4b3ae3-d554-4b13-a9b5-5eedcaa0cdd7,Francesco Lomellini,—hasMother—>,23211,4e717e8d-ec0b-4a0b-bfb2-60b292af4ce4,Linò Cattaneo
+24580,fb895856-6716-4ed6-953f-1489cacda0fa,Gironima Lomellini,—hasMother—>,23736,3963b642-9cfd-47f1-9a7a-9a8fa79edfbf,Maria Imperiale
+24215,fb9c8ae9-dd94-4112-9765-92793b2e3b99,Chiara Lomellini,—hasMother—>,23643,53372738-2155-4f11-972f-ade73df97eba,Andreola Grimaldi
+24242,fba89676-f661-4033-becf-91447bee5a07,Cristiano Lomellini,—hasMother—>,25774,6da2f159-0706-49ec-9c33-e61683c32db4,Selvagia Spinola
+24098,fbb34cca-76b9-4931-8053-d5c4bc09e74e,Benedetto Lomellini,—hasMother—>,23243,3c350e78-65b8-4ccf-9f14-3a04ae4a58a3,Bianca Centurione Cantelli
+24572,fbbd9140-beaf-4d96-b883-ef89f2598520,Gironima Lomellini,—hasMother—>,25399,faffebcb-1164-43b0-8c1b-4943cfc1e81b,Maria Odone
+24615,fbcaea76-92bf-4d8f-b627-acb8a1eaf03b,Gregorio Lomellini,—hasMother—>,23665,49ef9868-5ddc-4fef-a64f-4031348ce4c6,Eliana Grimaldi
+24819,fc8ff1c2-207d-4f13-81ff-411d339f5538,Maria Lomellini,—hasMother—>,25384,030b42d1-3b50-4830-94da-5d146ba85eed,Francisca Negrone
+25142,fd0267e9-fb60-4aad-b892-74157b6743df,Teodora Lomellini,—hasMother—>,24084,bc879450-eb65-4fe2-a817-75278ebdd8f0,Benedetta Lomellini
+24862,fd13dbf9-f11d-4185-a1f8-f4d797eb872d,Napoleone Lomellini,—hasMother—>,25268,ab1094a8-d2e3-47d4-8e02-e38035704911,Nicoletta de Mari
+24922,fd40fe58-4dc6-4f00-be9d-cf036db00982,Odoardo Lomellini,—hasMother—>,23298,77700862-e18d-4012-a896-951fa291b9fc,Selvagia Cicala
+25197,fda5e30f-5cc2-4be1-8186-b16378885319,Vassallo Lomellini,—hasMother—>,23218,b20761a6-e68c-4a3a-9a26-d2c9a29e3fd8,Maddalena Cattaneo
+24464,fdada539-e6e0-4234-adba-ddfc45afc981,Giovanna Lomellini,—hasMother—>,25655,13288196-f3e2-4ddb-ae3d-babd1e6ea971,Dorotea Spinola
+25165,fde55f92-a9b1-4a17-af12-0367cd084d00,Todeschina Lomellini,—hasMother—>,23174,1ee4d293-f09f-4f49-a3c2-b49a484dac2a,Maria del Carretto
+24774,fe0d3d8a-79db-4770-973e-634061b9ebdf,Maria Lomellini,—hasMother—>,25313,8a45368e-50b0-4947-ad44-1a9286241b84,Lionetta de Marini Pessagno
+23784,fe3584da-0ccb-4881-a25d-94ef1650fd02,Lodisio Ittaliano,—hasMother—>,23476,b302736c-76f9-4bb9-98af-2ef516eea0cd,Francisca Fieschi
+23991,fe377dc2-4a59-43ba-9fc7-6b63563ce558,Argenta Lomellini,—hasMother—>,25736,76fd97e1-3587-4c0a-811a-ad55de57cf29,Maria Spinola
+25164,fe5e9324-bbbe-4248-a060-8aea654b20b1,Tobietta Lomellini,—hasMother—>,24731,1d9ddf68-2987-4dfb-a419-1f1a442c3d64,Luigia Lomellini
+24616,fe812b86-8110-42b9-870f-758b06ec3609,Grimalda Lomellini,—hasMother—>,22999,5e5a977e-9aef-4cd2-b697-556cbb136aa8,Argenta —
+24996,fe87270e-977f-40b0-b45a-c16739ecd070,Pellina Lomellini,—hasMother—>,23395,3f38c4cd-f982-42a1-bbd2-6f511c2e228c,Gironima Doria
+24535,fea1cd86-a646-41a4-a69d-01b1ba1c4f8f,Giovanni Lomellini,—hasMother—>,23213,49c4575f-e408-4f41-8c83-a240c7ba8089,Lombarda Cattaneo
+23952,fef6bd25-2cfe-4ca3-8433-d8a40134c264,Anna Maria Lomellini,—hasMother—>,24054,9c6505a0-696b-415b-ae4b-c12f19fd3a69,Battina Lomellini
+23884,fefe1ce2-858a-4e47-8fb4-64444ff1642d,Agostino Lomellini,—hasMother—>,25293,19a2f7b3-6ad6-4bf4-8f7d-0beb7f1fabf3,Caterina de Marini
+24360,ff3df7b5-82b1-4e0d-ac2f-06778f99e622,Francisca Lomellini,—hasMother—>,25544,04dbe16b-76fd-48f5-9212-4f48efe6eba1,Maria Salvago Nepitelli
+25173,ff565e1a-4079-44ae-be6c-97bf0d5ea5e6,Tommaso Lomellini,—hasMother—>,25680,31af271d-9797-4a67-94ec-54c4d823f77c,Ginevra Spinola
+24962,ff70b892-918c-4889-a815-b87895e89dfe,Paolo Lomellini,—hasMother—>,23993,087b4932-fed1-4ef7-9500-0c8182edd1cc,Argenta Lomellini
+24623,ff81cf4d-c1fc-4835-9668-05815e7ff564,Illario Lomellini,—hasMother—>,23016,2e85f439-99d1-4d3a-b90b-e518519ee836,Francisca —
+24617,ff915d84-4842-4577-9aeb-cf0c02a1db11,Grimaldo Lomellini,—hasMother—>,23021,14c007a3-fd30-40cc-b1dd-174dd9d7aef8,Isabella —
+24473,ffcd0c4e-5e34-475f-92c4-5cc29e718497,Giovanni Battista Lomellini,—hasMother—>,24571,4f7a073b-5551-4233-9f01-5ddd8991e3f2,Gironima Lomellini
+25113,ffdc385f-8980-490b-968a-3ff940574328,Stefano Lomellini,—hasMother—>,23700,ecfde847-a327-48ab-bc8e-cd982b22fd80,Nicoletta Grimaldi Cebà
+23943,ffe7b54d-3e00-44e8-95c3-fab5aade6774,Angelo Lomellini,—hasMother—>,23736,3963b642-9cfd-47f1-9a7a-9a8fa79edfbf,Maria Imperiale

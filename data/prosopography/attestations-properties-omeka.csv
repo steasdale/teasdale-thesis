@@ -1,0 +1,67 @@
+sourceID,sourceName,edge,targetID,targetName,targetReference,targetDate
+386ef920-92fa-4c25-b678-24da64b45a68,Giovanni Battista Lomellini q. Tobia,—inDocument—>,c748ccd0-b68a-48c1-8ed1-fd1990f273f3,"Giovanni Battista Foglietta, filza 3, nr. 142",,
+b18cef94-49b2-41c7-950e-0e5543c9e759,Francesco Cattaneo,—inDocument—>,c748ccd0-b68a-48c1-8ed1-fd1990f273f3,"Giovanni Battista Foglietta, filza 3, nr. 142",,
+2a3cdd24-26c5-481d-85f6-b367634769c5,Battista Lomellini q. Giorgio,—inDocument—>,d19cd861-8622-4a76-98ce-3b7318e3c19f,De viris illustribus liber nunc primum ex ms. cod in lucem erutus,p. 42,
+4eecc388-70b2-4ec3-9c87-871e05336403,Pier Battista Lomellini q. Niccolò,—inDocument—>,53567522-3555-45d8-81c5-64366fa21aaa,"Ambrogio de Fornari Compiano, filza 1, item dated 1518-03-17",,
+4d300555-79dc-4b55-84df-fa4cfdcdd2ca,Giovanni Battista Doria ,—inDocument—>,d2c6472f-2497-4ee5-8e11-6a2b89ab4245,"Agostino de Ferrari, filza 1, item dated 1501-10-17",,
+68994ad6-961c-459d-afa2-2767366ed84a,Maria Lomellini q. Ambrogio,—inDocument—>,d2c6472f-2497-4ee5-8e11-6a2b89ab4245,"Agostino de Ferrari, filza 1, item dated 1501-10-17",,
+952aa3a2-c7cd-4897-bc29-6e62d6b3f53d,Domenico Lercari q. Simone,—inDocument—>,d2c6472f-2497-4ee5-8e11-6a2b89ab4245,"Agostino de Ferrari, filza 1, item dated 1501-10-17",,
+a9e2cf39-b107-4aa0-9471-7099824c72e5,Girolamo Doria q. Agostino,—inDocument—>,d2c6472f-2497-4ee5-8e11-6a2b89ab4245,"Agostino de Ferrari, filza 1, item dated 1501-10-17",,
+5fbc2f69-94d3-4cd2-b1b1-ff6f58d11f9f,Giacomo Lomellini q. Filippo,—inDocument—>,d2c6472f-2497-4ee5-8e11-6a2b89ab4245,"Agostino de Ferrari, filza 1, item dated 1501-10-17",,
+e2df4018-7bff-4757-a66b-7f88e837f5d9,Filippo Lomellini q. Ambrogio,—inDocument—>,d2c6472f-2497-4ee5-8e11-6a2b89ab4245,"Agostino de Ferrari, filza 1, item dated 1501-10-17",,
+64d1de39-0034-40b8-b4fa-e23b50749a27,Ambrogio Lomellini q. Baldassare,—inDocument—>,d2c6472f-2497-4ee5-8e11-6a2b89ab4245,"Agostino de Ferrari, filza 1, item dated 1501-10-17",,
+a6b945e0-08f1-4367-a1f9-d75e7ec68e21,Isaaco — q. Davide,—atPlace—>,e631966e-c006-4b4f-8223-e001bfc93fbf,Genoa,,1518
+71f8b20f-a914-4941-9f81-8c8b652db986,Bartolommeo Spinola ,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+5e29aa7a-66be-4a9a-a6e1-01a0037e165f,Enrico Camilla ,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+42232586-1b9c-4852-83a4-47a5addf0ab5,Gironima Spinola q. Bartolomeo,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+2b24bf29-4bd0-46fa-8f69-ddbb7262ae34,Domenico Camilla q. Enrico,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+27958a94-436f-4d83-bd94-793985fb620a,Bigotta —,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+f35202af-c960-4537-89bc-03c677dac832,Tedisio Camilla,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+ba243a8a-b282-48e3-86d6-f90fdb7ae1f5,Maria Camilla q. Enrico,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+5ab9820e-c68f-45ed-bdf8-34f86708c2db,Battista Grimaldi Oliva,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+dc5209e7-6741-47cf-985b-7ed3850ae9b4,Caterina Camilla q. Domenico,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+07f148bc-5081-461f-bf45-21c9fc60c096,Pelotta Camilla q. Domenico,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+5c4e40d2-eea8-4ac5-b2f1-f683995de2bf,Niccolò Camilla q. Domenico,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+f02ab2bd-48d3-4264-a71b-a608b4a49d0f,Enrico Camilla q. Domenico,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+70e5174f-e17a-4acf-8821-37a4aecd022e,Maria — ,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+bf253b68-f3af-4cd8-9723-fe00160d36c2,Benedetto Ittaliano,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+1157a965-eae5-4833-964b-4b89411bd4b5,Giacomo Ittaliano q. Benedetto,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+6b8ebdf7-0c6a-4544-8b64-91cb19764d62,Agostino Camilla q. Tedisio,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+f3fe8d3f-09e6-429f-afe8-7f7b6d5291bb,Giovanni Camilla q. Tedisio,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+a63b3575-744c-4efd-b420-4448580c70c7,Giovanni Battista Gentile q. Paolo,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+5bf82326-efb7-4a96-9f3e-c98d6a87db95,Paolo Gentile,—inDocument—>,7a58408a-ff07-48d6-9d03-f33e3fce7937,"Ambrogio de Fornari Compiano, filza 1, nr. 175",,
+5ab9820e-c68f-45ed-bdf8-34f86708c2db,Battista Grimaldi Oliva,—inDocument—>,b031db1e-28fd-45a0-839b-00c5450c2c6d,"Ambrogio de Fornari Compiano, filza 1, nr. 257",,
+d3607b25-bc05-402a-a98d-4627db4f8c6c,Benedetto Fieschi ,—inDocument—>,6d9ae6ea-4fe9-4801-9298-786fceb7e9a3,"Ambrogio Fasciolo, registro 1, volume ---, 1375-1406, fol. 161r",,
+91d80bfd-6f1e-4dd8-ab53-93a6b57fb00b,Maddalena —,—inDocument—>,6d9ae6ea-4fe9-4801-9298-786fceb7e9a3,"Ambrogio Fasciolo, registro 1, volume ---, 1375-1406, fol. 161r",,
+f7257240-5435-4736-9c4f-ea2667633dda,Giacomo de Camulio,—inDocument—>,6d9ae6ea-4fe9-4801-9298-786fceb7e9a3,"Ambrogio Fasciolo, registro 1, volume ---, 1375-1406, fol. 161r",,
+5e811c9a-7888-4446-b6ce-066bef31b8a9,Clara Ittaliano,—inDocument—>,26b92f35-8c9f-4d80-af5c-8b9c6c445ede,"Andrea de Cairo, filza 2, nr. 41",,
+54a1c67f-d2db-4a82-bd86-c8705a20c0ae,Marta —,—inDocument—>,26b92f35-8c9f-4d80-af5c-8b9c6c445ede,"Andrea de Cairo, filza 2, nr. 41",,
+5e811c9a-7888-4446-b6ce-066bef31b8a9,Clara Ittaliano,—atPlace—>,609bb8a8-91b2-4af1-9796-949f2ff300f3,Badia di Sant'Andrea,,1444-03-31
+54a1c67f-d2db-4a82-bd86-c8705a20c0ae,Marta —,—atPlace—>,609bb8a8-91b2-4af1-9796-949f2ff300f3,Badia di Sant'Andrea,,1444-03-31
+1d03e447-0854-4dc8-9d01-031a67a05a0b,Pietro de Perrotta,—inDocument—>,26b92f35-8c9f-4d80-af5c-8b9c6c445ede,"Andrea de Cairo, filza 2, nr. 41",,
+95d3708f-13d4-40b9-93e8-263766e5eec2,Tommaso de Caverio,—inDocument—>,26b92f35-8c9f-4d80-af5c-8b9c6c445ede,"Andrea de Cairo, filza 2, nr. 41",,
+76d12fc8-6259-4914-b29d-1a08f0f36b37,Filippo de Cabella,—inDocument—>,26b92f35-8c9f-4d80-af5c-8b9c6c445ede,"Andrea de Cairo, filza 2, nr. 41",,
+1d03e447-0854-4dc8-9d01-031a67a05a0b,Pietro de Perrotta,—atPlace—>,609bb8a8-91b2-4af1-9796-949f2ff300f3,Badia di Sant'Andrea,,1444-03-31
+95d3708f-13d4-40b9-93e8-263766e5eec2,Tommaso de Caverio,—atPlace—>,609bb8a8-91b2-4af1-9796-949f2ff300f3,Badia di Sant'Andrea,,1444-03-31
+76d12fc8-6259-4914-b29d-1a08f0f36b37,Filippo de Cabella,—atPlace—>,609bb8a8-91b2-4af1-9796-949f2ff300f3,Badia di Sant'Andrea,,1444-03-31
+3463ec3a-46e2-4e82-b7bc-81c81243fc63,Francesco de Dallo,—inDocument—>,0dc2eb30-f682-470c-a1be-9d6534f8ffd8,"Andrea de Cairo, filza 3, series I, nr. 22",,
+9d95e6f7-1d6b-4750-8f97-c773c23530c8,Antonio de Dallo,—inDocument—>,0dc2eb30-f682-470c-a1be-9d6534f8ffd8,"Andrea de Cairo, filza 3, series I, nr. 22",,
+4102608c-786e-474e-aae9-88b8c8385f2c,Cita —,—inDocument—>,0dc2eb30-f682-470c-a1be-9d6534f8ffd8,"Andrea de Cairo, filza 3, series I, nr. 22",,
+b167b2a6-43ef-452a-ba0c-f70ed716ada8,Matteo —,—inDocument—>,0dc2eb30-f682-470c-a1be-9d6534f8ffd8,"Andrea de Cairo, filza 3, series I, nr. 22",,
+0b508650-d009-4392-9fd9-16ff3c3caa74,Antonio —,—inDocument—>,0dc2eb30-f682-470c-a1be-9d6534f8ffd8,"Andrea de Cairo, filza 3, series I, nr. 22",,
+b1e6c281-4dba-4091-a5e4-a487ec882748,Battista Carleto,—inDocument—>,0dc2eb30-f682-470c-a1be-9d6534f8ffd8,"Andrea de Cairo, filza 3, series I, nr. 22",,
+e4632609-64cd-4555-8ca8-1f0d54ec9676,Giovanni de Delfino da Passano,—inDocument—>,0dc2eb30-f682-470c-a1be-9d6534f8ffd8,"Andrea de Cairo, filza 3, series I, nr. 22",,
+3463ec3a-46e2-4e82-b7bc-81c81243fc63,Francesco de Dallo,—atPlace—>,e631966e-c006-4b4f-8223-e001bfc93fbf,Genoa,,1446-01-25
+9d95e6f7-1d6b-4750-8f97-c773c23530c8,Antonio de Dallo,—atPlace—>,e631966e-c006-4b4f-8223-e001bfc93fbf,Genoa,,1446-01-25
+4102608c-786e-474e-aae9-88b8c8385f2c,Cita —,—atPlace—>,e631966e-c006-4b4f-8223-e001bfc93fbf,Genoa,,1446-01-25
+b167b2a6-43ef-452a-ba0c-f70ed716ada8,Matteo —,—atPlace—>,e631966e-c006-4b4f-8223-e001bfc93fbf,Genoa,,1446-01-25
+0b508650-d009-4392-9fd9-16ff3c3caa74,Antonio —,—atPlace—>,e631966e-c006-4b4f-8223-e001bfc93fbf,Genoa,,1446-01-25
+b1e6c281-4dba-4091-a5e4-a487ec882748,Battista Carleto,—atPlace—>,e631966e-c006-4b4f-8223-e001bfc93fbf,Genoa,,1446-01-25
+e4632609-64cd-4555-8ca8-1f0d54ec9676,Giovanni de Delfino da Passano,—atPlace—>,e631966e-c006-4b4f-8223-e001bfc93fbf,Genoa,,1446-01-25
+356cfe52-2abf-4ae9-a01a-878ff9945a29,Gottardo Stella,—inDocument—>,6cd58a83-e6bb-4d19-a373-4d869289e582,"Andrea de Cairo, filza 4, nr. 163",,
+f2a83931-a87b-4195-bb96-68662b02f072,Anna —,—inDocument—>,6cd58a83-e6bb-4d19-a373-4d869289e582,"Andrea de Cairo, filza 4, nr. 163",,
+eb95753d-35c6-4ee5-b655-b463f0ecf58e,Giorgio Veglio,—inDocument—>,6cd58a83-e6bb-4d19-a373-4d869289e582,"Andrea de Cairo, filza 4, nr. 163",,
+356cfe52-2abf-4ae9-a01a-878ff9945a29,Gottardo Stella,—atPlace—>,e631966e-c006-4b4f-8223-e001bfc93fbf,Genoa,,1448-07-11
+f2a83931-a87b-4195-bb96-68662b02f072,Anna —,—atPlace—>,e631966e-c006-4b4f-8223-e001bfc93fbf,Genoa,,1448-07-11
+eb95753d-35c6-4ee5-b655-b463f0ecf58e,Giorgio Veglio,—atPlace—>,e631966e-c006-4b4f-8223-e001bfc93fbf,Genoa,,1448-07-11
+eb95753d-35c6-4ee5-b655-b463f0ecf58e,Giorgio Veglio,—atPlace—>,faf0a8ef-e700-4caf-bf55-421ccba2f3a8,Ibiza,,
