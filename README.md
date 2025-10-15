@@ -2,6 +2,10 @@
 
 This repository contains data, text, and images for my PhD thesis.
 
+The official PDF version of my thesis is available from the University of Toronto at the following link:
+
+https://utoronto.scholaris.ca/items/d03d5ae9-7a01-476f-854c-1db7cad9ac56
+
 The repository is arranged into the following folders.
 
 ## chapters
@@ -34,8 +38,3 @@ This folder contains the RDF files for [CIDOC-CRM](https://cidoc-crm.org/) 7.1.2
 ## templates
 
 This folder contains templates in JSON format for classes used to model the data in Omeka-S. The classes use elements and properties from CIDOC-CRM and Schema.org ontologies.
-
-
-The official PDF version of my thesis is available from the University of Toronto at the following link:
-
-https://utoronto.scholaris.ca/items/d03d5ae9-7a01-476f-854c-1db7cad9ac56
