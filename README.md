@@ -2,6 +2,8 @@
 
 This repository contains data, text, and images for my PhD thesis.
 
+[![DOI](https://zenodo.org/badge/374439549.svg)](https://doi.org/10.5281/zenodo.17362723)
+
 The official PDF version of my thesis is available from the University of Toronto at the following link:
 
 https://utoronto.scholaris.ca/items/d03d5ae9-7a01-476f-854c-1db7cad9ac56
