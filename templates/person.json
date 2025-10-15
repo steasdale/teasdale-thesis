@@ -1,0 +1,982 @@
+{
+    "o:label": "Persons",
+    "o:resource_template_property": [
+        {
+            "o:alternate_label": "has name",
+            "o:alternate_comment": "This property associates a historical person with an agreed upon normalized name for that person.",
+            "o:is_required": true,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has name",
+                    "o:alternate_comment": "This property associates a historical person with an agreed upon normalized name for that person.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "1",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "1",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P1_is_identified_by",
+            "label": "is identified by"
+        },
+        {
+            "o:alternate_label": "has description",
+            "o:alternate_comment": "This property associates a person with a brief description of the person created for the database.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has description",
+                    "o:alternate_comment": "This property associates a person with a brief description of the person created for the database.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P190_has_symbolic_content",
+            "label": "has symbolic content"
+        },
+        {
+            "o:alternate_label": "has name from source",
+            "o:alternate_comment": "This property associates a person with a name used to identify that person in source material.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has name from source",
+                    "o:alternate_comment": "This property associates a person with a name used to identify that person in source material.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://schema.org/",
+            "vocabulary_label": "Schema.org",
+            "local_name": "alternateName",
+            "label": "alternateName"
+        },
+        {
+            "o:alternate_label": "has patrilineal name",
+            "o:alternate_comment": "This property associates a person with a named used to identify their patrilineage up to three generations.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has patrilineal name",
+                    "o:alternate_comment": "This property associates a person with a named used to identify their patrilineage up to three generations.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "1",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://schema.org/",
+            "vocabulary_label": "Schema.org",
+            "local_name": "additionalName",
+            "label": "additionalName"
+        },
+        {
+            "o:alternate_label": "has gender",
+            "o:alternate_comment": "This property associates a person to the assumed gender of that person.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has gender",
+                    "o:alternate_comment": "This property associates a person to the assumed gender of that person.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "1",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "customvocab:2",
+                            "label": "sex"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "customvocab:2",
+                    "label": "sex"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://schema.org/",
+            "vocabulary_label": "Schema.org",
+            "local_name": "gender",
+            "label": "gender"
+        },
+        {
+            "o:alternate_label": "has loconym",
+            "o:alternate_comment": "This property connects a person with a place represented as a loconym in their surname, which might indicate a place of current or former habitation.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has loconym",
+                    "o:alternate_comment": "This property connects a person with a place represented as a loconym in their surname, which might indicate a place of current or former habitation.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P53_has_former_or_current_location",
+            "label": "has former or current location"
+        },
+        {
+            "o:alternate_label": "has regional provenance",
+            "o:alternate_comment": "This property connects a person with a regional provenance attributed to that person in a contract.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has regional provenance",
+                    "o:alternate_comment": "This property connects a person with a regional provenance attributed to that person in a contract.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://schema.org/",
+            "vocabulary_label": "Schema.org",
+            "local_name": "nationality",
+            "label": "nationality"
+        },
+        {
+            "o:alternate_label": "has social category",
+            "o:alternate_comment": "This property connects a person with an attribute that indicates their social category.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has social category",
+                    "o:alternate_comment": "This property connects a person with an attribute that indicates their social category.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "customvocab:1",
+                            "label": "social category"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "customvocab:1",
+                    "label": "social category"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P140i_was_attributed_by",
+            "label": "was attributed by"
+        },
+        {
+            "o:alternate_label": "has occupation",
+            "o:alternate_comment": "This property connects a person with an occupation held by that person.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has occupation",
+                    "o:alternate_comment": "This property connects a person with an occupation held by that person.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://schema.org/",
+            "vocabulary_label": "Schema.org",
+            "local_name": "hasOccupation",
+            "label": "hasOccupation"
+        },
+        {
+            "o:alternate_label": "has earliest known date of activity",
+            "o:alternate_comment": "This property associates a person with their earliest known date of activity.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has earliest known date of activity",
+                    "o:alternate_comment": "This property associates a person with their earliest known date of activity.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "1",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "numeric:timestamp",
+                            "label": "Timestamp"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "numeric:timestamp",
+                    "label": "Timestamp"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://schema.org/",
+            "vocabulary_label": "Schema.org",
+            "local_name": "startDate",
+            "label": "startDate"
+        },
+        {
+            "o:alternate_label": "has latest known date of activity",
+            "o:alternate_comment": "This property associates a person with their latest known date of activity.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has latest known date of activity",
+                    "o:alternate_comment": "This property associates a person with their latest known date of activity.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "1",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "numeric:timestamp",
+                            "label": "Timestamp"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "numeric:timestamp",
+                    "label": "Timestamp"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://schema.org/",
+            "vocabulary_label": "Schema.org",
+            "local_name": "endDate",
+            "label": "endDate"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": "This property connects a person with another person named as their biological parent.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "",
+                    "o:alternate_comment": "This property connects a person with another person named as their biological parent.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "2",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P152_has_parent",
+            "label": "has parent"
+        },
+        {
+            "o:alternate_label": "has spouse",
+            "o:alternate_comment": "Select the person with whom this person is married.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has spouse",
+                    "o:alternate_comment": "Select the person with whom this person is married.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://schema.org/",
+            "vocabulary_label": "Schema.org",
+            "local_name": "spouse",
+            "label": "spouse"
+        },
+        {
+            "o:alternate_label": "has child",
+            "o:alternate_comment": "Select the biological child of the person.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has child",
+                    "o:alternate_comment": "Select the biological child of the person.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "resource:item",
+                            "label": "Item"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://schema.org/",
+            "vocabulary_label": "Schema.org",
+            "local_name": "children",
+            "label": "children"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "",
+                    "o:alternate_comment": "",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "0",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "uri",
+                            "label": "URI"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "uri",
+                    "label": "URI"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.w3.org/2004/02/skos/core#",
+            "vocabulary_label": "Simple Knowledge Organization System",
+            "local_name": "exactMatch",
+            "label": "has exact match"
+        },
+        {
+            "o:alternate_label": "has unique identifier",
+            "o:alternate_comment": "This property associates a person with a unique UUID-4 identifer.",
+            "o:is_required": true,
+            "o:is_private": true,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has unique identifier",
+                    "o:alternate_comment": "This property associates a person with a unique UUID-4 identifer.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "1",
+                    "o:is_private": "1",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "1",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P48_has_preferred_identifier",
+            "label": "has preferred identifier"
+        },
+        {
+            "o:alternate_label": "has note",
+            "o:alternate_comment": "This property associates a person with a note concerning them in an historical context.",
+            "o:is_required": false,
+            "o:is_private": true,
+            "o:default_lang": null,
+            "o:data": [
+                {
+                    "input_control": "",
+                    "default_value": "",
+                    "automatic_value": "",
+                    "split_separator": "",
+                    "resource_query": "",
+                    "settings": "",
+                    "o:alternate_label": "has note",
+                    "o:alternate_comment": "This property associates a person with a note concerning them in an historical context.",
+                    "is-title-property": "0",
+                    "is-description-property": "0",
+                    "o:is_required": "0",
+                    "o:is_private": "1",
+                    "o:default_lang": "",
+                    "min_length": "",
+                    "max_length": "",
+                    "min_values": "",
+                    "max_values": "",
+                    "unique_value": "0",
+                    "locked_value": "0",
+                    "property_read_only": "0",
+                    "quick_new_resource": "",
+                    "autocomplete": "",
+                    "value_languages": [],
+                    "use_language": "",
+                    "custom_vocab_open": "0",
+                    "value_suggest_keep_original_label": "",
+                    "value_suggest_require_uri": "",
+                    "value_annotations_template": "",
+                    "data_types": [
+                        {
+                            "name": "literal",
+                            "label": "Text"
+                        }
+                    ]
+                }
+            ],
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+            "vocabulary_label": "CIDOC-CRM 7.1.2",
+            "local_name": "P3_has_note",
+            "label": "has note"
+        }
+    ],
+    "o:resource_class": {
+        "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+        "vocabulary_label": "CIDOC-CRM 7.1.2",
+        "local_name": "E21_Person",
+        "label": "Person"
+    },
+    "o:title_property": {
+        "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+        "vocabulary_label": "CIDOC-CRM 7.1.2",
+        "local_name": "P1_is_identified_by",
+        "label": "is identified by"
+    },
+    "o:description_property": {
+        "vocabulary_namespace_uri": "http://www.cidoc-crm.org/cidoc-crm/",
+        "vocabulary_label": "CIDOC-CRM 7.1.2",
+        "local_name": "P190_has_symbolic_content",
+        "label": "has symbolic content"
+    },
+    "o:data": {
+        "use_for_resources": [
+            "items"
+        ],
+        "require_resource_class": "yes",
+        "closed_class_list": "0",
+        "closed_property_list": "0",
+        "quick_new_resource": "yes",
+        "autocomplete": "no",
+        "value_languages": [],
+        "default_language": "",
+        "no_language": "0",
+        "value_suggest_keep_original_label": "0",
+        "value_suggest_require_uri": "0",
+        "automatic_values": "",
+        "autofillers": [],
+        "value_annotations_template": "",
+        "groups": [],
+        "subject_values_order": [],
+        "settings": "",
+        "suggested_resource_class_ids": {
+            "cidoc:E21_Person": 1403
+        }
+    }
+}
