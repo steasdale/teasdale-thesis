@@ -12,11 +12,11 @@ The repository is arranged into the following folders.
 
 ## chapters
 
-This folder contains the content of my thesis, organized into chapters and sections written in Markdown format. Markdown was deliberately chosen to separate content from presentation, ensuring that the text remains structurally clear, portable, and easily convertible into multiple publication formats. By focusing on semantic rather than visual markup, this approach enhances version control, readability, and long-term preservation of the research content.
+This folder contains the content of my thesis, organized into chapters and sections written in Markdown format. Markdown was deliberately chosen to separate content from presentation. This ensures that the text remains structurally clear and easily convertible into multiple publication formats. By focusing on semantic rather than visual markup, this approach enhances and long-term preservation of the research content.
 
 ## data
 
-This folder contains CSV data files derived from the analyses used in my thesis. The dataset was created through a structured, multi-stage methodology designed to ensure transparency, interoperability, and reproducibility of results and ensure alignment with FAIR (Findable, Accessible, Interoperable, and Reusable) data principles.
+This folder contains CSV data files derived from the analyses used in my thesis. The dataset was created through a structured, multi-stage methodology designed to ensure interoperability and reproducibility of results, as well as alignment with FAIR (Findable, Accessible, Interoperable, and Reusable) data principles.
 
 1. A corpus of over two thousand notarial contracts related to the economies of slavery was identified and systematically summarized to capture key transactional details.
 2. A representative subset of these contracts was digitized as high resolution JPEG files for future textual and quantitative analysis.
